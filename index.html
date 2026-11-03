@@ -1,0 +1,228 @@
+&lt;!DOCTYPE html&gt;
+&lt;html lang="fr"&gt;
+&lt;head&gt;
+  &lt;meta charset="UTF-8"&gt;
+  &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+  &lt;title&gt;Tableaux &amp; Méthodes&lt;/title&gt;
+  &lt;style&gt;
+    :root {
+      --primary: #2563eb;
+      --primary-dark: #1d4ed8;
+      --secondary: #f59e0b;
+      --text: #1e293b;
+      --text-light: #64748b;
+      --bg: #ffffff;
+      --bg-light: #f8fafc;
+      --bg-card: #ffffff;
+      --border: #e2e8f0;
+      --shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+      --radius: 12px;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      color: var(--text);
+      line-height: 1.6;
+      background: var(--bg-light);
+    }
+    .container { max-width: 1100px; margin: 0 auto; padding: 0 1.5rem; }
+
+    /* Header */
+    header {
+      background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+      color: white;
+      padding: 2rem 0;
+      text-align: center;
+    }
+    header h1 { font-size: 2.5rem; margin-bottom: 0.5rem; }
+    header p { font-size: 1.15rem; opacity: 0.9; max-width: 600px; margin: 0 auto; }
+
+    /* Navigation */
+    nav { background: white; padding: 1rem 0; box-shadow: var(--shadow); position: sticky; top: 0; z-index: 10; }
+    nav ul { list-style: none; display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; }
+    nav a { text-decoration: none; color: var(--text); font-weight: 600; transition: color 0.2s; }
+    nav a:hover { color: var(--primary); }
+
+    /* Sections */
+    section { padding: 3rem 0; }
+    h2 { font-size: 2rem; text-align: center; margin-bottom: 2rem; color: var(--primary); }
+
+    /* Services */
+    .services-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; }
+    .service-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.5rem;
+      box-shadow: var(--shadow);
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .service-card:hover { transform: translateY(-4px); box-shadow: 0 8px 25px -5px rgb(0 0 0 / 0.15); }
+    .service-card h3 { color: var(--primary); margin-bottom: 0.5rem; font-size: 1.2rem; }
+    .service-card .price { font-size: 1.5rem; color: var(--secondary); font-weight: 700; margin: 0.5rem 0; }
+
+    /* Process */
+    .process-steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem; text-align: center; }
+    .step { padding: 1.5rem; }
+    .step-number {
+      width: 50px; height: 50px; border-radius: 50%;
+      background: var(--primary); color: white; font-size: 1.5rem;
+      font-weight: 700; display: flex; align-items: center; justify-content: center;
+      margin: 0 auto 1rem;
+    }
+
+    /* Compatible */
+    .compat { text-align: center; padding: 2rem; background: var(--bg-card); border-radius: var(--radius); border: 1px solid var(--border); }
+    .compat-badges { display: flex; justify-content: center; gap: 1.5rem; margin-top: 1rem; flex-wrap: wrap; }
+    .compat-badge {
+      background: var(--bg-light); border: 1px solid var(--border);
+      padding: 0.5rem 1rem; border-radius: 8px; font-weight: 600;
+    }
+
+    /* Contact */
+    .contact { text-align: center; }
+    .contact a {
+      display: inline-block; background: var(--primary); color: white;
+      padding: 1rem 2rem; border-radius: var(--radius); text-decoration: none;
+      font-size: 1.1rem; font-weight: 600; transition: background 0.2s;
+    }
+    .contact a:hover { background: var(--primary-dark); }
+
+    /* Footer */
+    footer {
+      text-align: center; padding: 2rem 0; color: var(--text-light);
+      border-top: 1px solid var(--border); font-size: 0.9rem;
+    }
+
+    /* Responsive */
+    @media (max-width: 640px) {
+      header h1 { font-size: 1.8rem; }
+      header p { font-size: 1rem; }
+      h2 { font-size: 1.5rem; }
+      nav ul { gap: 1rem; }
+    }
+  &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+  &lt;header&gt;
+    &lt;div class="container"&gt;
+      &lt;h1&gt;Tableaux &amp; Méthodes&lt;/h1&gt;
+      &lt;p&gt;Tableurs pratiques et personnalisés pour artisans, petites entreprises, équipes de maintenance et associations sportives.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/header&gt;
+
+  &lt;nav&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href="#services"&gt;Services&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="#tarifs"&gt;Tarifs&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="#processus"&gt;Processus&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="#compatibilite"&gt;Compatibilité&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="#contact"&gt;Contact&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/nav&gt;
+
+  &lt;section id="services" class="container"&gt;
+    &lt;h2&gt;Nos Services&lt;/h2&gt;
+    &lt;div class="services-grid"&gt;
+      &lt;div class="service-card"&gt;
+        &lt;h3&gt;Tableur Simple&lt;/h3&gt;
+        &lt;p&gt;Idéal pour le suivi quotidien, la liste de tâches, ou la gestion de base de données.&lt;/p&gt;
+        &lt;div class="price"&gt;25 €&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="service-card"&gt;
+        &lt;h3&gt;Tableur de Stocks&lt;/h3&gt;
+        &lt;p&gt;Suivi des entrées et sorties, alertes de stock bas, vue synthétique.&lt;/p&gt;
+        &lt;div class="price"&gt;35 €&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="service-card"&gt;
+        &lt;h3&gt;Suivi de Maintenance&lt;/h3&gt;
+        &lt;p&gt;Planification, historique des interventions, rappels automatiques.&lt;/p&gt;
+        &lt;div class="price"&gt;45 €&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="service-card"&gt;
+        &lt;h3&gt;Registre d'Interventions&lt;/h3&gt;
+        &lt;p&gt;Enregistrement structuré des interventions, responsable, date, nature du travail.&lt;/p&gt;
+        &lt;div class="price"&gt;45 €&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="service-card"&gt;
+        &lt;h3&gt;Tableau de Bord Personnalisé&lt;/h3&gt;
+        &lt;p&gt;Indicateurs clés, graphiques, pilotage par la donnée adapté à votre activité.&lt;/p&gt;
+        &lt;div class="price"&gt;dès 60 €&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;section id="tarifs" class="container" style="background: white; border-radius: var(--radius); border: 1px solid var(--border); text-align: center;"&gt;
+    &lt;h2&gt;Tarifs&lt;/h2&gt;
+    &lt;p style="font-size: 1.1rem; max-width: 700px; margin: 0 auto 1.5rem;"&gt;
+      Chaque livrable est adapté aux besoins précis de chaque client.
+      Tous les tableurs incluent un guide d'utilisation court.
+    &lt;/p&gt;
+    &lt;div class="services-grid" style="max-width: 800px; margin: 0 auto;"&gt;
+      &lt;div class="service-card"&gt;&lt;h3&gt;Tableur Simple&lt;/h3&gt;&lt;div class="price"&gt;25 €&lt;/div&gt;&lt;/div&gt;
+      &lt;div class="service-card"&gt;&lt;h3&gt;Tableur de Stocks&lt;/h3&gt;&lt;div class="price"&gt;35 €&lt;/div&gt;&lt;/div&gt;
+      &lt;div class="service-card"&gt;&lt;h3&gt;Suivi Maintenance&lt;/h3&gt;&lt;div class="price"&gt;45 €&lt;/div&gt;&lt;/div&gt;
+      &lt;div class="service-card"&gt;&lt;h3&gt;Registre Interventions&lt;/h3&gt;&lt;div class="price"&gt;45 €&lt;/div&gt;&lt;/div&gt;
+      &lt;div class="service-card"&gt;&lt;h3&gt;Tableau de Bord&lt;/h3&gt;&lt;div class="price"&gt;dès 60 €&lt;/div&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;section id="processus" class="container"&gt;
+    &lt;h2&gt;Notre Processus&lt;/h2&gt;
+    &lt;div class="process-steps"&gt;
+      &lt;div class="step"&gt;
+        &lt;div class="step-number"&gt;1&lt;/div&gt;
+        &lt;h3&gt;Échange&lt;/h3&gt;
+        &lt;p&gt;Nous discutons de vos besoins et du contexte d'utilisation.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class="step"&gt;
+        &lt;div class="step-number"&gt;2&lt;/div&gt;
+        &lt;h3&gt;Conception&lt;/h3&gt;
+        &lt;p&gt;Nous concevons le tableur sur mesure, adapté à votre activité.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class="step"&gt;
+        &lt;div class="step-number"&gt;3&lt;/div&gt;
+        &lt;h3&gt;Livraison&lt;/h3&gt;
+        &lt;p&gt;Livraison du fichier + guide d'utilisation court.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class="step"&gt;
+        &lt;div class="step-number"&gt;4&lt;/div&gt;
+        &lt;h3&gt;Suivi&lt;/h3&gt;
+        &lt;p&gt;Ajustements possibles selon vos retours.&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;section id="compatibilite" class="container"&gt;
+    &lt;h2&gt;Compatibilité&lt;/h2&gt;
+    &lt;div class="compat"&gt;
+      &lt;p style="font-size: 1.1rem; max-width: 700px; margin: 0 auto;"&gt;
+        Nos tableurs sont conçus pour être compatibles avec
+        &lt;strong&gt;LibreOffice Calc&lt;/strong&gt; et &lt;strong&gt;Microsoft Excel&lt;/strong&gt; dans la mesure du possible.
+        Les fonctionnalités avancées dépendent du logiciel utilisé.
+      &lt;/p&gt;
+      &lt;div class="compat-badges"&gt;
+        &lt;span class="compat-badge"&gt;📊 LibreOffice Calc&lt;/span&gt;
+        &lt;span class="compat-badge"&gt;📈 Microsoft Excel&lt;/span&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+
+  &lt;section id="contact" class="container contact"&gt;
+    &lt;h2&gt;Contact&lt;/h2&gt;
+    &lt;p style="margin-bottom: 1.5rem; font-size: 1.1rem;"&gt;
+      N'hésitez pas à nous contacter pour discuter de votre projet.
+    &lt;/p&gt;
+    &lt;a href="mailto:didmatt38@gmail.com"&gt;✉️ didmatt38@gmail.com&lt;/a&gt;
+  &lt;/section&gt;
+
+  &lt;footer&gt;
+    &lt;div class="container"&gt;
+      &lt;p&gt;&amp;copy; 2025 Tableaux &amp; Méthodes. Tous droits réservés.&lt;/p&gt;
+      &lt;p&gt;Pas de témoignages, pas de certifications, pas de garanties — des tableurs pratiques, simplement.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/footer&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
