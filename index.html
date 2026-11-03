@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Tableaux & Méthodes crée des tableurs simples et pratiques pour artisans, petites entreprises, associations et équipes de maintenance.">
+  <title>Tableaux &amp; Méthodes — Des outils simples pour mieux s'organiser</title>
+  <style>
+    :root{--navy:#10243a;--blue:#1769aa;--pale:#eef5fb;--ink:#1c2937;--muted:#5d6b79;--line:#dce5ed;--white:#fff}
+    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font-family:Arial,Helvetica,sans-serif;color:var(--ink);line-height:1.6;background:#fff}
+    a{color:inherit}.wrap{width:min(1080px,calc(100% - 40px));margin:auto}
+    header{background:var(--navy);color:#fff;padding:18px 0}.nav{display:flex;align-items:center;justify-content:space-between;gap:20px}.brand{font-weight:800;font-size:1.2rem;letter-spacing:.2px}.brand span{color:#8fc8f4}nav{display:flex;gap:22px;flex-wrap:wrap}nav a{text-decoration:none;color:#e6f1fa;font-size:.95rem}
+    .hero{background:linear-gradient(135deg,#10243a,#174d78);color:#fff;padding:82px 0 76px}.hero-inner{max-width:760px}.eyebrow{text-transform:uppercase;letter-spacing:2px;color:#a8d6fa;font-weight:700;font-size:.78rem}.hero h1{font-size:clamp(2.2rem,5vw,3.8rem);line-height:1.1;margin:15px 0 20px}.hero p{font-size:1.15rem;color:#e0edf7;max-width:650px}.actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:28px}.btn{display:inline-block;text-decoration:none;border-radius:8px;padding:12px 19px;font-weight:700}.btn.primary{background:#fff;color:var(--navy)}.btn.secondary{border:1px solid #b8d7ef;color:#fff}
+    section{padding:66px 0}.section-head{max-width:680px;margin-bottom:30px}.section-head h2{font-size:2rem;line-height:1.2;margin:0 0 12px;color:var(--navy)}.section-head p{margin:0;color:var(--muted)}
+    .grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}.card{border:1px solid var(--line);border-radius:12px;padding:24px;background:#fff}.card h3{margin:0 0 8px;color:var(--navy);font-size:1.15rem}.price{font-size:1.65rem;font-weight:800;color:var(--blue);margin:12px 0}.card p{color:var(--muted);margin:0}.note{font-size:.9rem;color:var(--muted);margin-top:18px}
+    .pale{background:var(--pale)}.two{display:grid;grid-template-columns:1fr 1fr;gap:36px;align-items:start}.checks{padding:0;list-style:none}.checks li{padding:9px 0 9px 28px;position:relative}.checks li:before{content:"✓";position:absolute;left:0;color:var(--blue);font-weight:800}
+    .steps{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}.step{border-top:3px solid var(--blue);padding-top:14px}.step b{display:block;color:var(--navy);margin-bottom:5px}.contact{background:var(--navy);color:#fff;text-align:center}.contact h2{color:#fff}.contact p{color:#d8e7f3}.contact .btn{background:#fff;color:var(--navy);margin-top:12px}
+    footer{background:#0a1929;color:#b9c7d4;padding:22px 0;font-size:.88rem}.footer-inner{display:flex;justify-content:space-between;gap:15px;flex-wrap:wrap}
+    @media(max-width:760px){.grid{grid-template-columns:1fr 1fr}.two{grid-template-columns:1fr}.steps{grid-template-columns:1fr 1fr}.hero{padding:60px 0}.nav{align-items:flex-start;flex-direction:column}}
+    @media(max-width:480px){.grid{grid-template-columns:1fr}.steps{grid-template-columns:1fr}nav{gap:14px}.wrap{width:min(100% - 30px,1080px)}}
+  </style>
+</head>
+<body>
+  <header><div class="wrap nav"><div class="brand">Tableaux <span>&amp;</span> Méthodes</div><nav aria-label="Navigation principale"><a href="#offres">Nos offres</a><a href="#methode">Comment ça marche</a><a href="#contact">Contact</a></nav></div></header>
+  <main>
+    <section class="hero"><div class="wrap hero-inner"><div class="eyebrow">Des outils simples, conçus pour votre activité</div><h1>Gagnez du temps avec des tableaux qui vous ressemblent.</h1><p>Des fichiers de suivi clairs et pratiques pour organiser vos stocks, vos interventions et votre maintenance. Pensés pour les petites structures, sans logiciel compliqué.</p><div class="actions"><a class="btn primary" href="#offres">Découvrir les offres</a><a class="btn secondary" href="mailto:didmatt38@gmail.com">Demander un devis</a></div></div></section>
+    <section id="offres"><div class="wrap"><div class="section-head"><h2>Des solutions concrètes</h2><p>Des modèles prêts à utiliser ou adaptés à votre façon de travailler. Tarifs indicatifs, sans abonnement.</p></div><div class="grid">
+      <article class="card"><h3>Tableur simple</h3><div class="price">25 €</div><p>Un tableau clair pour organiser vos informations et suivre votre activité au quotidien.</p></article>
+      <article class="card"><h3>Suivi de stock</h3><div class="price">35 €</div><p>Suivez les entrées, sorties, quantités disponibles et seuils de réapprovisionnement.</p></article>
+      <article class="card"><h3>Suivi de maintenance</h3><div class="price">45 €</div><p>Centralisez les équipements, opérations réalisées, échéances et prochaines actions.</p></article>
+      <article class="card"><h3>Registre d'interventions</h3><div class="price">45 €</div><p>Gardez une trace des demandes, interventions, dates, responsables et statuts.</p></article>
+      <article class="card"><h3>Tableau de bord personnalisé</h3><div class="price">À partir de 60 €</div><p>Une vue synthétique de vos indicateurs pour mieux piloter votre organisation.</p></article>
+      <article class="card"><h3>Besoin particulier ?</h3><div class="price">Sur devis</div><p>Un besoin spécifique ? Décrivons ensemble le tableau adapté à votre fonctionnement.</p></article>
+    </div><p class="note">Les fichiers sont conçus pour être utilisés avec LibreOffice Calc et, selon les fonctionnalités, Microsoft Excel.</p></div></section>
+    <section class="pale"><div class="wrap two"><div><div class="section-head"><h2>Pour les petites structures</h2><p>Des outils utiles, sans complexité inutile.</p></div><p>Artisans, entreprises de maintenance, associations sportives ou petites entreprises : un bon tableau peut simplifier le suivi et éviter les oublis.</p></div><ul class="checks"><li>Stocks et consommables</li><li>Entretien et suivi des équipements</li><li>Historique des interventions</li><li>Planning et échéances</li><li>Suivi d'activité et indicateurs</li></ul></div></section>
+    <section id="methode"><div class="wrap"><div class="section-head"><h2>Une démarche simple</h2><p>Un échange direct pour obtenir un outil adapté à votre besoin.</p></div><div class="steps"><div class="step"><b>1. Échange</b><span>Vous expliquez votre besoin et vos habitudes.</span></div><div class="step"><b>2. Conception</b><span>Le tableau est construit selon vos attentes.</span></div><div class="step"><b>3. Livraison</b><span>Vous recevez votre fichier et ses consignes.</span></div><div class="step"><b>4. Ajustements</b><span>Un échange permet de corriger les détails nécessaires.</span></div></div></div></section>
+    <section class="contact" id="contact"><div class="wrap"><div class="section-head" style="margin:0 auto"><h2>Parlons de votre besoin</h2><p>Expliquez-moi ce que vous souhaitez suivre ou améliorer. Je vous répondrai avec une proposition adaptée.</p></div><a class="btn" href="mailto:didmatt38@gmail.com?subject=Demande%20de%20renseignement%20-%20Tableaux%20%26%20M%C3%A9thodes">didmatt38@gmail.com</a></div></section>
+  </main>
+  <footer><div class="wrap footer-inner"><span>© 2026 Tableaux &amp; Méthodes</span><span>Des outils simples pour mieux s'organiser.</span></div></footer>
+</body>
+</html>
