@@ -7,7 +7,7 @@ Document de travail interne. Ne pas envoyer les messages en masse ni prétendre 
 Des tableurs simples et personnalisés pour les petites structures qui veulent mieux suivre leurs stocks, leurs équipements et leurs interventions, sans abonnement ni logiciel spécialisé.
 
 Site : https://tabandfiles.github.io/tableaux-et-methodes/  
-Contact : didmatt38@gmail.com
+Contact : tabsandmethod@gmail.com
 
 ## Cibles à privilégier
 
@@ -34,7 +34,7 @@ Est-ce qu'un suivi de ce type vous serait utile actuellement ?
 
 Bonne journée,  
 Tableaux & Méthodes  
-didmatt38@gmail.com
+tabsandmethod@gmail.com
 
 ## Message 2 — associations sportives
 
@@ -50,7 +50,7 @@ Si vous cherchez à mieux organiser l'inventaire ou les contrôles du matériel,
 
 Bonne journée,  
 Tableaux & Méthodes  
-didmatt38@gmail.com
+tabsandmethod@gmail.com
 
 ## Message 3 — relance unique
 
