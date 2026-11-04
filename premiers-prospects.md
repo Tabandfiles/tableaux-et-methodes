@@ -1,90 +1,104 @@
 # Prospection nationale — Tableaux & Méthodes
 
-Objectif : prospecter partout en France, sans se limiter à Grenoble. La première liste ci-dessous est un échantillon de pistes à qualifier, pas une liste de besoins confirmés. Aucun message n'a été envoyé.
+Objectif : développer une clientèle partout en France, sans dépendre d'une seule ville. Cette liste est une première sélection de pistes publiques à qualifier. Les coordonnées ci-dessous proviennent des pages citées ; le besoin de chaque entreprise reste hypothétique. Aucun message n'a été envoyé.
 
-## Positionnement commercial
+## Cibles prioritaires
 
-Priorité aux petites structures qui ont un besoin simple et identifiable :
-- artisans plomberie, chauffage, climatisation et électricité : stock de consommables, interventions, équipements et maintenance ;
-- petites entreprises de maintenance industrielle : historique d'interventions, suivi de pièces et échéances ;
-- associations sportives : inventaire, prêts de matériel, renouvellement et contrôles ;
-- petites entreprises du bâtiment : matériel, commandes, interventions et planning.
+1. **Artisans et petites entreprises techniques** : stock de consommables, interventions, équipements, échéances.
+2. **Petites entreprises de maintenance** : historique des opérations, suivi de pièces, planning.
+3. **Associations sportives** : inventaire, prêts de matériel, contrôles et renouvellement.
+4. **Petites entreprises du bâtiment** : matériel, commandes, interventions et suivi de chantiers.
 
-Commencer par les entreprises qui semblent assez petites pour apprécier un outil simple, mais assez structurées pour avoir plusieurs équipements ou interventions à suivre. Éviter d'affirmer qu'elles ont un problème avant de l'avoir confirmé.
+Il faut privilégier les petites structures où un tableur simple peut être utile. Les grandes entreprises déjà équipées d'un logiciel métier sont généralement moins prioritaires.
 
-## Pistes de prospects réparties dans plusieurs régions
+## Pistes à vérifier — plusieurs régions
 
-### 1. ASPTT Fédération Omnisports — Ivry-sur-Seine, Île-de-France
-- **Type :** fédération/association sportive.
-- **Téléphone public référencé :** 01 43 90 64 90.
-- **Angle à tester :** inventaire ou suivi de matériel pour une structure sportive, ou identifier les besoins de clubs affiliés.
-- **Source :** https://www.google.com/search?q=ASPTT+F%C3%A9d%C3%A9ration+Omnisports+contact
-- **À vérifier :** canal de contact officiel et pertinence d'une proposition commerciale.
+### Île-de-France — ASI BAT
+- **Activité :** rénovation, plomberie, électricité et travaux tous corps d'état à Paris et en Île-de-France.
+- **E-mail public :** contact@asi-bat.fr
+- **Téléphone public :** 01 30 09 24 10 (la page présente aussi un autre numéro de contact ; vérifier avant appel).
+- **Angle à tester :** suivi des interventions ou des consommables, si l'entreprise n'a pas déjà un outil adapté.
+- **Source officielle :** https://asi-bat.fr/faq-contact/
+- **Priorité :** moyenne ; besoin non confirmé.
 
-### 2. Jeunesses Sportives de Coulaines — Coulaines, Pays de la Loire
-- **Type :** association/complexe sportif.
-- **Téléphone public référencé :** 02 43 81 01 25.
-- **Angle à tester :** inventaire des équipements et suivi des renouvellements, si ce besoin existe.
-- **Source :** recherche d'entreprise locale ; retrouver et vérifier le contact officiel avant toute prise de contact.
+### Hauts-de-France — ETS Jumelle
+- **Activité :** plomberie, chauffage, climatisation ; basée à Marcq-en-Barœul, près de Lille.
+- **E-mail public :** contact@ets-jumelle.fr
+- **Adresse publique :** 395 rue du Général de Gaulle, 59700 Marcq-en-Barœul.
+- **Angle à tester :** suivi des interventions, pièces et consommables.
+- **Source officielle :** https://www.jumelleplomberie.fr/contact
+- **Priorité :** moyenne ; besoin non confirmé.
 
-### 3. Volley-Ball Villefranche Beaujolaise — Villefranche-sur-Saône, Auvergne-Rhône-Alpes
-- **Type :** club sportif.
-- **Téléphone public référencé :** 09 53 39 59 54.
-- **Angle à tester :** inventaire du matériel, prêts et suivi des équipements.
-- **Source :** recherche d'entreprise locale ; vérifier le canal officiel et le besoin avant tout contact.
+### Nouvelle-Aquitaine — ASE-Serem
+- **Activité :** maintenance industrielle, réparation de moteurs et de pompes ; Mérignac, près de Bordeaux.
+- **E-mail public :** maintenance@ase-serem.fr
+- **Téléphone public :** 05 56 49 42 22
+- **Adresse publique :** 5 rue Ferdinand de Lesseps, 33700 Mérignac.
+- **Angle à tester :** suivi des interventions ou de pièces, seulement si un tableur léger complète les outils existants.
+- **Source officielle :** https://www.ase-serem.fr/localisation/
+- **Priorité :** moyenne ; vérifier la taille et les outils déjà utilisés.
 
-### 4. MIGEN Lyon — Écully, Auvergne-Rhône-Alpes
-- **Type :** prestation de maintenance et réparation de machines.
-- **Téléphone public référencé :** 04 78 33 72 05.
-- **Angle à tester :** suivi simple de pièces, historique d'interventions ou tableau de bord d'activité.
-- **Source :** recherche d'entreprise locale ; vérifier le site officiel et que l'offre simple correspond à la taille de l'entreprise.
+### Occitanie — SM TECH
+- **Activité :** installation de machines et maintenance industrielle ; Toulouse.
+- **Téléphone public :** 05 25 61 15 50
+- **Adresse publique :** 212 avenue des États-Unis, 31200 Toulouse.
+- **Angle à tester :** suivi interne d'équipements, interventions ou indicateurs simples.
+- **Source officielle :** https://www.sm-tech.fr/
+- **Priorité :** moyenne ; besoin non confirmé.
 
-### 5. MSI Services — Décines-Charpieu, Auvergne-Rhône-Alpes
-- **Type :** maintenance et électricité industrielle.
-- **Téléphone public référencé :** 04 78 90 10 24.
-- **Angle à tester :** registre d'interventions ou suivi d'équipements.
-- **Source :** recherche d'entreprise locale ; vérifier le contact officiel et la pertinence avant contact.
+### Nouvelle-Aquitaine — Bourg Frères
+- **Activité :** plomberie et chauffage ; agence près de Pau et agence à Tarbes.
+- **E-mail public (agence Pau) :** contact@bourg-freres.fr
+- **Téléphone public (Pau) :** 05 59 33 77 71
+- **E-mail public (Tarbes) :** contact.tarbes@bourg-freres.fr
+- **Téléphone public (Tarbes) :** 05 32 66 06 66
+- **Angle à tester :** suivi des interventions, consommables ou maintenance du matériel.
+- **Source officielle :** https://www.bourg-freres.fr/contact/
+- **Priorité :** moyenne ; vérifier la taille de la structure et l'adéquation de l'offre.
 
-### 6. SERAM Industrie — Ambérieux-d'Azergues, Auvergne-Rhône-Alpes
-- **Type :** maintenance industrielle.
-- **Téléphone public référencé :** 09 87 04 98 12.
-- **Angle à tester :** suivi des interventions ou tableau de synthèse, à condition que le besoin ne soit pas déjà couvert par un outil métier.
-- **Source :** recherche d'entreprise locale ; vérifier le canal officiel avant contact.
+### Île-de-France — Artisan André Père & Fils
+- **Activité :** plomberie et chauffage à Paris et en Île-de-France.
+- **E-mail public :** contact@artisan-andre.fr
+- **Téléphone public :** 01 43 94 08 76
+- **Angle à tester :** registre des interventions ou suivi de consommables.
+- **Source officielle :** https://www.artisan-andre.fr/
+- **Priorité :** moyenne ; besoin non confirmé.
 
-### 7. SOME-K — Rumilly, Auvergne-Rhône-Alpes
-- **Type :** maintenance industrielle et équipements.
-- **Téléphone public référencé :** 04 50 65 81 06.
-- **Angle à tester :** suivi de matériel ou d'interventions si une solution légère est adaptée.
-- **Source :** recherche d'entreprise locale ; vérifier le site officiel et l'adéquation de l'offre.
+## Couverture géographique à développer
 
-### 8. Dunoyer Plomberie — Oullins-Pierre-Bénite, Auvergne-Rhône-Alpes
-- **Type :** plomberie, chauffage, climatisation.
-- **Téléphone public référencé :** 06 51 29 28 88.
-- **Angle à tester :** suivi des consommables, équipements ou interventions.
-- **Source :** recherche d'entreprise locale ; vérifier le canal officiel avant contact.
+La prospection doit être nationale, mais pas nécessairement contacter toutes les régions immédiatement. Répartir progressivement la recherche entre :
+- Île-de-France ;
+- Hauts-de-France ;
+- Normandie ;
+- Bretagne et Pays de la Loire ;
+- Centre-Val de Loire ;
+- Grand Est ;
+- Bourgogne-Franche-Comté ;
+- Auvergne-Rhône-Alpes ;
+- Nouvelle-Aquitaine ;
+- Occitanie ;
+- Provence-Alpes-Côte d'Azur ;
+- Corse.
 
-> Remarque : ces pistes sont encore majoritairement issues d'une première recherche en Auvergne-Rhône-Alpes. Elles ne constituent pas encore une prospection réellement nationale. L'étape suivante est d'ajouter des entreprises vérifiées en Île-de-France, Hauts-de-France, Bretagne, Normandie, Nouvelle-Aquitaine, Occitanie, Grand Est, Bourgogne-Franche-Comté, Centre-Val de Loire et Provence-Alpes-Côte d'Azur.
+## Sources pour construire la liste nationale
 
-## Méthode pour élargir la prospection à toute la France
+- [Annuaire officiel des entreprises](https://annuaire-entreprises.data.gouv.fr/) — vérifie l'existence et le statut des entreprises, associations et établissements. Il permet la recherche par nom et zone géographique. <https://www.service-public.gouv.fr/particuliers/vosdroits/R60912?lang=fr>
+- [Documentation de l'Annuaire des Entreprises](https://annuaire-entreprises.data.gouv.fr/a-propos/comment-ca-marche) — explique les informations publiques disponibles.
+- Pour les coordonnées de contact, privilégier le site officiel de l'entreprise plutôt que les annuaires commerciaux secondaires.
 
-Utiliser des sources publiques pour découvrir des structures, puis vérifier les coordonnées sur leur propre site avant d'écrire :
-
-- [Annuaire officiel des entreprises](https://annuaire-entreprises.data.gouv.fr/) — recherche par activité, nom et zone géographique. Il permet de vérifier l'existence et le statut d'une entreprise. 
-- [Annuaire national des associations](https://www.repertoire-national-des-associations.fr/) — recherche par région et catégorie d'association.
-- [Annuaire des entreprises de France — CCI](https://www.cci.fr/ressources/booster-son-business/trouver-des-clients-partenaires-fournisseurs/annuaire-des-entreprises-de-france) — recherche d'entreprises et critères de ciblage.
-
-## Qualification avant contact
+## Règles avant toute prise de contact
 
 1. Vérifier que l'organisation existe toujours et que son activité correspond à la cible.
-2. Retrouver les coordonnées professionnelles publiées par l'organisation elle-même.
-3. Personnaliser le message sur une information vérifiée, sans inventer de besoin.
-4. Expliquer clairement l'objet commercial et identifier l'expéditeur.
-5. Respecter toute opposition et ne pas envoyer de messages en masse.
-6. Noter la source, la date, la réponse et toute demande de ne plus être contacté.
+2. Retrouver les coordonnées professionnelles sur le site officiel.
+3. Personnaliser le message sur une information publique vérifiée ; ne pas présenter un besoin supposé comme un fait.
+4. Identifier clairement l'expéditeur, l'objet commercial et permettre de s'opposer à d'autres messages.
+5. Ne pas envoyer de messages en masse ; respecter les règles françaises de prospection et toute opposition.
+6. Noter la source, la date, la réponse et la demande éventuelle de ne plus être contacté.
+7. Ne pas contacter automatiquement les entreprises : chaque message doit être vérifié et personnalisé.
 
-## Modèle de suivi
+## Suivi commercial
 
-Le fichier [suivi-prospection.csv](https://github.com/Tabandfiles/tableaux-et-methodes/blob/main/suivi-prospection.csv) sert à suivre la région, l'entreprise, le secteur, la source du contact, l'offre envisagée, les réponses et les oppositions.
+Utiliser [le modèle de suivi de prospection CSV](https://github.com/Tabandfiles/tableaux-et-methodes/blob/main/suivi-prospection.csv) pour consigner région, entreprise, secteur, source, offre envisagée, date de contact, réponse et opposition éventuelle.
 
 Site : https://tabandfiles.github.io/tableaux-et-methodes/  
 E-mail : tabsandmethod@gmail.com
