@@ -1,80 +1,90 @@
-# Premiers prospects — Tableaux & Méthodes
+# Prospection nationale — Tableaux & Méthodes
 
-Liste de recherche initiale, à vérifier avant tout contact. Aucun message n'a été envoyé. Les besoins mentionnés sont des hypothèses commerciales, pas des besoins confirmés.
+Objectif : prospecter partout en France, sans se limiter à Grenoble. La première liste ci-dessous est un échantillon de pistes à qualifier, pas une liste de besoins confirmés. Aucun message n'a été envoyé.
 
-## Priorité 1 — réseau associatif sportif
+## Positionnement commercial
 
-### 1. Office Municipal des Sports de Grenoble (OMS)
-- **Secteur :** réseau d'associations sportives locales.
-- **Contact public :** contact@omsgrenoble.fr
-- **Téléphone :** 06 71 26 85 01 / 04 76 44 75 61
-- **Adresse :** 10 rue Berthe de Boissieux, 38000 Grenoble.
-- **Angle possible :** proposer un modèle simple de suivi de matériel ou de maintenance que l'OMS pourrait transmettre aux associations intéressées. Ne pas supposer que l'OMS achètera lui-même.
-- **Source :** https://omsgrenoble.fr/contact/
-- **Statut :** à qualifier ; aucun contact envoyé.
+Priorité aux petites structures qui ont un besoin simple et identifiable :
+- artisans plomberie, chauffage, climatisation et électricité : stock de consommables, interventions, équipements et maintenance ;
+- petites entreprises de maintenance industrielle : historique d'interventions, suivi de pièces et échéances ;
+- associations sportives : inventaire, prêts de matériel, renouvellement et contrôles ;
+- petites entreprises du bâtiment : matériel, commandes, interventions et planning.
 
-### 2. Grenoble Sports Entreprises
-- **Secteur :** association sportive multisports.
-- **Contact public :** gse.asso@gmail.com
-- **Téléphone :** 06 08 76 64 88
-- **Angle possible :** inventaire du matériel partagé, suivi des prêts ou échéances d'entretien, uniquement si ce besoin est confirmé.
-- **Source :** https://omsgrenoble.fr/je-recherche-une-activite-sportive/trouvez-une-association-a-grenoble/grenoble-sports-entreprises/
-- **Statut :** à qualifier ; aucun contact envoyé.
+Commencer par les entreprises qui semblent assez petites pour apprécier un outil simple, mais assez structurées pour avoir plusieurs équipements ou interventions à suivre. Éviter d'affirmer qu'elles ont un problème avant de l'avoir confirmé.
 
-### 3. G.U.C. Athlétisme
-- **Secteur :** club d'athlétisme.
-- **Téléphone public trouvé :** 04 76 21 79 41.
-- **Angle possible :** inventaire de matériel sportif et suivi des contrôles/renouvellements, si pertinent pour le club.
-- **Source de recherche :** fiche d'entreprise locale consultée le 4 novembre 2026 ; retrouver le canal de contact officiel sur le site du club avant toute prise de contact.
-- **Statut :** coordonnées complémentaires à vérifier ; aucun contact envoyé.
+## Pistes de prospects réparties dans plusieurs régions
 
-### 4. Rugby Club FTA Échirolles Isère
-- **Secteur :** club de rugby à Échirolles.
-- **Téléphone public trouvé :** 04 76 22 54 55.
-- **Angle possible :** inventaire des équipements, prêts et suivi des renouvellements, à valider avec le club.
-- **Source de recherche :** fiche d'entreprise locale consultée le 4 novembre 2026 ; retrouver le canal de contact officiel avant toute prise de contact.
-- **Statut :** coordonnées complémentaires à vérifier ; aucun contact envoyé.
+### 1. ASPTT Fédération Omnisports — Ivry-sur-Seine, Île-de-France
+- **Type :** fédération/association sportive.
+- **Téléphone public référencé :** 01 43 90 64 90.
+- **Angle à tester :** inventaire ou suivi de matériel pour une structure sportive, ou identifier les besoins de clubs affiliés.
+- **Source :** https://www.google.com/search?q=ASPTT+F%C3%A9d%C3%A9ration+Omnisports+contact
+- **À vérifier :** canal de contact officiel et pertinence d'une proposition commerciale.
 
-## Priorité 2 — artisans et petites entreprises techniques
+### 2. Jeunesses Sportives de Coulaines — Coulaines, Pays de la Loire
+- **Type :** association/complexe sportif.
+- **Téléphone public référencé :** 02 43 81 01 25.
+- **Angle à tester :** inventaire des équipements et suivi des renouvellements, si ce besoin existe.
+- **Source :** recherche d'entreprise locale ; retrouver et vérifier le contact officiel avant toute prise de contact.
 
-### 5. G’Decor
-- **Secteur :** rénovation intérieure, Grenoble.
-- **Adresse publique :** 11 rue Jean Vaujany, ZA Technisud, 38100 Grenoble.
-- **Téléphone public trouvé :** 04 76 98 67 69.
-- **Angle possible :** suivi des consommables, matériel et interventions sur chantier, seulement après qualification du besoin.
-- **Source de recherche :** fiche d'entreprise locale consultée le 4 novembre 2026 ; vérifier le site officiel pour le canal de contact.
-- **Statut :** e-mail officiel à vérifier ; aucun contact envoyé.
+### 3. Volley-Ball Villefranche Beaujolaise — Villefranche-sur-Saône, Auvergne-Rhône-Alpes
+- **Type :** club sportif.
+- **Téléphone public référencé :** 09 53 39 59 54.
+- **Angle à tester :** inventaire du matériel, prêts et suivi des équipements.
+- **Source :** recherche d'entreprise locale ; vérifier le canal officiel et le besoin avant tout contact.
 
-### 6. O’Chaud by Julien Ferrante
-- **Secteur :** plomberie, chauffage, climatisation et entretien, Grenoble.
-- **Téléphone public trouvé :** 04 76 27 21 73.
-- **Angle possible :** historique d'interventions, échéances de maintenance ou suivi de pièces/consommables.
-- **Source de recherche :** fiche d'entreprise locale consultée le 4 novembre 2026 ; vérifier le site officiel pour le canal de contact.
-- **Statut :** e-mail officiel à vérifier ; aucun contact envoyé.
+### 4. MIGEN Lyon — Écully, Auvergne-Rhône-Alpes
+- **Type :** prestation de maintenance et réparation de machines.
+- **Téléphone public référencé :** 04 78 33 72 05.
+- **Angle à tester :** suivi simple de pièces, historique d'interventions ou tableau de bord d'activité.
+- **Source :** recherche d'entreprise locale ; vérifier le site officiel et que l'offre simple correspond à la taille de l'entreprise.
 
-### 7. De Matteo SARL
-- **Secteur :** plomberie, chauffage, climatisation, Grenoble.
-- **Adresse publique :** 25 rue Gabriel Péri, 38000 Grenoble.
-- **Téléphone public trouvé :** 04 76 46 97 75.
-- **Angle possible :** suivi des interventions ou des consommables, à valider avant de proposer un modèle.
-- **Source de recherche :** fiche d'entreprise locale consultée le 4 novembre 2026 ; vérifier le site officiel pour le canal de contact.
-- **Statut :** e-mail officiel à vérifier ; aucun contact envoyé.
+### 5. MSI Services — Décines-Charpieu, Auvergne-Rhône-Alpes
+- **Type :** maintenance et électricité industrielle.
+- **Téléphone public référencé :** 04 78 90 10 24.
+- **Angle à tester :** registre d'interventions ou suivi d'équipements.
+- **Source :** recherche d'entreprise locale ; vérifier le contact officiel et la pertinence avant contact.
 
-### 8. ITS Génie Climatique
-- **Secteur :** plomberie, chauffage, climatisation et ventilation, Sassenage.
-- **Téléphone public trouvé :** 06 33 53 29 10.
-- **Angle possible :** planning de maintenance, suivi des équipements ou historique des interventions.
-- **Source de recherche :** fiche d'entreprise locale consultée le 4 novembre 2026 ; vérifier le site officiel pour le canal de contact.
-- **Statut :** e-mail officiel à vérifier ; aucun contact envoyé.
+### 6. SERAM Industrie — Ambérieux-d'Azergues, Auvergne-Rhône-Alpes
+- **Type :** maintenance industrielle.
+- **Téléphone public référencé :** 09 87 04 98 12.
+- **Angle à tester :** suivi des interventions ou tableau de synthèse, à condition que le besoin ne soit pas déjà couvert par un outil métier.
+- **Source :** recherche d'entreprise locale ; vérifier le canal officiel avant contact.
 
-## Règles avant contact
+### 7. SOME-K — Rumilly, Auvergne-Rhône-Alpes
+- **Type :** maintenance industrielle et équipements.
+- **Téléphone public référencé :** 04 50 65 81 06.
+- **Angle à tester :** suivi de matériel ou d'interventions si une solution légère est adaptée.
+- **Source :** recherche d'entreprise locale ; vérifier le site officiel et l'adéquation de l'offre.
 
-1. Vérifier que l'entreprise est toujours active et retrouver son site ou sa page officielle.
-2. Confirmer que le canal de contact est professionnel et publié par l'organisation.
-3. Personnaliser le message sur la base d'une information publique vérifiée ; ne jamais présenter le besoin supposé comme un fait.
-4. Identifier clairement l'expéditeur, expliquer l'objet commercial et respecter toute opposition.
-5. Ne pas contacter une structure dont les données sont explicitement opposées à la prospection.
-6. Ne pas envoyer automatiquement. Consigner la date, la source, la réponse et toute demande de ne plus être contacté.
+### 8. Dunoyer Plomberie — Oullins-Pierre-Bénite, Auvergne-Rhône-Alpes
+- **Type :** plomberie, chauffage, climatisation.
+- **Téléphone public référencé :** 06 51 29 28 88.
+- **Angle à tester :** suivi des consommables, équipements ou interventions.
+- **Source :** recherche d'entreprise locale ; vérifier le canal officiel avant contact.
 
-Site : https://tabandfiles.github.io/tableaux-et-methodes/
-E-mail de contact : tabsandmethod@gmail.com
+> Remarque : ces pistes sont encore majoritairement issues d'une première recherche en Auvergne-Rhône-Alpes. Elles ne constituent pas encore une prospection réellement nationale. L'étape suivante est d'ajouter des entreprises vérifiées en Île-de-France, Hauts-de-France, Bretagne, Normandie, Nouvelle-Aquitaine, Occitanie, Grand Est, Bourgogne-Franche-Comté, Centre-Val de Loire et Provence-Alpes-Côte d'Azur.
+
+## Méthode pour élargir la prospection à toute la France
+
+Utiliser des sources publiques pour découvrir des structures, puis vérifier les coordonnées sur leur propre site avant d'écrire :
+
+- [Annuaire officiel des entreprises](https://annuaire-entreprises.data.gouv.fr/) — recherche par activité, nom et zone géographique. Il permet de vérifier l'existence et le statut d'une entreprise. 
+- [Annuaire national des associations](https://www.repertoire-national-des-associations.fr/) — recherche par région et catégorie d'association.
+- [Annuaire des entreprises de France — CCI](https://www.cci.fr/ressources/booster-son-business/trouver-des-clients-partenaires-fournisseurs/annuaire-des-entreprises-de-france) — recherche d'entreprises et critères de ciblage.
+
+## Qualification avant contact
+
+1. Vérifier que l'organisation existe toujours et que son activité correspond à la cible.
+2. Retrouver les coordonnées professionnelles publiées par l'organisation elle-même.
+3. Personnaliser le message sur une information vérifiée, sans inventer de besoin.
+4. Expliquer clairement l'objet commercial et identifier l'expéditeur.
+5. Respecter toute opposition et ne pas envoyer de messages en masse.
+6. Noter la source, la date, la réponse et toute demande de ne plus être contacté.
+
+## Modèle de suivi
+
+Le fichier [suivi-prospection.csv](https://github.com/Tabandfiles/tableaux-et-methodes/blob/main/suivi-prospection.csv) sert à suivre la région, l'entreprise, le secteur, la source du contact, l'offre envisagée, les réponses et les oppositions.
+
+Site : https://tabandfiles.github.io/tableaux-et-methodes/  
+E-mail : tabsandmethod@gmail.com
