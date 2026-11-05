@@ -21,7 +21,7 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 
 ## État réel des livrables
 
-- [Cahier des charges du suivi de stock](modele-suivi-stock-specification.md) — spécification écrite ; fichier ODS final non créé et formules non testées.
+- [Cahier des charges du suivi de stock](modele-suivi-stock-specification.md) — prototype ODS local créé et recalculé par LibreOffice sur des exemples fictifs ; pas encore versionné dans le dépôt. Les totaux cumulés restent manuels et la compatibilité Excel n'est pas testée.
 - [Cahier des charges du registre des interventions](modele-registre-interventions-specification.md) — spécification écrite ; fichier ODS final non créé et formules non testées.
 - [Grille de contrôle qualité](grille-controle-qualite-tableurs.md) — critères à appliquer avant commercialisation.
 - [Prospection nationale](premiers-prospects.md) — coordonnées publiques sourcées ; besoins non confirmés ; aucun e-mail envoyé.
@@ -32,7 +32,7 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 
 ## Priorités de travail
 
-1. Créer le premier fichier ODS professionnel dans un outil de création de fichiers disponible.
+1. Finaliser la première version du fichier ODS, décider si les mouvements doivent alimenter automatiquement le stock, puis le publier via un canal de livraison vérifié.
 2. Tester les formules, validations, filtres, compatibilité LibreOffice et réouverture du fichier.
 3. Préparer une démonstration avec données fictives.
 4. Débloquer la publication du site : la branche main contient le nouveau texte national, mais lors du contrôle du 5 novembre 2026, le site public renvoyait encore l'ancienne version. Le dernier déploiement GitHub Pages visible dans l'API publique date du 4 novembre 2026 (commit 515e251c).
