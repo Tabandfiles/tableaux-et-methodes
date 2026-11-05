@@ -35,7 +35,7 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 1. Créer le premier fichier ODS professionnel dans un outil de création de fichiers disponible.
 2. Tester les formules, validations, filtres, compatibilité LibreOffice et réouverture du fichier.
 3. Préparer une démonstration avec données fictives.
-4. Vérifier la publication du site après les dernières modifications.
+4. Débloquer la publication du site : la branche main contient le nouveau texte national, mais lors du contrôle du 5 novembre 2026, le site public renvoyait encore l'ancienne version. Le dernier déploiement GitHub Pages visible dans l'API publique date du 4 novembre 2026 (commit 515e251c).
 5. Continuer à qualifier des entreprises dans plusieurs régions, sans supposer leurs besoins.
 6. Compléter les mentions légales avec les informations exactes de l'exploitant avant publication.
 
