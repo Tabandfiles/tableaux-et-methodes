@@ -3,7 +3,7 @@
 **Produit :** Suivi de stock simple  
 **Prix de lancement envisagé :** 20 €  
 **Format cible :** LibreOffice Calc (.ods) ; compatibilité Excel à tester avant de la promettre  
-**Statut :** spécification prête, fichier tableur téléchargeable pas encore créé.
+**Statut au 5 novembre 2026 :** prototype ODS créé localement et ouvert/enregistré par LibreOffice en mode sans interface. Les formules de stock actuel, d’alerte et les indicateurs du tableau de bord ont été recalculés et vérifiés sur les trois lignes fictives. Le fichier n’est pas encore versionné dans le dépôt GitHub. La compatibilité Excel n’a pas été testée.
 
 ## Objectif
 
