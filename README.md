@@ -35,7 +35,7 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 1. Finaliser la première version du fichier ODS, décider si les mouvements doivent alimenter automatiquement le stock, puis le publier via un canal de livraison vérifié.
 2. Tester les formules, validations, filtres, compatibilité LibreOffice et réouverture du fichier.
 3. Préparer une démonstration avec données fictives.
-4. Débloquer la publication du site : la branche main contient le nouveau texte national, mais lors du contrôle du 5 novembre 2026, le site public renvoyait encore l'ancienne version. Le dernier déploiement GitHub Pages visible dans l'API publique date du 4 novembre 2026 (commit 515e251c).
+4. Terminer la publication du site : la copie source et la page publique affichent désormais la portée nationale et les métadonnées SEO mises à jour. La FAQ « Travaillez-vous partout en France ? » a été ajoutée à main le 5 novembre 2026 ; son workflow GitHub Pages était encore en attente ou en cours au dernier contrôle. Confirmer sa présence publique avant de clore cette tâche.
 5. Continuer à qualifier des entreprises dans plusieurs régions, sans supposer leurs besoins.
 6. Compléter les mentions légales avec les informations exactes de l'exploitant avant publication.
 
