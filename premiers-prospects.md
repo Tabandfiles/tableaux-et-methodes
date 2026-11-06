@@ -1,6 +1,6 @@
 # Prospection nationale — Tableaux & Méthodes
 
-**Mise à jour : 5 novembre 2026.** Coordonnées contrôlées sur les pages officielles citées ci-dessous. La présence d'une coordonnée sur un site ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé.
+**Mise à jour générale : 5 novembre 2026. Contrôle ponctuel complémentaire : 6 novembre 2026.** Coordonnées contrôlées sur les pages officielles citées ci-dessous. La présence d'une coordonnée sur un site ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé.
 
 ## Prospects dont l'activité et au moins un moyen de contact sont confirmés
 
@@ -54,7 +54,7 @@ Ces coordonnées ont été lues sur les pages indiquées. Elles confirment l'exi
 | Bourgogne-Franche-Comté | SBE | Maintenance industrielle, chaudronnerie, mécanosoudure ; Route nationale 5, 21110 Longeault-Pluvault | 03 80 47 29 29 ; formulaire officiel | Basse : le site indique une équipe d'environ 30 personnes ; vérifier l'outillage déjà en place. |
 | Grand Est | Industechnic Group — agence de Strasbourg | Maintenance électronique et réparation d'équipements industriels ; 2D rue Ampère, ZI, 67720 Hoerdt | contact.strasbourg@industechnic.com · +33 3 88 51 39 76 | Basse : entreprise spécialisée et structurée ; ne pas supposer qu'un tableur serait utile. |
 | Provence-Alpes-Côte d’Azur | CMH Industrie | Réparation navale, échangeurs thermiques, propulsion, hydraulique et maintenance industrielle ; 27 boulevard Gay-Lussac, 13014 Marseille | contact@cmhindustrie.com · 04 12 16 01 88 | Basse : activité technique complexe ; à conserver comme piste secondaire. |
-| Pays de la Loire | Atlant’Eco | Plomberie, chauffage et énergies renouvelables ; région nantaise | 02 28 24 48 41 ; formulaire officiel | Moyenne : artisan/entreprise de services ; un suivi de consommables ou d'interventions pourrait être proposé seulement après qualification. |
+| Pays de la Loire | Atlant’Eco | Plomberie, chauffage et énergies renouvelables ; région nantaise | 06 82 71 33 04 (numéro affiché pour les urgences) ; formulaire officiel pour une demande générale | Moyenne : artisan/entreprise de services ; un suivi de consommables ou d'interventions pourrait être proposé seulement après qualification. Le numéro précédemment noté n'a pas été revalidé sur la page consultée. |
 | Pays de la Loire | SARL Laquittant | Plomberie et chauffage ; 22 impasse du Ruisseau, 44580 Saint-Mars-du-Désert | 02 78 77 16 92 ; formulaire officiel | Moyenne : contact public confirmé ; besoin non connu. |
 | Corse | FB2B | Plomberie et électricité ; chemin de Pastoreccia, 20600 Bastia | 07 83 90 41 55 ; site officiel | Moyenne : petite entreprise de services ; piste pour un registre simple, sans présumer d'un besoin. |
 
@@ -76,3 +76,12 @@ Ces coordonnées ont été lues sur les pages indiquées. Elles confirment l'exi
 - Aucun e-mail commercial n'a été envoyé.
 - Aucun besoin client n'est confirmé ; les angles proposés sont des hypothèses de qualification, pas des faits.
 - La première vague devrait privilégier les artisans et petites entreprises de services (ex. Atlant’Eco, Laquittant, FB2B, puis DEMS) plutôt que les structures industrielles plus complexes.
+
+
+## Vérification ponctuelle — 6 novembre 2026
+
+- **Atlant’Eco** : la page officielle consultée redirige vers https://www.atlanteco.fr/contactez-nous/ et affiche le **06 82 71 33 04 pour les urgences**. Ne pas traiter ce numéro comme une ligne commerciale dédiée ; pour une demande générale, utiliser le formulaire officiel et qualifier d'abord la pertinence. La page consultée ne confirme aucun besoin de tableur.
+- **Site Tableaux & Méthodes** : le contenu public a été relu ; les prix, exemples fictifs, lien de contact et FAQ sur la prestation à distance partout en France sont visibles.
+- **Déploiement** : la page GitHub Actions affiche le workflow « pages build and deployment » n° 35 comme terminé avec succès le 5 novembre 2026 : https://github.com/Tabandfiles/tableaux-et-methodes/actions
+
+Aucun prospect n'a été contacté.
