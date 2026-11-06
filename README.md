@@ -23,6 +23,7 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 
 - [Cahier des charges du suivi de stock](modele-suivi-stock-specification.md) — prototype ODS local créé et recalculé par LibreOffice sur des exemples fictifs ; pas encore versionné dans le dépôt. Les totaux cumulés restent manuels et la compatibilité Excel n'est pas testée.
 - [Cahier des charges du registre des interventions](modele-registre-interventions-specification.md) — spécification écrite ; fichier ODS final non créé et formules non testées.
+- [Cahier des charges du suivi de maintenance](modele-suivi-maintenance-specification.md) — conception version 1 définie ; fichier ODS non créé et formules non testées.
 - [Grille de contrôle qualité](grille-controle-qualite-tableurs.md) — critères à appliquer avant commercialisation.
 - [Prospection nationale](premiers-prospects.md) — coordonnées publiques sourcées ; besoins non confirmés ; aucun e-mail envoyé.
 - [Suivi de prospection](suivi-prospection.csv) — modèle de suivi des prises de contact.
@@ -35,7 +36,7 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 1. Finaliser la première version du fichier ODS, décider si les mouvements doivent alimenter automatiquement le stock, puis le publier via un canal de livraison vérifié.
 2. Tester les formules, validations, filtres, compatibilité LibreOffice et réouverture du fichier.
 3. Préparer une démonstration avec données fictives.
-4. Terminer la publication du site : la copie source et la page publique affichent désormais la portée nationale et les métadonnées SEO mises à jour. La FAQ « Travaillez-vous partout en France ? » a été ajoutée à main le 5 novembre 2026 ; son workflow GitHub Pages était encore en attente ou en cours au dernier contrôle. Confirmer sa présence publique avant de clore cette tâche.
+4. Publication du site vérifiée le 6 novembre 2026 : la page publique affiche la portée nationale, les métadonnées SEO, les offres, les exemples fictifs et la FAQ sur la prestation à distance partout en France. Le workflow GitHub Pages n° 35 est indiqué comme terminé avec succès le 5 novembre 2026 : https://github.com/Tabandfiles/tableaux-et-methodes/actions.
 5. Continuer à qualifier des entreprises dans plusieurs régions, sans supposer leurs besoins.
 6. Compléter les mentions légales avec les informations exactes de l'exploitant avant publication.
 
