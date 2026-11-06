@@ -16,7 +16,7 @@ Contact : tabsandmethod@gmail.com
 3. Associations sportives : inventaire du matériel, prêts, contrôles et renouvellement.
 4. Petites structures multi-sites : suivi d'équipements, demandes d'intervention et tableaux de bord simples.
 
-Prospecter à l'échelle nationale, en répartissant progressivement les recherches entre les régions françaises. Ne pas concentrer toute la prospection sur une seule ville : cibler d'abord les entreprises dont l'activité permet de proposer un exemple pertinent, puis élargir la couverture régionale. Utiliser des coordonnées professionnelles publiées par l'entreprise et respecter les règles applicables à la prospection électronique. Utiliser des coordonnées professionnelles publiées par l'entreprise et respecter les règles applicables à la prospection électronique.
+Prospecter à l'échelle nationale, en répartissant progressivement les recherches entre les régions françaises. Ne pas concentrer toute la prospection sur une seule ville : cibler d'abord les entreprises dont l'activité permet de proposer un exemple pertinent, puis élargir la couverture régionale. Utiliser des coordonnées professionnelles publiées par l'entreprise et respecter les règles applicables à la prospection électronique.
 
 ## Message 1 — prise de contact courte
 
