@@ -25,9 +25,10 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 - [Cahier des charges du registre des interventions](modele-registre-interventions-specification.md) — spécification écrite ; fichier ODS final non créé et formules non testées.
 - [Cahier des charges du suivi de maintenance](modele-suivi-maintenance-specification.md) — conception version 1 définie ; fichier ODS non créé et formules non testées.
 - [Grille de contrôle qualité](grille-controle-qualite-tableurs.md) — critères à appliquer avant commercialisation.
-- [Prospection nationale](premiers-prospects.md) — coordonnées publiques sourcées ; besoins non confirmés ; aucun e-mail envoyé.
+- [Prospection nationale](premiers-prospects.md) — 18 pistes réparties dans les 13 régions métropolitaines, coordonnées publiques sourcées ; besoins non confirmés ; aucun e-mail envoyé.
 - [Suivi de prospection](suivi-prospection.csv) — modèle de suivi des prises de contact.
 - [Modèles d'e-mails](modeles-emails-prospection.md) — brouillons uniquement, à ne pas envoyer avant finalisation et test des produits.
+- [Fiche de cadrage client](fiche-cadrage-client.md) — questions à poser pour définir un besoin, le volume, le logiciel et le périmètre avant devis.
 - [Plan de développement](plan-de-developpement.md) — plan de validation commerciale.
 - [Brouillons juridiques](brouillon-mentions-legales-confidentialite.md) — incomplets, ne pas publier avant ajout des informations réelles et vérification.
 
@@ -36,7 +37,7 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 1. Finaliser la première version du fichier ODS, décider si les mouvements doivent alimenter automatiquement le stock, puis le publier via un canal de livraison vérifié.
 2. Tester les formules, validations, filtres, compatibilité LibreOffice et réouverture du fichier.
 3. Préparer une démonstration avec données fictives.
-4. Publication du site vérifiée le 6 novembre 2026 : la page publique affiche la portée nationale, les métadonnées SEO, les offres, les exemples fictifs et la FAQ sur la prestation à distance partout en France. Le workflow GitHub Pages n° 35 est indiqué comme terminé avec succès le 5 novembre 2026 : https://github.com/Tabandfiles/tableaux-et-methodes/actions.
+4. Contrôle du 7 novembre 2026 : le site public est accessible et affiche la portée nationale, les offres, les exemples fictifs et la FAQ. Le contenu tarifaire le plus récent du dépôt n'est pas encore visible publiquement. Le workflow n° 42 a réussi la construction Jekyll mais le déploiement est resté en file d'attente jusqu'à l'échec ; une relance du job de déploiement a été demandée et doit encore être vérifiée : https://github.com/Tabandfiles/tableaux-et-methodes/actions/runs/42267673095.
 5. Continuer à qualifier des entreprises dans plusieurs régions, sans supposer leurs besoins.
 6. Compléter les mentions légales avec les informations exactes de l'exploitant avant publication.
 

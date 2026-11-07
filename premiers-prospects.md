@@ -1,6 +1,6 @@
 # Prospection nationale — Tableaux & Méthodes
 
-**Mise à jour générale : 5 novembre 2026. Contrôle ponctuel complémentaire : 6 novembre 2026.** Coordonnées contrôlées sur les pages officielles citées ci-dessous. La présence d'une coordonnée sur un site ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé.
+**Mise à jour générale : 7 novembre 2026.** Coordonnées vérifiées sur les pages officielles citées. La présence d'une coordonnée sur un site ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé. Coordonnées contrôlées sur les pages officielles citées ci-dessous. La présence d'une coordonnée sur un site ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé.
 
 ## Prospects dont l'activité et au moins un moyen de contact sont confirmés
 
@@ -85,3 +85,26 @@ Ces coordonnées ont été lues sur les pages indiquées. Elles confirment l'exi
 - **Déploiement** : la page GitHub Actions affiche le workflow « pages build and deployment » n° 35 comme terminé avec succès le 5 novembre 2026 : https://github.com/Tabandfiles/tableaux-et-methodes/actions
 
 Aucun prospect n'a été contacté.
+
+
+## Nouvelles pistes contrôlées — 7 novembre 2026
+
+Les pages ci-dessous ont été consultées directement. Les coordonnées sont des canaux professionnels publiés ; elles ne prouvent aucun besoin de tableur. La qualification reste à faire avant toute prise de contact.
+
+| Région | Entreprise | Activité et localisation vérifiées | Contact professionnel publié | Réserve / priorité |
+|---|---|---|---|---|
+| Normandie | A2L Chauffage Plomberie | Artisan plombier-chauffagiste intervenant à Mathieu, Caen et alentours ; indique aussi accompagner les professionnels | contact@a2l-chauffage-plomberie.fr · 07 89 73 18 61 | Priorité de qualification moyenne : artisan indépendant selon son site ; vérifier si le volume d'activité justifie un suivi simple. |
+| Normandie | S2E | Plomberie, chauffage, équipements thermiques, ventilation et entretien ; ZAC Lazzaro, 25 rue Jean Monnet, 14460 Colombelles | 02 31 53 80 80 | Priorité basse : offre multi-services et périmètre étendu ; outils métier déjà utilisés inconnus. |
+| Auvergne-Rhône-Alpes | MLP Plomberie Chauffage | Plomberie, chauffage et sanitaire ; 33 avenue de la Libération, 63000 Clermont-Ferrand ; forme EI indiquée dans les mentions légales | 06 83 00 17 44 | Priorité moyenne à basse : activité établie et installations nombreuses selon le site ; vérifier l'organisation et les outils existants. |
+| Auvergne-Rhône-Alpes | Entreprise Blanchet | Plomberie et chauffage ; 46 rue Joseph Desaymard, La Pardieu, 63000 Clermont-Ferrand ; interventions annoncées auprès des professionnels | contact@entreprise-blanchet.fr · 04 73 28 93 17 | Priorité basse : entreprise établie, équipe et outils éventuels à qualifier avant toute proposition. |
+
+### Sources officielles — contrôle du 7 novembre 2026
+
+- A2L Chauffage Plomberie : https://a2l-chauffage-plomberie.fr/ ; annonce de la commune de Mathieu (1er octobre 2026) : https://www.commune-mathieu.fr/evenement_2092_Bienvenue_a_A2L_Chauffage_Plomberie_nouvel_artisan_a_Mathieu
+- S2E : page métier https://www.s2e-enr.fr/plombier-chauffagiste-situe-caen.html ; mentions légales https://www.s2e-enr.fr/mentions-legales.html
+- MLP Plomberie Chauffage : https://mlp-plomberie-chauffage.fr/ ; mentions légales https://mlp-plomberie-chauffage.fr/mentions-legales/
+- Entreprise Blanchet : page officielle de demande de devis https://www.plombier-blanchet.com/devis-plomberie-clermont-ferrand.html
+
+### Répartition nationale
+
+La liste compte maintenant **18 pistes** couvrant les **13 régions métropolitaines**. Ce chiffre décrit une couverture géographique, pas 18 prospects qualifiés : les besoins restent inconnus, aucun contact n'a été effectué et les priorités sont des hypothèses de travail.
