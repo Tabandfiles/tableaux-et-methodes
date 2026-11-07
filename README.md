@@ -37,7 +37,7 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 1. Finaliser la première version du fichier ODS, décider si les mouvements doivent alimenter automatiquement le stock, puis le publier via un canal de livraison vérifié.
 2. Tester les formules, validations, filtres, compatibilité LibreOffice et réouverture du fichier.
 3. Préparer une démonstration avec données fictives.
-4. Contrôle du 7 novembre 2026 : le site public est accessible et affiche la portée nationale, les offres, les exemples fictifs et la FAQ. Le contenu tarifaire le plus récent du dépôt n'est pas encore visible publiquement. Le workflow n° 42 a réussi la construction Jekyll mais le déploiement est resté en file d'attente jusqu'à l'échec ; une relance du job de déploiement a été demandée et doit encore être vérifiée : https://github.com/Tabandfiles/tableaux-et-methodes/actions/runs/42267673095.
+4. Contrôle du 7 novembre 2026 après publication : le workflow GitHub Pages n° 43 est terminé avec succès. La page publique a été relue ; elle affiche la portée nationale, la nouvelle formulation prudente de l'offre de stock, les exemples fictifs et les informations de cadrage à fournir avant une demande. Le workflow n° 42 avait échoué après être resté en file d'attente ; la publication du commit suivant a abouti : https://github.com/Tabandfiles/tableaux-et-methodes/actions/runs/42401443741.
 5. Continuer à qualifier des entreprises dans plusieurs régions, sans supposer leurs besoins.
 6. Compléter les mentions légales avec les informations exactes de l'exploitant avant publication.
 
