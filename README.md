@@ -21,7 +21,7 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 
 ## État réel des livrables
 
-- [Cahier des charges du suivi de stock](modele-suivi-stock-specification.md) — prototype ODS local créé et recalculé par LibreOffice sur des exemples fictifs ; pas encore versionné dans le dépôt. Les totaux cumulés restent manuels et la compatibilité Excel n'est pas testée.
+- [Cahier des charges du suivi de stock](modele-suivi-stock-specification.md) — prototype ODS v1 local recalculé par LibreOffice ; tests d'exemple réussis (stocks 8, 24 et 3 ; tableau de bord 3 références, 2 alertes, 4 mouvements). Les entrées/sorties cumulées restent manuelles, le journal ne synchronise pas le stock, les filtres/listes déroulantes ne sont pas préconfigurés et Excel n'est pas testé. La version automatisée n'est pas validée.
 - [Cahier des charges du registre des interventions](modele-registre-interventions-specification.md) — spécification écrite ; fichier ODS final non créé et formules non testées.
 - [Cahier des charges du suivi de maintenance](modele-suivi-maintenance-specification.md) — conception version 1 définie ; fichier ODS non créé et formules non testées.
 - [Grille de contrôle qualité](grille-controle-qualite-tableurs.md) — critères à appliquer avant commercialisation.
