@@ -1,6 +1,6 @@
 # Prospection nationale — Tableaux & Méthodes
 
-**Mise à jour générale : 7 novembre 2026.** Coordonnées vérifiées sur les pages officielles citées. La présence d'une coordonnée sur un site ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé. Coordonnées contrôlées sur les pages officielles citées ci-dessous. La présence d'une coordonnée sur un site ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé.
+**Relecture documentaire : 8 novembre 2026.** Les dernières vérifications individuelles des coordonnées et des activités datent du 7 novembre 2026 et sont référencées ci-dessous. La présence d'une coordonnée publique ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé.
 
 ## Prospects dont l'activité et au moins un moyen de contact sont confirmés
 
@@ -37,7 +37,7 @@ Ces six pistes ne sont pas encore des prospects qualifiés au sens commercial : 
 
 ## Couverture nationale
 
-La liste doit continuer à être étoffée dans les régions non représentées : Bretagne, Normandie, Pays de la Loire, Centre-Val de Loire, Grand Est, Bourgogne-Franche-Comté, Auvergne-Rhône-Alpes, Provence-Alpes-Côte d'Azur et Corse. Garder une répartition nationale plutôt que concentrer les recherches autour d'une seule ville.
+La liste couvre désormais les 13 régions métropolitaines. La prochaine étape n'est pas d'augmenter le nombre pour lui-même, mais de revalider les canaux officiels avant tout contact, de diversifier les activités représentées et de qualifier les besoins sans les présumer.
 
 Site : https://tabandfiles.github.io/tableaux-et-methodes/  
 E-mail : tabsandmethod@gmail.com
@@ -54,7 +54,7 @@ Ces coordonnées ont été lues sur les pages indiquées. Elles confirment l'exi
 | Bourgogne-Franche-Comté | SBE | Maintenance industrielle, chaudronnerie, mécanosoudure ; Route nationale 5, 21110 Longeault-Pluvault | 03 80 47 29 29 ; formulaire officiel | Basse : le site indique une équipe d'environ 30 personnes ; vérifier l'outillage déjà en place. |
 | Grand Est | Industechnic Group — agence de Strasbourg | Maintenance électronique et réparation d'équipements industriels ; 2D rue Ampère, ZI, 67720 Hoerdt | contact.strasbourg@industechnic.com · +33 3 88 51 39 76 | Basse : entreprise spécialisée et structurée ; ne pas supposer qu'un tableur serait utile. |
 | Provence-Alpes-Côte d’Azur | CMH Industrie | Réparation navale, échangeurs thermiques, propulsion, hydraulique et maintenance industrielle ; 27 boulevard Gay-Lussac, 13014 Marseille | contact@cmhindustrie.com · 04 12 16 01 88 | Basse : activité technique complexe ; à conserver comme piste secondaire. |
-| Pays de la Loire | Atlant’Eco | Plomberie, chauffage et énergies renouvelables ; région nantaise | 06 82 71 33 04 (numéro affiché pour les urgences) ; formulaire officiel pour une demande générale | Moyenne : artisan/entreprise de services ; un suivi de consommables ou d'interventions pourrait être proposé seulement après qualification. Le numéro précédemment noté n'a pas été revalidé sur la page consultée. |
+| Pays de la Loire | Atlant’Eco | Plomberie, chauffage et énergies renouvelables ; région nantaise | Formulaire officiel pour une demande générale : https://www.atlanteco.fr/contactez-nous/ | Moyenne : artisan/entreprise de services ; un suivi de consommables ou d'interventions pourrait être proposé seulement après qualification. Le numéro public repéré est réservé aux urgences et n'est pas retenu comme canal commercial. |
 | Pays de la Loire | SARL Laquittant | Plomberie et chauffage ; 22 impasse du Ruisseau, 44580 Saint-Mars-du-Désert | 02 78 77 16 92 ; formulaire officiel | Moyenne : contact public confirmé ; besoin non connu. |
 | Corse | FB2B | Plomberie et électricité ; chemin de Pastoreccia, 20600 Bastia | 07 83 90 41 55 ; site officiel | Moyenne : petite entreprise de services ; piste pour un registre simple, sans présumer d'un besoin. |
 
@@ -108,3 +108,11 @@ Les pages ci-dessous ont été consultées directement. Les coordonnées sont de
 ### Répartition nationale
 
 La liste compte maintenant **18 pistes** couvrant les **13 régions métropolitaines**. Ce chiffre décrit une couverture géographique, pas 18 prospects qualifiés : les besoins restent inconnus, aucun contact n'a été effectué et les priorités sont des hypothèses de travail.
+
+
+## Contrôle documentaire — 8 novembre 2026
+
+- Le fichier de suivi CSV a été comparé à cette liste : 18 entreprises, 17 colonnes et aucun contact marqué comme effectué.
+- Les 13 régions métropolitaines sont représentées ; ce décompte décrit uniquement la couverture géographique.
+- Le numéro d'Atlant’Eco destiné aux urgences est exclu du champ de contact commercial ; seul le formulaire général est retenu.
+- Les coordonnées restent à revérifier le jour d'une éventuelle prise de contact. Aucun besoin client n'est confirmé et aucun message n'a été envoyé.
