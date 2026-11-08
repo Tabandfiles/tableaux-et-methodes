@@ -3,7 +3,7 @@
 **Produit :** Suivi de stock simple  
 **Prix de lancement envisagé :** 20 €  
 **Format cible :** LibreOffice Calc (.ods) ; compatibilité Excel à tester avant de la promettre  
-**Statut au 5 novembre 2026 :** prototype ODS créé localement et ouvert/enregistré par LibreOffice en mode sans interface. Les formules de stock actuel, d’alerte et les indicateurs du tableau de bord ont été recalculés et vérifiés sur les trois lignes fictives. Le fichier n’est pas encore versionné dans le dépôt GitHub. La compatibilité Excel n’a pas été testée.
+**Statut au 8 novembre 2026 :** le prototype ODS v1 existe localement et a été recalculé avec LibreOffice. Sur les exemples fictifs, les calculs du stock actuel, les alertes et les indicateurs du tableau de bord ont été vérifiés. Les colonnes Entrées cumulées et Sorties cumulées sont toutefois saisies manuellement : le journal Mouvements ne les alimente pas. Le fichier n’est pas versionné dans le dépôt GitHub. Les filtres ne sont pas préconfigurés, les listes de l’onglet Listes ne sont pas encore des menus déroulants et la compatibilité Excel n’a pas été testée. Une tentative de version automatisant les mouvements n’a pas passé le contrôle de recalcul dans le classeur complet ; elle n’est donc pas retenue comme livrable.
 
 ## Objectif
 
@@ -89,7 +89,8 @@ Pour tracer chaque opération :
 
 ## À faire ensuite
 
-1. Créer le vrai fichier .ods à partir de cette spécification quand l'outil de création de fichier sera disponible.
-2. Tester les formules dans LibreOffice Calc.
-3. Ajouter une capture d'écran ou un aperçu au site, sans prétendre qu'il s'agit d'un fichier téléchargeable tant qu'il ne l'est pas.
-4. Fixer clairement les limites incluses dans le prix de 20 € et facturer séparément toute personnalisation supplémentaire.
+1. Conserver le prototype v1 comme démonstration locale, sans le présenter comme un stock automatiquement synchronisé.
+2. Isoler puis corriger le défaut de recalcul des formules inter-feuilles dans une nouvelle version ; ne remplacer v1 qu'après réussite des tests dans le classeur complet.
+3. Préconfigurer et tester les filtres et validations de saisie dans LibreOffice Calc.
+4. Ajouter une capture d'écran ou un aperçu au site, sans prétendre qu'il s'agit d'un fichier téléchargeable tant que le fichier n'est pas publié par un canal public vérifié.
+5. Fixer clairement les limites incluses dans le prix de 20 € et facturer séparément toute personnalisation supplémentaire.
