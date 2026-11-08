@@ -25,7 +25,7 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 - [Cahier des charges du registre des interventions](modele-registre-interventions-specification.md) — spécification écrite ; fichier ODS final non créé et formules non testées.
 - [Cahier des charges du suivi de maintenance](modele-suivi-maintenance-specification.md) — conception version 1 définie ; fichier ODS non créé et formules non testées.
 - [Grille de contrôle qualité](grille-controle-qualite-tableurs.md) — critères à appliquer avant commercialisation.
-- [Prospection nationale](premiers-prospects.md) — 18 pistes réparties dans les 13 régions métropolitaines, coordonnées publiques sourcées ; besoins non confirmés ; aucun e-mail envoyé.
+- [Prospection nationale](premiers-prospects.md) — 18 pistes réparties dans les 13 régions métropolitaines ; dernière vérification individuelle des sources le 7 novembre ; besoins non confirmés ; aucun e-mail envoyé.
 - [Suivi de prospection](suivi-prospection.csv) — modèle de suivi des prises de contact.
 - [Modèles d'e-mails](modeles-emails-prospection.md) — brouillons uniquement, à ne pas envoyer avant finalisation et test des produits.
 - [Fiche de cadrage client](fiche-cadrage-client.md) — questions à poser pour définir un besoin, le volume, le logiciel et le périmètre avant devis.
@@ -34,12 +34,13 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 
 ## Priorités de travail
 
-1. Finaliser la première version du fichier ODS, décider si les mouvements doivent alimenter automatiquement le stock, puis le publier via un canal de livraison vérifié.
-2. Tester les formules, validations, filtres, compatibilité LibreOffice et réouverture du fichier.
-3. Préparer une démonstration avec données fictives.
-4. Contrôle du 7 novembre 2026 après publication : le workflow GitHub Pages n° 43 est terminé avec succès. La page publique a été relue ; elle affiche la portée nationale, la nouvelle formulation prudente de l'offre de stock, les exemples fictifs et les informations de cadrage à fournir avant une demande. Le workflow n° 42 avait échoué après être resté en file d'attente ; la publication du commit suivant a abouti : https://github.com/Tabandfiles/tableaux-et-methodes/actions/runs/42401443741.
-5. Continuer à qualifier des entreprises dans plusieurs régions, sans supposer leurs besoins.
+1. Garder le prototype ODS v1 comme base de démonstration : les mouvements détaillés sont consignés, mais les entrées et sorties cumulées de la feuille Stock restent saisies manuellement. Ne pas le vendre comme un stock synchronisé automatiquement.
+2. Construire une nouvelle version automatisée uniquement après validation complète des formules, des références inter-feuilles, des cellules vides et des cas limites dans LibreOffice Calc.
+3. Préconfigurer les filtres et listes de saisie, puis contrôler le rendu et la réouverture du fichier.
+4. Contrôle du 8 novembre 2026 : le site public a été relu en direct et affiche la portée nationale, les offres, les limites de périmètre, les exemples fictifs et la FAQ. La page GitHub Actions affiche le workflow Pages n° 44 comme terminé avec succès le 7 novembre 2026 : https://github.com/Tabandfiles/tableaux-et-methodes/actions.
+5. La liste de prospection et le CSV ont été comparés le 8 novembre : 18 entreprises, 13 régions métropolitaines, 17 colonnes de suivi ; aucun besoin n'est confirmé et aucun contact n'a été effectué. Les coordonnées doivent être revérifiées juste avant toute prise de contact.
 6. Compléter les mentions légales avec les informations exactes de l'exploitant avant publication.
+
 
 ## Principes
 
