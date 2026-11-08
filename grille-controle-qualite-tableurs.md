@@ -1,6 +1,6 @@
 # Grille de contrôle qualité — tableurs Tableaux & Méthodes
 
-**Version :** 1.0 — 5 novembre 2026  
+**Version :** 1.1 — 8 novembre 2026  
 **Usage :** contrôle interne avant de proposer ou livrer un fichier.  
 **Statut :** checklist préparée ; elle ne signifie pas que les modèles sont déjà construits ou testés.
 
@@ -76,3 +76,19 @@
 ## 6. Règle de mise en vente
 
 Ne pas présenter un produit comme prêt à vendre tant que les contrôles applicables ne sont pas cochés. Si un test échoue, documenter le défaut, corriger puis recommencer le test. Ne jamais annoncer une compatibilité, une automatisation ou une conformité non vérifiée.
+
+
+## 7. Journal de contrôle — suivi de stock v1 (8 novembre 2026)
+
+Le prototype local v1 a été ouvert et recalculé avec LibreOffice sur des données fictives.
+
+| Cas contrôlé | Résultat observé | État |
+|---|---|---|
+| Sortie seule : stock initial 10, sortie 2 | Stock actuel 8 ; alerte « À COMMANDER » avec seuil 10 | Réussi |
+| Entrée puis sortie : stock initial 20, entrée 10, sortie 6 | Stock actuel 24 ; alerte « OK » avec seuil 8 | Réussi |
+| Sortie seule : stock initial 5, sortie 2 | Stock actuel 3 ; alerte « À COMMANDER » avec seuil 5 | Réussi |
+| Indicateurs du tableau de bord sur les 3 exemples | 3 références, 2 alertes, 4 mouvements, quantité totale 35 | Réussi |
+
+**Limites constatées :** les entrées et sorties cumulées sont saisies manuellement dans la feuille Stock ; le journal Mouvements ne les calcule pas automatiquement. Les tests de quantité négative, référence inconnue, seuil exactement atteint, cellules vides et extension de plage restent à faire. Les filtres et menus déroulants ne sont pas préconfigurés. La compatibilité Excel n'a pas été testée.
+
+Une tentative d'automatisation inter-feuilles a produit des totaux nuls lors du recalcul du classeur complet. Cette version n'est pas acceptée et ne doit pas être livrée. Le produit reste un prototype, pas encore un modèle commercial final.
