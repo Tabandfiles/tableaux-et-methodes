@@ -116,3 +116,17 @@ La liste compte maintenant **18 pistes** couvrant les **13 régions métropolita
 - Les 13 régions métropolitaines sont représentées ; ce décompte décrit uniquement la couverture géographique.
 - Le numéro d'Atlant’Eco destiné aux urgences est exclu du champ de contact commercial ; seul le formulaire général est retenu.
 - Les coordonnées restent à revérifier le jour d'une éventuelle prise de contact. Aucun besoin client n'est confirmé et aucun message n'a été envoyé.
+
+
+## Revalidation ponctuelle de coordonnées — 9 novembre 2026
+
+Contrôle direct de quatre sites officiels. Ces vérifications confirment les informations publiques ci-dessous, pas un besoin d'achat ni l'intérêt de ces entreprises pour un tableur.
+
+| Entreprise | Information revalidée | Source officielle | Réserve |
+|---|---|---|---|
+| A2L Chauffage Plomberie (Normandie) | Activité auprès des particuliers et professionnels à Mathieu/Caen ; e-mail contact@a2l-chauffage-plomberie.fr ; téléphone 07 89 73 18 61 ; adresse à Mathieu | [Mentions légales](https://a2l-chauffage-plomberie.fr/mentions-legales.html) et [site officiel](https://a2l-chauffage-plomberie.fr/) | Coordonnées confirmées le 9 novembre. Besoin de tableur inconnu. |
+| SARL Laquittant (Pays de la Loire) | Adresse à Saint-Mars-du-Désert et téléphone 02 78 77 16 92 ; aucun e-mail professionnel n'a été relevé sur la page consultée | [Page contact officielle](https://www.sarl-laquittant.com/contact.php) | La page mentionne Bloctel et l'opposition au démarchage téléphonique : vérifier les règles et l'opposition avant tout appel. Ne pas inventer d'e-mail. |
+| FB2B (Corse) | Activité plomberie/électricité à Bastia ; téléphone 07 83 90 41 55 ; formulaire de contact public | [Accueil](https://fb2b.fr/) et [page contact](https://fb2b.fr/index.php/contact/) | Aucun e-mail direct confirmé dans l'extraction. Le téléphone est aussi utilisé pour les urgences : ne pas multiplier les appels commerciaux. |
+| MLP Plomberie Chauffage (Auvergne-Rhône-Alpes) | Mentions légales indiquant entrepreneur individuel, adresse à Clermont-Ferrand et téléphone 06 83 00 17 44 | [Mentions légales officielles](https://mlp-plomberie-chauffage.fr/mentions-legales/) | Aucun e-mail direct relevé. Besoin et outils existants inconnus. |
+
+Aucun contact n'a été effectué. Les pistes restent non qualifiées. Pour toute future prospection, revérifier le canal, la fonction du destinataire et les éventuelles oppositions au moment de l'envoi.
