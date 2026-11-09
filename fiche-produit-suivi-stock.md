@@ -29,4 +29,4 @@ Le besoin, le volume, le logiciel utilisé et les éventuelles adaptations sont 
 
 ## Statut
 
-Le modèle de travail ODS v2.1 existe et ses tests de calcul documentés sont réussis. Il reste à vérifier visuellement les filtres, à ajouter des validations de saisie et à faire tester l'ergonomie par une personne non technique avant de considérer le produit comme final.
+Le journal de tests documente une version de travail ODS v2.1 dont les calculs ont été contrôlés dans LibreOffice Calc. Il reste à vérifier visuellement les filtres, à ajouter des validations de saisie et à faire tester l'ergonomie par une personne non technique avant de considérer le produit comme final. Attention : le fichier v1 joint dans la conversation est une ancienne maquette à cumuls manuels, et non la v2.1. Le fichier v2.1 n'est pas disponible dans l'espace de travail de ce contrôle ; ne pas remettre la v1 comme produit final. Voir [l'audit du livrable](controle-livrable-suivi-stock-9-nov-2026.md).
