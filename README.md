@@ -22,9 +22,10 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 ## État réel des livrables
 
 - [Fiche produit — suivi de stock](fiche-produit-suivi-stock.md) — périmètre de base et limites de l'offre à 20 €.
-- [Cahier des charges du suivi de stock](modele-suivi-stock-specification.md) — ODS v2.1 créé localement et recalculé avec LibreOffice Calc ; 5 feuilles, 405 formules, 100 références et 500 mouvements prévus. Les mouvements alimentent automatiquement les cumuls, le stock et les alertes.
+- [Cahier des charges du suivi de stock](modele-suivi-stock-specification.md) — le journal interne documente un ODS v2.1 recalculé avec LibreOffice Calc ; 5 feuilles, 405 formules, 100 références et 500 mouvements prévus.
 - [Journal de tests ODS v2.1](tests-suivi-stock-v2-1.md) — tests statiques et dynamiques réussis sur données fictives : stocks 8, 24 et 3 ; tableau de bord 3 références, 2 alertes, 1 OK, 4 mouvements, 35 unités ; seuil exact et stock négatif testés.
-- Le fichier ODS de travail est remis séparément et n'est pas publié dans le dépôt public afin de ne pas rendre le modèle commercial complet librement téléchargeable. Excel n'a pas été testé.
+- **Contrôle du livrable joint le 9 novembre :** le seul fichier réellement disponible dans l'espace de travail de cette vérification est `Tableaux_Methodes_Suivi_Stock_v1.ods` (32 910 octets). Il s'agit d'une ancienne maquette : 5 feuilles, 6 formules dans Stock, 5 dans le tableau de bord ; les entrées/sorties cumulées sont saisies manuellement et le journal Mouvements ne met pas le stock à jour. Ne pas la présenter comme la v2.1 ni comme le produit final. Le fichier v2.1 décrit dans les journaux n'est pas présent dans cet espace de travail et ne peut donc pas être joint ou recontrôlé ici. Voir [l'audit du livrable](controle-livrable-suivi-stock-9-nov-2026.md).
+- Le fichier ODS v2.1 n'est pas publié dans le dépôt public afin de ne pas rendre le modèle commercial complet librement téléchargeable. Excel n'a pas été testé.
 - Limites restantes du stock : menus déroulants non configurés, filtres à vérifier visuellement dans Calc, quantités négatives non bloquées à la saisie, références inconnues ou dupliquées non détectées, test utilisateur à réaliser.
 - [Cahier des charges du registre des interventions](modele-registre-interventions-specification.md) — spécification écrite ; fichier ODS final non créé et formules non testées.
 - [Cahier des charges du suivi de maintenance](modele-suivi-maintenance-specification.md) — conception version 1 définie ; fichier ODS non créé et formules non testées.
@@ -38,9 +39,10 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 
 ## Priorités
 
-1. Vérifier visuellement les filtres dans LibreOffice Calc et ajouter des validations de saisie.
-2. Créer une copie vierge du suivi de stock, sans exemples fictifs, pour une livraison client.
-3. Faire tester le modèle par une personne non technique et corriger les points de friction.
+1. Récupérer dans l'espace de travail le véritable ODS v2.1 décrit dans le journal de tests ; à défaut, reconstruire le livrable après levée du blocage de génération.
+2. Ne pas remettre la maquette v1 comme produit automatisé : ses cumuls sont manuels.
+3. Vérifier visuellement les filtres dans LibreOffice Calc, ajouter et tester les validations de saisie, puis créer une copie vierge.
+4. Faire tester le modèle par une personne non technique et corriger les points de friction.
 4. Développer ensuite le registre d'interventions et le suivi de maintenance, sans annoncer de fichiers non créés.
 5. Compléter les mentions légales avec les informations exactes de l'exploitant avant publication.
 6. Revalider les coordonnées des prospects juste avant tout contact ; la présence d'un contact public ne confirme aucun besoin.
