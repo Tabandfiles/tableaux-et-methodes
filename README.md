@@ -17,30 +17,39 @@ Création de tableaux de suivi simples pour artisans, petites entreprises, assoc
 | Tableau de bord | Dès 40 € |
 | Besoin spécifique | Sur devis |
 
-Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signifient pas qu'un fichier prêt à télécharger est déjà disponible pour chaque offre.
+Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signifient pas qu'un fichier prêt à télécharger est disponible pour chaque offre.
 
 ## État réel des livrables
 
-- [Cahier des charges du suivi de stock](modele-suivi-stock-specification.md) — prototype ODS v1 local recalculé par LibreOffice ; tests d'exemple réussis (stocks 8, 24 et 3 ; tableau de bord 3 références, 2 alertes, 4 mouvements). Les entrées/sorties cumulées restent manuelles, le journal ne synchronise pas le stock, les filtres/listes déroulantes ne sont pas préconfigurés et Excel n'est pas testé. La version automatisée n'est pas validée.
+- [Fiche produit — suivi de stock](fiche-produit-suivi-stock.md) — périmètre de base et limites de l'offre à 20 €.
+- [Cahier des charges du suivi de stock](modele-suivi-stock-specification.md) — ODS v2.1 créé localement et recalculé avec LibreOffice Calc ; 5 feuilles, 405 formules, 100 références et 500 mouvements prévus. Les mouvements alimentent automatiquement les cumuls, le stock et les alertes.
+- [Journal de tests ODS v2.1](tests-suivi-stock-v2-1.md) — tests statiques et dynamiques réussis sur données fictives : stocks 8, 24 et 3 ; tableau de bord 3 références, 2 alertes, 1 OK, 4 mouvements, 35 unités ; seuil exact et stock négatif testés.
+- Le fichier ODS de travail est remis séparément et n'est pas publié dans le dépôt public afin de ne pas rendre le modèle commercial complet librement téléchargeable. Excel n'a pas été testé.
+- Limites restantes du stock : menus déroulants non configurés, filtres à vérifier visuellement dans Calc, quantités négatives non bloquées à la saisie, références inconnues ou dupliquées non détectées, test utilisateur à réaliser.
 - [Cahier des charges du registre des interventions](modele-registre-interventions-specification.md) — spécification écrite ; fichier ODS final non créé et formules non testées.
 - [Cahier des charges du suivi de maintenance](modele-suivi-maintenance-specification.md) — conception version 1 définie ; fichier ODS non créé et formules non testées.
-- [Grille de contrôle qualité](grille-controle-qualite-tableurs.md) — critères à appliquer avant commercialisation.
-- [Prospection nationale](premiers-prospects.md) — 18 pistes réparties dans les 13 régions métropolitaines ; dernière vérification individuelle des sources le 7 novembre ; besoins non confirmés ; aucun e-mail envoyé.
+- [Grille de contrôle qualité](grille-controle-qualite-tableurs.md) — critères et journaux de tests.
+- [Prospection nationale](premiers-prospects.md) — 18 pistes réparties dans les 13 régions métropolitaines ; dernières vérifications individuelles des sources le 7 novembre ; besoins non confirmés ; aucun e-mail envoyé.
 - [Suivi de prospection](suivi-prospection.csv) — modèle de suivi des prises de contact.
-- [Modèles d'e-mails](modeles-emails-prospection.md) — brouillons uniquement, à ne pas envoyer avant finalisation et test des produits.
-- [Fiche de cadrage client](fiche-cadrage-client.md) — questions à poser pour définir un besoin, le volume, le logiciel et le périmètre avant devis.
+- [Modèles d'e-mails](modeles-emails-prospection.md) — brouillons uniquement, aucun message envoyé.
+- [Fiche de cadrage client](fiche-cadrage-client.md) — questions pour définir le besoin, le volume, le logiciel et le périmètre avant devis.
 - [Plan de développement](plan-de-developpement.md) — plan de validation commerciale.
 - [Brouillons juridiques](brouillon-mentions-legales-confidentialite.md) — incomplets, ne pas publier avant ajout des informations réelles et vérification.
 
-## Priorités de travail
+## Priorités
 
-1. Garder le prototype ODS v1 comme base de démonstration : les mouvements détaillés sont consignés, mais les entrées et sorties cumulées de la feuille Stock restent saisies manuellement. Ne pas le vendre comme un stock synchronisé automatiquement.
-2. Construire une nouvelle version automatisée uniquement après validation complète des formules, des références inter-feuilles, des cellules vides et des cas limites dans LibreOffice Calc.
-3. Préconfigurer les filtres et listes de saisie, puis contrôler le rendu et la réouverture du fichier.
-4. Contrôle du 8 novembre 2026 : le site public a été relu en direct et affiche la portée nationale, les offres, les limites de périmètre, les exemples fictifs et la FAQ. La page GitHub Actions affiche le workflow Pages n° 44 comme terminé avec succès le 7 novembre 2026 : https://github.com/Tabandfiles/tableaux-et-methodes/actions.
-5. La liste de prospection et le CSV ont été comparés le 8 novembre : 18 entreprises, 13 régions métropolitaines, 17 colonnes de suivi ; aucun besoin n'est confirmé et aucun contact n'a été effectué. Les coordonnées doivent être revérifiées juste avant toute prise de contact.
-6. Compléter les mentions légales avec les informations exactes de l'exploitant avant publication.
+1. Vérifier visuellement les filtres dans LibreOffice Calc et ajouter des validations de saisie.
+2. Créer une copie vierge du suivi de stock, sans exemples fictifs, pour une livraison client.
+3. Faire tester le modèle par une personne non technique et corriger les points de friction.
+4. Développer ensuite le registre d'interventions et le suivi de maintenance, sans annoncer de fichiers non créés.
+5. Compléter les mentions légales avec les informations exactes de l'exploitant avant publication.
+6. Revalider les coordonnées des prospects juste avant tout contact ; la présence d'un contact public ne confirme aucun besoin.
 
+## Vérification du site et du dépôt — 9 novembre 2026
+
+- Le dépôt `Tabandfiles/tableaux-et-methodes` est public, la branche par défaut est `main`, les droits de modification sont disponibles.
+- Le site public a été relu en direct : portée nationale, offres, exemples fictifs, FAQ et contact sont accessibles.
+- La page GitHub Actions affiche le workflow Pages n° 51 comme terminé avec succès le 8 novembre 2026 : https://github.com/Tabandfiles/tableaux-et-methodes/actions.
 
 ## Principes
 
