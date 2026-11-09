@@ -30,7 +30,7 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 - [Cahier des charges du registre des interventions](modele-registre-interventions-specification.md) — spécification écrite ; fichier ODS final non créé et formules non testées.
 - [Cahier des charges du suivi de maintenance](modele-suivi-maintenance-specification.md) — conception version 1 définie ; fichier ODS non créé et formules non testées.
 - [Grille de contrôle qualité](grille-controle-qualite-tableurs.md) — critères et journaux de tests.
-- [Prospection nationale](premiers-prospects.md) — 18 pistes réparties dans les 13 régions métropolitaines ; dernières vérifications individuelles des sources le 7 novembre ; besoins non confirmés ; aucun e-mail envoyé.
+- [Prospection nationale](premiers-prospects.md) — 18 pistes réparties dans les 13 régions métropolitaines ; quatre coordonnées revalidées sur les sites officiels le 9 novembre ; besoins non confirmés ; aucun e-mail envoyé.
 - [Suivi de prospection](suivi-prospection.csv) — modèle de suivi des prises de contact.
 - [Modèles d'e-mails](modeles-emails-prospection.md) — brouillons uniquement, aucun message envoyé.
 - [Fiche de cadrage client](fiche-cadrage-client.md) — questions pour définir le besoin, le volume, le logiciel et le périmètre avant devis.
@@ -43,15 +43,15 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 2. Ne pas remettre la maquette v1 comme produit automatisé : ses cumuls sont manuels.
 3. Vérifier visuellement les filtres dans LibreOffice Calc, ajouter et tester les validations de saisie, puis créer une copie vierge.
 4. Faire tester le modèle par une personne non technique et corriger les points de friction.
-4. Développer ensuite le registre d'interventions et le suivi de maintenance, sans annoncer de fichiers non créés.
-5. Compléter les mentions légales avec les informations exactes de l'exploitant avant publication.
-6. Revalider les coordonnées des prospects juste avant tout contact ; la présence d'un contact public ne confirme aucun besoin.
+5. Développer ensuite le registre d'interventions et le suivi de maintenance, sans annoncer de fichiers non créés.
+6. Compléter les mentions légales avec les informations exactes de l'exploitant avant publication.
+7. Revalider les coordonnées des prospects juste avant tout contact ; la présence d'un contact public ne confirme aucun besoin.
 
 ## Vérification du site et du dépôt — 9 novembre 2026
 
 - Le dépôt `Tabandfiles/tableaux-et-methodes` est public, la branche par défaut est `main`, les droits de modification sont disponibles.
 - Le site public a été relu en direct : portée nationale, offres, exemples fictifs, FAQ et contact sont accessibles.
-- La page GitHub Actions affiche le workflow Pages n° 51 comme terminé avec succès le 8 novembre 2026 : https://github.com/Tabandfiles/tableaux-et-methodes/actions.
+- Le workflow Pages n° 57 est terminé avec succès le 9 novembre 2026. La dernière modification du site (commit `20cd504`) a déclenché le workflow n° 63, encore en cours lors de la vérification ; la mise à jour du texte public n'est donc pas considérée comme publiée tant que ce déploiement n'a pas abouti : https://github.com/Tabandfiles/tableaux-et-methodes/actions.
 
 ## Principes
 
