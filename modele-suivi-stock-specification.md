@@ -1,96 +1,90 @@
-# Cahier des charges — Modèle de suivi de stock
+# Cahier des charges — Suivi de stock
 
 **Produit :** Suivi de stock simple  
-**Prix de lancement envisagé :** 20 €  
-**Format cible :** LibreOffice Calc (.ods) ; compatibilité Excel à tester avant de la promettre  
-**Statut au 8 novembre 2026 :** le prototype ODS v1 existe localement et a été recalculé avec LibreOffice. Sur les exemples fictifs, les calculs du stock actuel, les alertes et les indicateurs du tableau de bord ont été vérifiés. Les colonnes Entrées cumulées et Sorties cumulées sont toutefois saisies manuellement : le journal Mouvements ne les alimente pas. Le fichier n’est pas versionné dans le dépôt GitHub. Les filtres ne sont pas préconfigurés, les listes de l’onglet Listes ne sont pas encore des menus déroulants et la compatibilité Excel n’a pas été testée. Une tentative de version automatisant les mouvements n’a pas passé le contrôle de recalcul dans le classeur complet ; elle n’est donc pas retenue comme livrable.
+**Prix de lancement affiché :** 20 € pour le périmètre de base  
+**Format :** LibreOffice Calc (.ods)  
+**Version de travail :** 2.1 — 9 novembre 2026
 
-## Objectif
+## Statut réel
 
-Permettre à un artisan, une petite entreprise technique ou une association de connaître rapidement les quantités disponibles et de repérer les articles à recommander, sans logiciel métier ni abonnement.
+Le modèle ODS v2.1 a été créé et recalculé avec LibreOffice Calc. Il contient cinq feuilles : Guide, Mouvements, Stock, Tableau de bord et Listes. Il est préconfiguré pour 100 références et 500 mouvements, avec 405 cellules de formule.
+
+Les mouvements alimentent automatiquement les cumuls par référence. Le stock actuel est calculé à partir du stock initial, des entrées et des sorties. L'alerte distingue trois états : STOCK NÉGATIF, À COMMANDER et OK.
+
+Le fichier de travail est remis séparément ; il n'est pas publié dans le dépôt public afin de ne pas mettre gratuitement à disposition le modèle commercial complet. Excel n'a pas été testé.
 
 ## Structure du classeur
 
-### Feuille 1 — « Stock »
-
-Une ligne par référence, avec ces colonnes :
+### Feuille « Stock »
 
 | Colonne | Nom | Utilisation |
 |---|---|---|
-| A | Référence | Identifiant interne unique |
-| B | Article | Nom compréhensible |
+| A | Référence | Identifiant unique à respecter |
+| B | Article | Nom de l'article |
 | C | Catégorie | Famille d'articles |
-| D | Emplacement | Atelier, véhicule, réserve, etc. |
-| E | Fournisseur | Nom du fournisseur habituel |
-| F | Quantité initiale | Quantité au démarrage |
-| G | Entrées | Quantités reçues depuis le démarrage |
-| H | Sorties | Quantités consommées ou sorties |
-| I | Stock actuel | Calcul automatique |
-| J | Seuil d'alerte | Niveau minimal défini par l'utilisateur |
-| K | À commander ? | Alerte automatique |
+| D | Emplacement | Réserve, atelier, véhicule, etc. |
+| E | Fournisseur | Fournisseur habituel, facultatif |
+| F | Stock initial | Quantité au démarrage |
+| G | Entrées cumulées | Calcul automatique depuis Mouvements |
+| H | Sorties cumulées | Calcul automatique depuis Mouvements |
+| I | Stock actuel | Stock initial + entrées − sorties |
+| J | Seuil d'alerte | Niveau minimal choisi |
+| K | Alerte | STOCK NÉGATIF / À COMMANDER / OK |
 | L | Dernière mise à jour | Date de contrôle manuel |
 | M | Commentaires | Informations facultatives |
 
-### Formules prévues
+### Feuille « Mouvements »
 
-À partir de la ligne 2, avec des cellules vides traitées comme zéro :
+Une ligne par opération : Date, Référence, Article, Type, Quantité, Motif, Personne / service et Commentaire. La quantité doit être positive ; le type doit être exactement Entrée ou Sortie.
 
-- **Stock actuel (I2)** : `=F2+G2-H2`
-- **Alerte (K2)** : `=IF(I2<=J2;"À COMMANDER";"OK")`
+### Autres feuilles
 
-La formule d'alerte devra être localisée selon la langue de l'application (par exemple `SI` en interface française) et testée dans LibreOffice Calc. Les formules ci-dessus sont une logique de référence, pas encore validée dans un fichier.
+- **Guide :** mode d'emploi et limites du modèle.
+- **Tableau de bord :** références renseignées, articles à commander, articles au-dessus du seuil, mouvements enregistrés et quantité totale en stock.
+- **Listes :** valeurs de référence pour les catégories, types et motifs. Cette feuille n'alimente pas encore de menus déroulants.
 
-### Feuille 2 — « Mouvements »
+## Logique de calcul
 
-Pour tracer chaque opération :
+- Entrées cumulées : somme des quantités des mouvements de type Entrée pour la référence.
+- Sorties cumulées : somme des quantités des mouvements de type Sortie pour la référence.
+- Stock actuel : stock initial + entrées cumulées − sorties cumulées.
+- Alerte : si le stock est négatif, afficher STOCK NÉGATIF ; sinon, si le stock est inférieur ou égal au seuil, afficher À COMMANDER ; sinon afficher OK.
 
-| Colonne | Nom | Utilisation |
+Les formules sont présentes dans le fichier ODS et ont été recalculées dans LibreOffice Calc. Les références inconnues ne sont pas automatiquement ajoutées à la feuille Stock : elles doivent être rapprochées manuellement.
+
+## Tests effectués le 9 novembre 2026
+
+| Cas | Résultat attendu et observé | État |
 |---|---|---|
-| A | Date | Date du mouvement |
-| B | Référence | Référence de l'article |
-| C | Article | Libellé |
-| D | Type | Entrée ou sortie |
-| E | Quantité | Quantité déplacée |
-| F | Motif | Achat, utilisation, retour, correction |
-| G | Personne / service | Facultatif |
-| H | Commentaire | Facultatif |
+| Gants : stock initial 10, sortie 2, seuil 10 | Stock 8 ; À COMMANDER | Réussi |
+| Nettoyant : stock initial 20, entrée 10, sortie 6, seuil 8 | Stock 24 ; OK | Réussi |
+| Joint : stock initial 5, sortie 2, seuil 5 | Stock 3 ; À COMMANDER | Réussi |
+| Tableau de bord | 3 références, 2 alertes, 1 article OK, 4 mouvements, 35 unités | Réussi |
+| Modification d'une sortie de 2 à 7 | Stock recalculé à 3 ; À COMMANDER | Réussi |
+| Stock exactement égal au seuil | À COMMANDER | Réussi |
+| Stock négatif | STOCK NÉGATIF | Réussi |
+| Lignes de saisie inutilisées | Non comptées dans les indicateurs | Réussi |
 
-**Limite importante :** la première version peut utiliser des totaux saisis manuellement dans « Stock ». Pour automatiser le calcul depuis « Mouvements », il faudra ajouter des formules de synthèse par référence et tester les cas d'erreur (référence inconnue, quantité négative, cellules vides). Ne pas vendre une fonctionnalité tant qu'elle n'est pas testée.
+Le journal détaillé est dans [tests-suivi-stock-v2-1.md](tests-suivi-stock-v2-1.md).
 
-### Feuille 3 — « Guide »
+## Limites connues avant commercialisation
 
-- Commencer par remplacer les exemples fictifs par les articles de l'utilisateur.
-- Donner une référence différente à chaque article.
-- Saisir la quantité initiale et le seuil d'alerte.
-- Mettre à jour les entrées et sorties, puis vérifier le stock physique.
-- Contrôler régulièrement la colonne « Dernière mise à jour ».
-- Faire une copie de sauvegarde avant toute modification importante.
-- Ne pas utiliser ce modèle comme système comptable ou de traçabilité réglementaire sans adaptation professionnelle.
+- Les listes de la feuille Listes ne sont pas encore reliées à des validations de données / menus déroulants.
+- Les plages de filtres sont définies dans le fichier ; leur rendu doit encore être contrôlé visuellement à l'ouverture dans Calc.
+- Les quantités négatives ne sont pas bloquées par une validation de saisie ; elles sont à éviter. Le stock négatif calculé est signalé.
+- Pas de détection automatique des références en double ou inconnues.
+- Pas de gestion des commandes fournisseurs, réservations, lots, numéros de série, inventaires multi-sites ou notifications.
+- Les formules et l'ergonomie doivent être testées dans une session utilisateur réelle avant diffusion à grande échelle.
+- La compatibilité Excel n'est pas testée et ne doit pas être promise.
 
-## Qualité et présentation
+## Périmètre de l'offre de base
 
-- Première ligne figée et filtres activés.
-- Titres explicites, largeur de colonnes adaptée, format de date homogène.
-- Mise en évidence visuelle des stocks à commander.
-- Validation de données pour les catégories et les types de mouvement, si possible.
-- 5 à 10 lignes d'exemple fictives clairement signalées.
-- Aucun nom, e-mail ou donnée d'une vraie entreprise dans le fichier de démonstration.
-- Une page d'instructions claire, sans macros obligatoires.
+Le tarif de lancement de 20 € correspond au modèle simple dans la limite de 100 références et 500 mouvements, avec une notice courte. Toute demande dépassant ce périmètre ou ajoutant des fonctions spécifiques doit être chiffrée avant réalisation. Le périmètre et le prix sont confirmés avant de commencer.
 
-## Tests avant vente
+## Prochaines améliorations
 
-1. Vérifier que les quantités calculées ne deviennent pas négatives sans signalement.
-2. Tester une référence sans mouvement, une entrée, une sortie et un stock sous le seuil.
-3. Tester les filtres et la copie des formules sur plusieurs lignes.
-4. Ouvrir, enregistrer et rouvrir le fichier dans LibreOffice Calc.
-5. Si une version Excel est annoncée, ouvrir et tester séparément dans Excel.
-6. Tester les cellules vides et les erreurs de saisie.
-7. Vérifier que le guide suffit à une personne non technique.
-
-## À faire ensuite
-
-1. Conserver le prototype v1 comme démonstration locale, sans le présenter comme un stock automatiquement synchronisé.
-2. Isoler puis corriger le défaut de recalcul des formules inter-feuilles dans une nouvelle version ; ne remplacer v1 qu'après réussite des tests dans le classeur complet.
-3. Préconfigurer et tester les filtres et validations de saisie dans LibreOffice Calc.
-4. Ajouter une capture d'écran ou un aperçu au site, sans prétendre qu'il s'agit d'un fichier téléchargeable tant que le fichier n'est pas publié par un canal public vérifié.
-5. Fixer clairement les limites incluses dans le prix de 20 € et facturer séparément toute personnalisation supplémentaire.
+1. Vérifier visuellement les filtres dans LibreOffice Calc.
+2. Ajouter et tester les validations de données pour Type et Quantité.
+3. Créer une copie vierge sans exemples fictifs pour la livraison client.
+4. Tester avec une personne non technique et noter ses difficultés.
+5. Tester séparément la compatibilité Excel si elle devient une demande commerciale.
