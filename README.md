@@ -30,6 +30,7 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 - [Cahier des charges du registre des interventions](modele-registre-interventions-specification.md) — spécification écrite ; fichier ODS final non créé et formules non testées.
 - [Cahier des charges du suivi de maintenance](modele-suivi-maintenance-specification.md) — conception version 1 définie ; fichier ODS non créé et formules non testées.
 - [Grille de contrôle qualité](grille-controle-qualite-tableurs.md) — critères et journaux de tests.
+- [Contrôle du site public](controle-site-public-9-nov-2026.md) — SEO, liens de contact, portée nationale et absence actuelle de pages juridiques publiées.
 - [Prospection nationale](premiers-prospects.md) — 18 pistes réparties dans les 13 régions métropolitaines ; quatre coordonnées revalidées sur les sites officiels le 9 novembre ; besoins non confirmés ; aucun e-mail envoyé.
 - [Suivi de prospection](suivi-prospection.csv) — modèle de suivi des prises de contact.
 - [Modèles d'e-mails](modeles-emails-prospection.md) — brouillons uniquement, aucun message envoyé.
@@ -51,7 +52,8 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 
 - Le dépôt `Tabandfiles/tableaux-et-methodes` est public, la branche par défaut est `main`, les droits de modification sont disponibles.
 - Le site public a été relu en direct : portée nationale, offres, exemples fictifs, FAQ et contact sont accessibles.
-- Le workflow Pages n° 57 est terminé avec succès le 9 novembre 2026. La dernière modification du site (commit `20cd504`) a déclenché le workflow n° 63, encore en cours lors de la vérification ; la mise à jour du texte public n'est donc pas considérée comme publiée tant que ce déploiement n'a pas abouti : https://github.com/Tabandfiles/tableaux-et-methodes/actions.
+- Le workflow Pages n° 63, associé au commit `20cd504`, a terminé avec succès : les trois jobs build, report-build-status et deploy sont réussis. Le site public a ensuite été relu et affiche bien la mention de finalisation du suivi de stock : https://github.com/Tabandfiles/tableaux-et-methodes/actions/runs/42680596675.
+- Le contrôle HTML a relevé 9 liens e-mail utilisant tous `tabsandmethod@gmail.com`, les métadonnées SEO attendues et l'absence de liens vers des mentions légales/confidentialité publiées. Voir [le contrôle du site](controle-site-public-9-nov-2026.md).
 
 ## Principes
 
