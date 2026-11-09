@@ -92,3 +92,20 @@ Le prototype local v1 a été ouvert et recalculé avec LibreOffice sur des donn
 **Limites constatées :** les entrées et sorties cumulées sont saisies manuellement dans la feuille Stock ; le journal Mouvements ne les calcule pas automatiquement. Les tests de quantité négative, référence inconnue, seuil exactement atteint, cellules vides et extension de plage restent à faire. Les filtres et menus déroulants ne sont pas préconfigurés. La compatibilité Excel n'a pas été testée.
 
 Une tentative d'automatisation inter-feuilles a produit des totaux nuls lors du recalcul du classeur complet. Cette version n'est pas acceptée et ne doit pas être livrée. Le produit reste un prototype, pas encore un modèle commercial final.
+
+
+## 8. Journal de contrôle — suivi de stock v2.1 (9 novembre 2026)
+
+Le modèle ODS v2.1 a été recalculé avec LibreOffice Calc sur des données fictives. Les tests statiques et les tests dynamiques sont consignés dans [tests-suivi-stock-v2-1.md](tests-suivi-stock-v2-1.md).
+
+| Cas contrôlé | Résultat observé | État |
+|---|---|---|
+| Sortie seule | Stock 8 ; alerte À COMMANDER | Réussi |
+| Entrée puis sortie | Stock 24 ; alerte OK | Réussi |
+| Stock sous le seuil | Stock 3 ; alerte À COMMANDER | Réussi |
+| Modification d'un mouvement | Le stock et l'alerte se recalculent | Réussi |
+| Stock exactement égal au seuil | Alerte À COMMANDER | Réussi |
+| Stock négatif | Alerte STOCK NÉGATIF | Réussi |
+| Indicateurs et lignes vides | 3 références, 4 mouvements, 35 unités ; les lignes inutilisées ne sont pas comptées | Réussi |
+
+**Limites non validées :** fonctionnement visuel des filtres dans une session Calc, menus déroulants, blocage des quantités négatives, détection des références inconnues ou dupliquées, compatibilité Excel et test utilisateur non technique. Ne pas cocher ces contrôles avant leur réalisation.
