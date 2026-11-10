@@ -61,3 +61,10 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 - Aucune dépense ni engagement juridique pris.
 - Coordonnées de prospection sourcées sur les pages officielles quand possible.
 - Ne jamais annoncer un modèle, une formule ou une compatibilité comme testé si ce n'est pas le cas.
+
+
+## Inventaire des anciens modèles — 10 novembre 2026
+
+Une inspection en lecture seule de la bibliothèque a retrouvé deux anciens classeurs XLSX : `pack_modeles_suivi_numerique.xlsx` (5 feuilles, 105 formules, validations de données sur certaines colonnes) et `modele_suivi_maintenance_demo.xlsx` (3 feuilles, 52 formules). Ils peuvent servir de références de conception, mais ne sont pas des fichiers ODS validés dans LibreOffice. Le pack Stock ne contient pas de journal de mouvements automatisé. Voir [l'inventaire détaillé](inventaire-modeles-existants-10-nov-2026.md).
+
+La recherche n'a pas retrouvé le binaire `Tableaux_Methodes_Suivi_Stock_v2_1.ods` dans la bibliothèque, les fichiers de conversation ni l'arborescence du dépôt. Le fichier v1 reste la seule maquette stock remise dans la conversation et ne doit pas être vendu comme modèle automatisé.
