@@ -31,7 +31,7 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 - [Cahier des charges du suivi de maintenance](modele-suivi-maintenance-specification.md) — conception version 1 définie ; fichier ODS non créé et formules non testées.
 - [Grille de contrôle qualité](grille-controle-qualite-tableurs.md) — critères et journaux de tests.
 - [Contrôle du site public](controle-site-public-9-nov-2026.md) — SEO, liens de contact, portée nationale et absence actuelle de pages juridiques publiées.
-- [Prospection nationale](premiers-prospects.md) — 18 pistes réparties dans les 13 régions métropolitaines ; quatre coordonnées revalidées sur les sites officiels le 9 novembre ; besoins non confirmés ; aucun e-mail envoyé.
+- [Prospection nationale](premiers-prospects.md) — 18 pistes réparties dans les 13 régions métropolitaines ; sept coordonnées revalidées sur les sites officiels (quatre le 9 novembre, trois le 11 novembre) ; besoins non confirmés ; aucun e-mail envoyé.
 - [Suivi de prospection](suivi-prospection.csv) — modèle de suivi des prises de contact.
 - [Modèles d'e-mails](modeles-emails-prospection.md) — brouillons uniquement, aucun message envoyé.
 - [Fiche de cadrage client](fiche-cadrage-client.md) — questions pour définir le besoin, le volume, le logiciel et le périmètre avant devis.
