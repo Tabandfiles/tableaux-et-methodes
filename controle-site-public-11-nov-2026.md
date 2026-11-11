@@ -32,8 +32,12 @@ Cette correction évite de transformer le journal de tests documentaire de la v2
 ## État du déploiement au moment du contrôle
 
 - Dernier déploiement confirmé avant la correction : workflow Pages n° 42877381234, terminé avec succès le 10 novembre 2026.
-- Déploiement de la correction : workflow n° 43076148310, état `in_progress` au dernier contrôle ; conclusion non encore disponible.
-- La dernière extraction publique effectuée avant la fin de ce nouveau workflow renvoyait encore l'ancien texte. Il ne faut donc pas déclarer la correction publiée tant que le workflow n'est pas terminé et que la page en ligne n'a pas été relue.
+- Le workflow n° 43076148310 (commit de correction HTML) a été annulé après des commits plus récents. Le workflow n° 43076201925 (rapport) a également été annulé. Les workflows n° 43076218312 puis 43076301547 étaient en attente lors du dernier contrôle, le second correspondant à la mise à jour de la prospection.
+- La dernière extraction publique effectuée avant la fin de ces workflows renvoyait encore l'ancien texte. Il ne faut donc pas déclarer la correction publiée tant qu'un workflow pour le dernier commit n'est pas terminé et que la page en ligne n'a pas été relue.
+
+## Revalidation de prospection — 11 novembre 2026
+
+Trois sites officiels ont été relus : A2L Chauffage Plomberie (Normandie), SBE (Bourgogne-Franche-Comté) et CMH Industrie (Provence-Alpes-Côte d’Azur). Les informations confirmées et les réserves sont consignées dans [la liste nationale des prospects](premiers-prospects.md). Aucun contact n'a été envoyé.
 
 ## État commercial et limites
 
