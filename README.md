@@ -55,6 +55,13 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 - Le workflow Pages n° 63, associé au commit `20cd504`, a terminé avec succès : les trois jobs build, report-build-status et deploy sont réussis. Le site public a ensuite été relu et affiche bien la mention de finalisation du suivi de stock : https://github.com/Tabandfiles/tableaux-et-methodes/actions/runs/42680596675.
 - Le contrôle HTML a relevé 9 liens e-mail utilisant tous `tabsandmethod@gmail.com`, les métadonnées SEO attendues et l'absence de liens vers des mentions légales/confidentialité publiées. Voir [le contrôle du site](controle-site-public-9-nov-2026.md).
 
+## Contrôle du site — 11 novembre 2026
+
+- Une correction a été apportée à `index.html` : le suivi de stock automatisé est désormais présenté comme **en préparation et non disponible à la livraison**. Les 100 références et 500 mouvements sont explicitement une cible de conception, non une capacité garantie.
+- Le déploiement correspondant était encore en cours lors du contrôle ; la page publique renvoyait encore l'ancien texte à cette heure. Ne pas déclarer la correction publiée avant une nouvelle lecture de la page en ligne.
+- Le contrôle détaillé et les références des workflows sont consignés dans [le rapport du 11 novembre](controle-site-public-11-nov-2026.md).
+- Le binaire ODS v2.1 n'est toujours pas présent dans le dépôt. Le prototype v1 reste une maquette à cumuls manuels.
+
 ## Principes
 
 - Aucun e-mail commercial envoyé sans décision explicite.
