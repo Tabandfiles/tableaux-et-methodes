@@ -130,3 +130,16 @@ Contrôle direct de quatre sites officiels. Ces vérifications confirment les in
 | MLP Plomberie Chauffage (Auvergne-Rhône-Alpes) | Mentions légales indiquant entrepreneur individuel, adresse à Clermont-Ferrand et téléphone 06 83 00 17 44 | [Mentions légales officielles](https://mlp-plomberie-chauffage.fr/mentions-legales/) | Aucun e-mail direct relevé. Besoin et outils existants inconnus. |
 
 Aucun contact n'a été effectué. Les pistes restent non qualifiées. Pour toute future prospection, revérifier le canal, la fonction du destinataire et les éventuelles oppositions au moment de l'envoi.
+
+
+## Revalidation de coordonnées sur sites officiels — 11 novembre 2026
+
+Trois pages officielles ont été relues. Cette vérification confirme uniquement les informations publiques ci-dessous ; elle ne confirme ni un besoin de tableur, ni l'intérêt commercial, ni la taille de la structure.
+
+| Région | Entreprise | Information publique revalidée | Source officielle | Réserve |
+|---|---|---|---|---|
+| Normandie | A2L Chauffage Plomberie | Adresse à Mathieu ; téléphone 07 89 73 18 61 ; e-mail contact@a2l-chauffage-plomberie.fr ; statut d'entrepreneur individuel indiqué dans les mentions légales | [Mentions légales](https://a2l-chauffage-plomberie.fr/mentions-legales) | Canal public confirmé. Ne pas présumer d'un besoin ; vérifier le cadre de prospection avant tout message. |
+| Bourgogne-Franche-Comté | SBE | Adresse Route Nationale 5, 21110 Longeault-Pluvault ; téléphone 03 80 47 29 29 ; formulaire de contact ; activité de maintenance industrielle et métiers associés | [Page contact](https://www.sbe-maintenance-industrielle.fr/contact.html) | Aucun e-mail relevé. Le formulaire mentionne Bloctel pour l'opposition au démarchage téléphonique ; ne pas transformer le téléphone en canal de prospection sans vérification des règles applicables. |
+| Provence-Alpes-Côte d’Azur | CMH Industrie | Adresse 27 boulevard Gay-Lussac, 13014 Marseille ; téléphone 04 12 16 01 88 ; e-mail contact@cmhindustrie.com ; formulaire de contact ; activités navales et maintenance industrielle | [Page contact](https://www.cmhindustrie.com/contact) | Canal public confirmé. Activité technique spécialisée ; outils existants et pertinence d'un tableur simple inconnus. |
+
+Aucun e-mail, appel ou formulaire n'a été envoyé ou soumis. Les trois entreprises restent des pistes non qualifiées. Revalider le canal et les éventuelles oppositions juste avant toute prise de contact.
