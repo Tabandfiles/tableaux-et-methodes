@@ -58,8 +58,9 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 ## Contrôle du site — 11 novembre 2026
 
 - Une correction a été apportée à `index.html` : le suivi de stock automatisé est désormais présenté comme **en préparation et non disponible à la livraison**. Les 100 références et 500 mouvements sont explicitement une cible de conception, non une capacité garantie.
-- Le déploiement correspondant était encore en cours lors du contrôle ; la page publique renvoyait encore l'ancien texte à cette heure. Ne pas déclarer la correction publiée avant une nouvelle lecture de la page en ligne.
+- Les premiers workflows déclenchés par ces commits ont été annulés à la suite de modifications successives ; le workflow du dernier commit était encore en attente lors du dernier contrôle. La page publique renvoyait encore l'ancien texte. Ne pas déclarer la correction publiée avant la fin d'un déploiement du dernier commit et une nouvelle lecture de la page en ligne.
 - Le contrôle détaillé et les références des workflows sont consignés dans [le rapport du 11 novembre](controle-site-public-11-nov-2026.md).
+- Trois coordonnées professionnelles ont été revalidées le 11 novembre sur les sites officiels d'A2L Chauffage Plomberie (Normandie), SBE (Bourgogne-Franche-Comté) et CMH Industrie (Provence-Alpes-Côte d’Azur) ; voir [la liste nationale](premiers-prospects.md). Aucun contact n'a été envoyé.
 - Le binaire ODS v2.1 n'est toujours pas présent dans le dépôt. Le prototype v1 reste une maquette à cumuls manuels.
 
 ## Principes
