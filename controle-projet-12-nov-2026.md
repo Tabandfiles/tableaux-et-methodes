@@ -50,6 +50,6 @@ Récupérer le binaire v2.1 s'il existe dans un espace de travail antérieur acc
 
 - Le workflow Pages n° 83 a terminé avec succès le 12 novembre 2026 : [run n° 83](https://github.com/Tabandfiles/tableaux-et-methodes/actions/runs/43280484994).
 - Une nouvelle lecture du site public confirme les six CTA « Décrire mon besoin » et le texte précisant que les offres sont des créations à la demande, pas des téléchargements immédiats.
-- Le workflow n° 84, déclenché ensuite par la correction du CSV, était encore en cours au dernier contrôle : [historique des workflows](https://github.com/Tabandfiles/tableaux-et-methodes/actions).
+- Le workflow n° 84, déclenché par la correction du CSV, s'est terminé avec succès. Le workflow n° 86, déclenché par les dernières mises à jour documentaires, a également terminé ses trois étapes build, report-build-status et deploy avec succès : [run n° 86](https://github.com/Tabandfiles/tableaux-et-methodes/actions/runs/43280829621).
 - Le CSV final a été relu : 23 entreprises, 17 colonnes pour chacune des 23 lignes, aucun doublon et cinq nouvelles pistes DROM présentes. Les deux lignes historiques contenant des séparateurs non conformes ont également été corrigées.
 - Aucun fichier ODS ou XLSX n'a été ajouté : le blocage du binaire v2.1 demeure.
