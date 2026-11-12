@@ -1,6 +1,6 @@
 # Prospection nationale — Tableaux & Méthodes
 
-**Relecture documentaire : 8 novembre 2026.** Les dernières vérifications individuelles des coordonnées et des activités datent du 7 novembre 2026 et sont référencées ci-dessous. La présence d'une coordonnée publique ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé.
+**Dossier actualisé : 12 novembre 2026.** Les vérifications individuelles sont datées dans chaque section : les informations anciennes doivent être revalidées avant toute prise de contact. La présence d'une coordonnée publique ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé.
 
 ## Prospects dont l'activité et au moins un moyen de contact sont confirmés
 
@@ -143,3 +143,18 @@ Trois pages officielles ont été relues. Cette vérification confirme uniquemen
 | Provence-Alpes-Côte d’Azur | CMH Industrie | Adresse 27 boulevard Gay-Lussac, 13014 Marseille ; téléphone 04 12 16 01 88 ; e-mail contact@cmhindustrie.com ; formulaire de contact ; activités navales et maintenance industrielle | [Page contact](https://www.cmhindustrie.com/contact) | Canal public confirmé. Activité technique spécialisée ; outils existants et pertinence d'un tableur simple inconnus. |
 
 Aucun e-mail, appel ou formulaire n'a été envoyé ou soumis. Les trois entreprises restent des pistes non qualifiées. Revalider le canal et les éventuelles oppositions juste avant toute prise de contact.
+
+
+## Pistes supplémentaires en Outre-mer — vérification du 12 novembre 2026
+
+Les cinq pistes ci-dessous étendent le repérage aux cinq DROM. Les activités et coordonnées ont été consultées sur les sites officiels le 12 novembre 2026. Une activité de maintenance ou un planning de chantier ne prouve pas qu'un tableur serait utile : tous les besoins restent inconnus. Aucun e-mail, appel ou formulaire n'a été envoyé.
+
+| Territoire | Entreprise | Activité et localisation publiées | Contact professionnel public | Sources officielles | Réserve |
+|---|---|---|---|---|---|
+| Guadeloupe | Société de Maintenance Industrielle (SMI Guadeloupe) | Maintenance de moteurs diesel, groupes électrogènes, compresseurs, sécheurs d'air et équipements mécaniques ; 1 route de l'Anse à l'Eau, 97118 Saint-François | 09 74 56 40 64 ; formulaire officiel ; aucun e-mail direct relevé | [Accueil](https://www.smi-guadeloupe.fr/) · [Contact](https://www.smi-guadeloupe.fr/contactez-nous.php) | Entreprise spécialisée ; organisation et outils existants inconnus. |
+| Martinique | Clean Plomberie | Plomberie générale, colonnes AEP, rénovation, chauffe-eau et dépannages ; intervention annoncée dans le centre de la Martinique | yannick@cleanplomberie.com · +596 696 00 41 21 | [Site officiel](https://cleanplomberie.com/) | Le site mentionne un planning de chantier, mais aucun besoin de tableur n'est confirmé. |
+| La Réunion | Climatech | Entretien de climatisation et d'équipements frigorifiques ; interventions annoncées sur toute l'île | climatech.reunion@gmail.com · 06 92 86 49 05 · 02 62 46 61 45 | [Service entretien](https://climatech974.com/services/entretien) | Vérifier les outils déjà en place et l'adéquation d'un suivi simple. |
+| Guyane | MI&HG — Maintenance Industrielle & Hydraulique de Guyane | Maintenance industrielle préventive et corrective ; adresse publiée à La Cotonnière, 97351 Matoury | contact@mihg.fr · formulaire officiel | [Page contact](https://www.mihg.fr/contact/) | Entreprise spécialisée ; taille et outils métier inconnus. |
+| Mayotte | Actemium Maintenance Océan Indien — implantation Mayotte | Maintenance industrielle et tertiaire ; BP 825, ZI Kaweni, 97600 Mamoudzou | +33 2 69 63 71 12 · ludovic.pierne@actemium.com | [Présentation Mayotte](https://www.actemium.fr/implantations/actemium-mayotte/presentation/) · [Contact](https://www.actemium.fr/implantations/actemium-mayotte/contact/) | Le contact est partagé avec l'entité Océan Indien et le groupe appartient à VINCI Energies. Piste de faible priorité, sans besoin confirmé. |
+
+Aucun de ces contacts n'a été sollicité. Avant toute démarche future, vérifier à nouveau la fonction du destinataire, le canal adapté, les règles applicables et toute opposition. Ne pas utiliser les coordonnées d'urgence ou de dépannage comme canal de prospection.
