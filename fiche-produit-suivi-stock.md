@@ -2,7 +2,7 @@
 
 **Tableaux & Méthodes — prix de lancement affiché : 20 €**  
 **Format :** LibreOffice Calc (.ods)  
-**Capacité du modèle de base :** 100 références et 500 mouvements.
+**Capacité cible de conception :** 100 références et 500 mouvements. Cette capacité n'est pas disponible à la livraison tant que le binaire final n'a pas été récupéré ou reconstruit et revalidé.
 
 ## Ce que comprend le modèle
 
@@ -21,7 +21,7 @@ Commandes fournisseurs, réservations, lots, numéros de série, multi-sites, no
 
 ## Compatibilité
 
-La version 2.1 a été recalculée et contrôlée avec LibreOffice Calc. Excel n'a pas été testé. Le fichier doit donc être présenté comme un modèle LibreOffice Calc, sans promesse de compatibilité Excel.
+Le journal de tests daté du 9 novembre rapporte un recalcul de la version 2.1 avec LibreOffice Calc. Toutefois, le binaire ODS n'a pas été retrouvé dans le dépôt ni dans les fichiers accessibles le 12 novembre : les tests ne peuvent pas être rejoués aujourd'hui et aucun classeur automatisé n'est disponible à la livraison. Excel n'a pas été testé.
 
 ## Livraison et cadrage
 
@@ -29,4 +29,4 @@ Le besoin, le volume, le logiciel utilisé et les éventuelles adaptations sont 
 
 ## Statut
 
-Le journal de tests documente une version de travail ODS v2.1 dont les calculs ont été contrôlés dans LibreOffice Calc. Il reste à vérifier visuellement les filtres, à ajouter des validations de saisie et à faire tester l'ergonomie par une personne non technique avant de considérer le produit comme final. Attention : le fichier v1 joint dans la conversation est une ancienne maquette à cumuls manuels, et non la v2.1. Le fichier v2.1 n'est pas disponible dans l'espace de travail de ce contrôle ; ne pas remettre la v1 comme produit final. Voir [l'audit du livrable](controle-livrable-suivi-stock-9-nov-2026.md).
+Le journal de tests conserve un compte rendu historique de la version de travail ODS v2.1. Le binaire v2.1 n'est pas disponible dans le dépôt ni dans les fichiers accessibles le 12 novembre ; il faut le récupérer ou reconstruire le classeur avant toute livraison. Après cela, il restera à vérifier visuellement les filtres, à ajouter des validations de saisie et à faire tester l'ergonomie par une personne non technique. Attention : le fichier v1 joint dans la conversation est une ancienne maquette à cumuls manuels, et non la v2.1. Ne pas remettre la v1 comme produit automatisé. Voir [l'audit du livrable](controle-livrable-suivi-stock-9-nov-2026.md).
