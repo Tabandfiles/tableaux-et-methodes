@@ -82,7 +82,10 @@ La recherche n'a pas retrouvé le binaire `Tableaux_Methodes_Suivi_Stock_v2_1.od
 
 - Le dépôt public est sur la branche `main`, au commit `08bf66bd4ff1cea40dc44331c52e96ede7fa55ef` avant les mises à jour documentaires de cette journée.
 - L'arborescence publique contient 19 fichiers ; aucun binaire ODS ou XLSX n'y est présent. Le journal de tests v2.1 et sa fiche produit sont des documents de suivi, pas le classeur lui-même.
-- Le dernier workflow Pages visible est le n° 75, terminé avec succès le 11 novembre 2026. La page publique a été relue le 12 novembre : l'offre de stock indique bien qu'elle est en préparation et non disponible à la livraison.
+- Après les modifications du 12 novembre, le workflow Pages n° 83 s'est terminé avec succès. La page publique a été relue et sert bien les nouveaux libellés « Décrire mon besoin » et la précision indiquant que les offres sont des créations à la demande. Le workflow n° 84, déclenché ensuite par une correction du CSV, était encore en cours au dernier contrôle.
 - Les offres sont désormais présentées explicitement comme des créations à la demande, et les liens des cartes invitent à décrire un besoin plutôt qu'à demander un fichier prêt à télécharger.
 - La prospection comprend 23 pistes recensées : 18 en métropole et 5 dans les DROM. Les cinq nouvelles pistes sont sourcées par des pages officielles ; aucun besoin n'est confirmé et aucun contact n'a été effectué.
 - Les brouillons de mentions légales et de confidentialité restent incomplets. Ne pas les publier sans les informations réelles de l'exploitant et les vérifications nécessaires.
+
+
+Le CSV de prospection a été contrôlé après correction : 23 lignes d'entreprises, 17 colonnes par ligne, aucune entreprise en doublon. Le dernier contrôle du site public confirme la mise en ligne des nouveaux textes.
