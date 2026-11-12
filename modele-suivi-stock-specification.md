@@ -7,11 +7,11 @@
 
 ## Statut réel
 
-Le modèle ODS v2.1 a été créé et recalculé avec LibreOffice Calc. Il contient cinq feuilles : Guide, Mouvements, Stock, Tableau de bord et Listes. Il est préconfiguré pour 100 références et 500 mouvements, avec 405 cellules de formule.
+Le journal de travail daté du 9 novembre rapporte qu'un modèle ODS v2.1 a été créé et recalculé avec LibreOffice Calc. Il décrit cinq feuilles : Guide, Mouvements, Stock, Tableau de bord et Listes, avec une cible de 100 références et 500 mouvements et 405 cellules de formule. **Contrôle de disponibilité du 12 novembre : le binaire ODS n'est pas présent dans le dépôt public ni dans les fichiers accessibles pour cette vérification ; ces résultats historiques ne peuvent pas être rejoués aujourd'hui.**
 
 Les mouvements alimentent automatiquement les cumuls par référence. Le stock actuel est calculé à partir du stock initial, des entrées et des sorties. L'alerte distingue trois états : STOCK NÉGATIF, À COMMANDER et OK.
 
-Le fichier de travail est remis séparément ; il n'est pas publié dans le dépôt public afin de ne pas mettre gratuitement à disposition le modèle commercial complet. Excel n'a pas été testé.
+Le fichier de travail doit être remis séparément ; il n'est pas publié dans le dépôt public afin de ne pas mettre gratuitement à disposition le modèle commercial complet. Tant que le binaire n'est pas récupéré ou reconstruit et recontrôlé, aucun fichier automatisé ne doit être présenté comme disponible à la livraison. Excel n'a pas été testé.
 
 ## Structure du classeur
 
@@ -50,7 +50,7 @@ Une ligne par opération : Date, Référence, Article, Type, Quantité, Motif, P
 - Stock actuel : stock initial + entrées cumulées − sorties cumulées.
 - Alerte : si le stock est négatif, afficher STOCK NÉGATIF ; sinon, si le stock est inférieur ou égal au seuil, afficher À COMMANDER ; sinon afficher OK.
 
-Les formules sont présentes dans le fichier ODS et ont été recalculées dans LibreOffice Calc. Les références inconnues ne sont pas automatiquement ajoutées à la feuille Stock : elles doivent être rapprochées manuellement.
+Selon le contrôle consigné le 9 novembre, les formules étaient présentes dans le fichier ODS de travail et recalculées dans LibreOffice Calc. Le binaire étant indisponible lors du contrôle du 12 novembre, ce résultat historique ne peut pas être reproduit ici. Les références inconnues ne sont pas automatiquement ajoutées à la feuille Stock : elles doivent être rapprochées manuellement.
 
 ## Tests effectués le 9 novembre 2026
 
