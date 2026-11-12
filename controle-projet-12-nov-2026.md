@@ -44,3 +44,12 @@ Les cinq entreprises restent des pistes non qualifiées. La présence d'un plann
 ## Prochaine priorité
 
 Récupérer le binaire v2.1 s'il existe dans un espace de travail antérieur accessible ; sinon reconstruire le classeur de stock et revalider les calculs, les filtres et les validations de saisie dans LibreOffice Calc. Ne publier le produit comme disponible qu'après ces contrôles.
+
+
+## Vérification finale après publication
+
+- Le workflow Pages n° 83 a terminé avec succès le 12 novembre 2026 : [run n° 83](https://github.com/Tabandfiles/tableaux-et-methodes/actions/runs/43280484994).
+- Une nouvelle lecture du site public confirme les six CTA « Décrire mon besoin » et le texte précisant que les offres sont des créations à la demande, pas des téléchargements immédiats.
+- Le workflow n° 84, déclenché ensuite par la correction du CSV, était encore en cours au dernier contrôle : [historique des workflows](https://github.com/Tabandfiles/tableaux-et-methodes/actions).
+- Le CSV final a été relu : 23 entreprises, 17 colonnes pour chacune des 23 lignes, aucun doublon et cinq nouvelles pistes DROM présentes. Les deux lignes historiques contenant des séparateurs non conformes ont également été corrigées.
+- Aucun fichier ODS ou XLSX n'a été ajouté : le blocage du binaire v2.1 demeure.
