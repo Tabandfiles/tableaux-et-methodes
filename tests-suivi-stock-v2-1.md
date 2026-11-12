@@ -1,5 +1,7 @@
 # Journal de tests — Suivi de stock ODS v2.1
 
+> **Disponibilité du binaire vérifiée le 12 novembre 2026 : fichier non retrouvé.** Ce document conserve la trace des tests consignés le 9 novembre, mais le classeur `Tableaux_Methodes_Suivi_Stock_v2_1.ods` n'est pas présent dans le dépôt public ni dans les fichiers accessibles pendant ce contrôle. Les résultats ci-dessous sont donc un historique de tests rapportés, pas une validation que l'on peut rejouer aujourd'hui ni un fichier disponible à livrer. La maquette v1 jointe précédemment n'est pas automatisée.
+
 **Date :** 9 novembre 2026  
 **Application de contrôle :** LibreOffice (recalcul ODS)  
 **Fichier :** Tableaux_Methodes_Suivi_Stock_v2_1.ods  
