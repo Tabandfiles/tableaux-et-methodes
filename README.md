@@ -31,7 +31,7 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 - [Cahier des charges du suivi de maintenance](modele-suivi-maintenance-specification.md) — conception version 1 définie ; fichier ODS non créé et formules non testées.
 - [Grille de contrôle qualité](grille-controle-qualite-tableurs.md) — critères et journaux de tests.
 - [Contrôle du site public](controle-site-public-9-nov-2026.md) — SEO, liens de contact, portée nationale et absence actuelle de pages juridiques publiées.
-- [Prospection nationale](premiers-prospects.md) — 18 pistes réparties dans les 13 régions métropolitaines ; sept coordonnées revalidées sur les sites officiels (quatre le 9 novembre, trois le 11 novembre) ; besoins non confirmés ; aucun e-mail envoyé.
+- [Prospection nationale](premiers-prospects.md) — 23 pistes : 18 en métropole réparties dans les 13 régions métropolitaines et 5 pistes dans les DROM ; les nouvelles pistes ultramarines ont été vérifiées sur les sites officiels le 12 novembre ; besoins non confirmés ; aucun contact envoyé.
 - [Suivi de prospection](suivi-prospection.csv) — modèle de suivi des prises de contact.
 - [Modèles d'e-mails](modeles-emails-prospection.md) — brouillons uniquement, aucun message envoyé.
 - [Fiche de cadrage client](fiche-cadrage-client.md) — questions pour définir le besoin, le volume, le logiciel et le périmètre avant devis.
@@ -76,3 +76,13 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 Une inspection en lecture seule de la bibliothèque a retrouvé deux anciens classeurs XLSX : `pack_modeles_suivi_numerique.xlsx` (5 feuilles, 105 formules, validations de données sur certaines colonnes) et `modele_suivi_maintenance_demo.xlsx` (3 feuilles, 52 formules). Ils peuvent servir de références de conception, mais ne sont pas des fichiers ODS validés dans LibreOffice. Le pack Stock ne contient pas de journal de mouvements automatisé. Voir [l'inventaire détaillé](inventaire-modeles-existants-10-nov-2026.md).
 
 La recherche n'a pas retrouvé le binaire `Tableaux_Methodes_Suivi_Stock_v2_1.ods` dans la bibliothèque, les fichiers de conversation ni l'arborescence du dépôt. Le fichier v1 reste la seule maquette stock remise dans la conversation et ne doit pas être vendu comme modèle automatisé.
+
+
+## Vérification du projet — 12 novembre 2026
+
+- Le dépôt public est sur la branche `main`, au commit `08bf66bd4ff1cea40dc44331c52e96ede7fa55ef` avant les mises à jour documentaires de cette journée.
+- L'arborescence publique contient 19 fichiers ; aucun binaire ODS ou XLSX n'y est présent. Le journal de tests v2.1 et sa fiche produit sont des documents de suivi, pas le classeur lui-même.
+- Le dernier workflow Pages visible est le n° 75, terminé avec succès le 11 novembre 2026. La page publique a été relue le 12 novembre : l'offre de stock indique bien qu'elle est en préparation et non disponible à la livraison.
+- Les offres sont désormais présentées explicitement comme des créations à la demande, et les liens des cartes invitent à décrire un besoin plutôt qu'à demander un fichier prêt à télécharger.
+- La prospection comprend 23 pistes recensées : 18 en métropole et 5 dans les DROM. Les cinq nouvelles pistes sont sourcées par des pages officielles ; aucun besoin n'est confirmé et aucun contact n'a été effectué.
+- Les brouillons de mentions légales et de confidentialité restent incomplets. Ne pas les publier sans les informations réelles de l'exploitant et les vérifications nécessaires.
