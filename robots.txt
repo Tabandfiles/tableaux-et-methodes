@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tabandfiles.github.io/tableaux-et-methodes/sitemap.xml
