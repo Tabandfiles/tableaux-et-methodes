@@ -1,6 +1,6 @@
 # Prospection nationale — Tableaux & Méthodes
 
-**Dossier actualisé : 12 novembre 2026.** Les vérifications individuelles sont datées dans chaque section : les informations anciennes doivent être revalidées avant toute prise de contact. La présence d'une coordonnée publique ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé.
+**Dossier actualisé : 13 novembre 2026. 27 pistes recensées dans les 13 régions métropolitaines et les 5 DROM.** Les vérifications individuelles sont datées dans chaque section : les informations anciennes doivent être revalidées avant toute prise de contact. La présence d'une coordonnée publique ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé.
 
 ## Prospects dont l'activité et au moins un moyen de contact sont confirmés
 
@@ -158,3 +158,15 @@ Les cinq pistes ci-dessous étendent le repérage aux cinq DROM. Les activités 
 | Mayotte | Actemium Maintenance Océan Indien — implantation Mayotte | Maintenance industrielle et tertiaire ; BP 825, ZI Kaweni, 97600 Mamoudzou | +33 2 69 63 71 12 · ludovic.pierne@actemium.com | [Présentation Mayotte](https://www.actemium.fr/implantations/actemium-mayotte/presentation/) · [Contact](https://www.actemium.fr/implantations/actemium-mayotte/contact/) | Le contact est partagé avec l'entité Océan Indien et le groupe appartient à VINCI Energies. Piste de faible priorité, sans besoin confirmé. |
 
 Aucun de ces contacts n'a été sollicité. Avant toute démarche future, vérifier à nouveau la fonction du destinataire, le canal adapté, les règles applicables et toute opposition. Ne pas utiliser les coordonnées d'urgence ou de dépannage comme canal de prospection.
+
+
+## Nouvelles pistes vérifiées le 13 novembre 2026
+
+| Région | Entreprise | Activité confirmée sur le site officiel | Contact professionnel publié | Source officielle |
+|---|---|---|---|---|
+| Bretagne | Société Bretagne Électricité Chauffage (S-BEC) | Électricité, plomberie, chauffage et VMC ; interventions annoncées dans quatre départements bretons | contact@s-bec.fr · 02 98 41 10 11 | [Page contact](https://www.s-bec.fr/contact/) |
+| Centre-Val de Loire | Plomberie du Haut Berry | Plomberie, chauffage, climatisation et dépannage ; le site présente une équipe de 7 installateurs-dépanneurs, 1 apprenti et 2 secrétaires | 02 48 64 11 31 ; aucun e-mail direct relevé | [Page contact](https://www.plomberieduhautberry.fr/contact-devis-cher-18) · [Présentation](https://www.plomberieduhautberry.fr/) |
+| Grand Est | Hiviaco | Maintenance industrielle, réparation hydraulique et fabrication de pièces détachées | laurence.pellouard@hiviaco.com · 03 29 24 02 68 | [Page contact](https://hiviaco.com/fr/page/contact) |
+| Corse | GB Climatisation | Installation et maintenance de climatisation, chauffage et plomberie | 06 19 36 79 66 ; aucun e-mail direct relevé | [Page contact](https://www.gb-climatisation.fr/contact) |
+
+Ces quatre structures sont des pistes de prospection, pas des clients qualifiés. Leurs coordonnées et activités ont été relevées sur leurs sites officiels le 13 novembre 2026. Aucun besoin de tableur n'est confirmé et aucun contact n'a été effectué. Pour Hiviaco, l'adresse e-mail publiée est un contact professionnel nominatif indiqué par l'entreprise ; vérifier le bon destinataire et le canal avant tout usage. Pour toute structure, qualifier le besoin et vérifier les éventuelles oppositions avant une prise de contact.
