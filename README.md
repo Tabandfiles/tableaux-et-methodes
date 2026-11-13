@@ -89,3 +89,8 @@ La recherche n'a pas retrouvé le binaire `Tableaux_Methodes_Suivi_Stock_v2_1.od
 
 
 Le CSV de prospection a été contrôlé après correction : 23 lignes d'entreprises, 17 colonnes par ligne, aucune entreprise en doublon. Le dernier contrôle du site public confirme la mise en ligne des nouveaux textes.
+
+
+## Contrôle du prototype de stock — 13 novembre 2026
+
+Un prototype local **v2.0** a maintenant été créé et recalculé avec LibreOffice Calc : cinq feuilles, 406 formules, 100 références et 500 mouvements prévus. Les exemples fictifs donnent 8, 24 et 3 unités ; le tableau de bord affiche 3 références, 2 alertes, 1 référence OK, 4 mouvements et 35 unités. Trois cas dynamiques (sortie augmentée, seuil exact, stock négatif) et une version vierge ont été contrôlés. **Ce prototype n'est pas encore prêt à la vente** : filtres manuels, menus déroulants et contrôles de saisie restent à finaliser ; rendu avec interface Calc et compatibilité Excel non testés. Les deux binaires restent des fichiers de travail non publiés dans le dépôt. Voir [le rapport de contrôle du 13 novembre](controle-prototype-suivi-stock-13-nov-2026.md).
