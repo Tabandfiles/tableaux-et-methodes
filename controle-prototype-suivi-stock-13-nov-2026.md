@@ -56,3 +56,8 @@ Après recalcul : 0 référence, 0 mouvement, 0 alerte, 0 stock négatif et 0 un
 2. Ajouter des listes déroulantes et validations pour le type de mouvement, les catégories et les quantités.
 3. Ajouter des contrôles de références inconnues et en double.
 4. Rejouer les tests après chaque modification, puis préparer une version client vierge et une démonstration publique allégée.
+
+
+### Contrôle supplémentaire de mise en page — 13 novembre
+
+Une prévisualisation PDF A4 a été exportée pour examiner le guide et les feuilles. Le guide est lisible, mais la colonne Date du journal affiche encore `###` à l'impression et la feuille Stock ne tient pas proprement sur une seule largeur de page. **L'impression n'est donc pas validée** ; le classeur doit être utilisé et vérifié dans Calc à l'écran, puis la mise en page d'impression devra être corrigée avant livraison.
