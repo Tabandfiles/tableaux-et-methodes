@@ -31,7 +31,7 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 - [Cahier des charges du suivi de maintenance](modele-suivi-maintenance-specification.md) — conception version 1 définie ; fichier ODS non créé et formules non testées.
 - [Grille de contrôle qualité](grille-controle-qualite-tableurs.md) — critères et journaux de tests.
 - [Contrôle du site public](controle-site-public-9-nov-2026.md) — SEO, liens de contact, portée nationale et absence actuelle de pages juridiques publiées.
-- [Prospection nationale](premiers-prospects.md) — 23 pistes : 18 en métropole réparties dans les 13 régions métropolitaines et 5 pistes dans les DROM ; les nouvelles pistes ultramarines ont été vérifiées sur les sites officiels le 12 novembre ; besoins non confirmés ; aucun contact envoyé.
+- [Prospection nationale](premiers-prospects.md) — 27 pistes : 22 en métropole réparties dans les 13 régions métropolitaines et 5 dans les DROM ; 18 territoires couverts ; besoins non confirmés ; aucun contact envoyé.
 - [Suivi de prospection](suivi-prospection.csv) — modèle de suivi des prises de contact.
 - [Modèles d'e-mails](modeles-emails-prospection.md) — brouillons uniquement, aucun message envoyé.
 - [Fiche de cadrage client](fiche-cadrage-client.md) — questions pour définir le besoin, le volume, le logiciel et le périmètre avant devis.
@@ -97,3 +97,10 @@ Un prototype local **v2.0** a maintenant été créé et recalculé avec LibreOf
 
 
 **Contrôle de mise en page :** l'export PDF A4 du prototype a révélé une colonne Date trop étroite (`###`) et une feuille Stock qui ne tient pas proprement sur une seule largeur de page. L'impression n'est pas validée ; une vérification dans Calc avec interface et une correction de mise en page restent nécessaires.
+
+
+## Mise à jour nationale — 13 novembre 2026
+
+Le fichier de prospection contient désormais **27 entreprises distinctes** sur 18 territoires (13 régions métropolitaines et 5 DROM), avec 17 colonnes et aucune ligne dupliquée. Quatre nouvelles pistes ont été ajoutées après vérification des pages officielles : S-BEC (Bretagne), Plomberie du Haut Berry (Centre-Val de Loire), Hiviaco (Grand Est) et GB Climatisation (Corse). Les besoins restent inconnus ; aucun contact n'a été effectué.
+
+Les fichiers `robots.txt` et `sitemap.xml` sont présents dans le dépôt et leur publication a été vérifiée sur le site public. Le sitemap ne référence que la page d'accueil, seule page HTML publique actuelle.
