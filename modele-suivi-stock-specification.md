@@ -88,3 +88,10 @@ Le tarif de lancement de 20 € correspond au modèle simple dans la limite de 1
 3. Créer une copie vierge sans exemples fictifs pour la livraison client.
 4. Tester avec une personne non technique et noter ses difficultés.
 5. Tester séparément la compatibilité Excel si elle devient une demande commerciale.
+
+
+## Mise à jour — 13 novembre 2026 : prototype v2.0
+
+Un nouveau prototype ODS v2.0 a été reconstruit localement et recalculé avec LibreOffice Calc. Il comprend cinq feuilles, 406 cellules de formule, 100 lignes de références et 500 lignes de mouvements. Les exemples fictifs et les cas dynamiques (sortie augmentée, seuil exact, stock négatif) ont été rejoués ; la version vierge renvoie des indicateurs à zéro. Les deux fichiers de travail sont joints à la conversation, pas publiés dans le dépôt.
+
+**Le prototype n'est pas encore prêt à la livraison commerciale.** Les menus déroulants et validations de saisie restent à configurer ; les filtres ne sont pas préconfigurés ; les références en double ou inconnues ne sont pas signalées ; les quantités négatives ne sont pas bloquées. L'interface Calc avec utilisateur, l'impression A4 et la compatibilité Excel ne sont pas validées. Une prévisualisation PDF a notamment montré une date trop étroite à l'impression. Conserver le statut « en préparation » sur le site jusqu'à correction et contrôle manuel.
