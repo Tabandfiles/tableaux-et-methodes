@@ -4,6 +4,7 @@ Création de tableaux de suivi simples pour artisans, petites entreprises, assoc
 
 - **Site public :** https://tabandfiles.github.io/tableaux-et-methodes/
 - **Contact :** tabsandmethod@gmail.com
+- **État du suivi de stock au 14/11/2026 :** prototype ODS v2.1 reconstruit localement, 5 feuilles et 406 formules ; filtres et validations configurés, tests dynamiques et limites documentés. Pas encore livrable commercial : contrôle interactif dans Calc et test utilisateur restent à faire. Les binaires ne sont pas publiés dans le dépôt.
 - **Pas d'abonnement :** le périmètre et le prix doivent être confirmés avant toute réalisation.
 
 ## Offres affichées sur le site
@@ -40,13 +41,13 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 
 ## Priorités
 
-1. Récupérer dans l'espace de travail le véritable ODS v2.1 décrit dans le journal de tests ; à défaut, reconstruire le livrable après levée du blocage de génération.
-2. Ne pas remettre la maquette v1 comme produit automatisé : ses cumuls sont manuels.
-3. Vérifier visuellement les filtres dans LibreOffice Calc, ajouter et tester les validations de saisie, puis créer une copie vierge.
-4. Faire tester le modèle par une personne non technique et corriger les points de friction.
-5. Développer ensuite le registre d'interventions et le suivi de maintenance, sans annoncer de fichiers non créés.
-6. Compléter les mentions légales avec les informations exactes de l'exploitant avant publication.
-7. Revalider les coordonnées des prospects juste avant tout contact ; la présence d'un contact public ne confirme aucun besoin.
+1. Faire un contrôle interactif des listes déroulantes, filtres et messages de validation dans l'interface LibreOffice Calc.
+2. Ajouter un contrôle des références en double et vérifier les saisies par copier-coller.
+3. Faire tester le prototype par une personne non technique et corriger les points de friction.
+4. Finaliser le rendu d'impression et confirmer le périmètre commercial avant toute livraison.
+5. Créer ensuite les fichiers ODS du registre d'interventions et du suivi de maintenance.
+6. Compléter les pages juridiques avec les informations exactes de l'exploitant avant publication.
+7. Revalider les coordonnées et les canaux des entreprises juste avant toute prise de contact.
 
 ## Vérification du site et du dépôt — 9 novembre 2026
 
@@ -104,3 +105,19 @@ Un prototype local **v2.0** a maintenant été créé et recalculé avec LibreOf
 Le fichier de prospection contient désormais **27 entreprises distinctes** sur 18 territoires (13 régions métropolitaines et 5 DROM), avec 17 colonnes et aucune ligne dupliquée. Quatre nouvelles pistes ont été ajoutées après vérification des pages officielles : S-BEC (Bretagne), Plomberie du Haut Berry (Centre-Val de Loire), Hiviaco (Grand Est) et GB Climatisation (Corse). Les besoins restent inconnus ; aucun contact n'a été effectué.
 
 Les fichiers `robots.txt` et `sitemap.xml` sont présents dans le dépôt et leur publication a été vérifiée sur le site public. Le sitemap ne référence que la page d'accueil, seule page HTML publique actuelle.
+
+
+## Contrôle prototype ODS v2.1 — 14 novembre 2026
+
+Deux fichiers de travail ont été reconstruits localement et recalculés avec LibreOffice Calc : une démonstration avec données fictives et une version vierge. Chaque fichier comporte les cinq feuilles Guide, Mouvements, Stock, Tableau de bord et Listes, avec 406 cellules de formule.
+
+- Capacité de conception : 100 références (Stock lignes 2 à 101) et 500 mouvements (Mouvements lignes 2 à 501). Le test de frontière a utilisé la 100e référence et le 500e mouvement.
+- Validations configurées : référence de mouvement choisie dans Stock, type Entrée/Sortie, motif, catégorie, quantité de mouvement strictement positive, stock initial et seuil positifs ou nuls.
+- Filtres automatiques configurés sur les en-têtes de Stock et Mouvements.
+- Les lignes Stock sans référence restent visuellement vides au lieu d'afficher des zéros. La colonne L est nommée Date inventaire.
+- Mise en page PDF contrôlée : démonstration 5 pages ; version vierge 6 pages. Stock en A3 paysage avec répétition de l'en-tête ; mouvements en A4 paysage.
+- Tests recalculés : stock GNT-001 = 8, CLN-002 = 24, JNT-003 = 3 ; tableau de bord = 3 références, 2 alertes, 0 négatif, 1 OK, 4 mouvements, 35 unités.
+- Seuil exact : stock 3 avec seuil 3, alerte À COMMANDER. Stock négatif : -1, alerte STOCK NÉGATIF et compteur négatif = 1. Frontière : référence 100 et mouvement 500 calculés correctement.
+- Version vierge : tous les indicateurs du tableau de bord sont à zéro.
+
+Les deux binaires restent des fichiers de travail locaux et ne sont pas publiés dans le dépôt. Les tests ont été faits avec LibreOffice en mode sans interface et par export PDF ; le clic réel dans les listes/filtres, les messages de validation en interaction, Excel et un test utilisateur ne sont pas encore validés. Les références en double ne sont pas encore bloquées automatiquement. Voir le rapport [contrôle du 14 novembre](controle-prototype-suivi-stock-14-nov-2026.md).

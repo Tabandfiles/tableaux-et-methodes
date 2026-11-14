@@ -170,3 +170,12 @@ Aucun de ces contacts n'a été sollicité. Avant toute démarche future, vérif
 | Corse | GB Climatisation | Installation et maintenance de climatisation, chauffage et plomberie | 06 19 36 79 66 ; aucun e-mail direct relevé | [Page contact](https://www.gb-climatisation.fr/contact) |
 
 Ces quatre structures sont des pistes de prospection, pas des clients qualifiés. Leurs coordonnées et activités ont été relevées sur leurs sites officiels le 13 novembre 2026. Aucun besoin de tableur n'est confirmé et aucun contact n'a été effectué. Pour Hiviaco, l'adresse e-mail publiée est un contact professionnel nominatif indiqué par l'entreprise ; vérifier le bon destinataire et le canal avant tout usage. Pour toute structure, qualifier le besoin et vérifier les éventuelles oppositions avant une prise de contact.
+
+
+## Contrôle de cohérence du fichier de prospection — 14 novembre 2026
+
+Le CSV de suivi a été relu et compté : 27 lignes d'entreprises, 27 noms distincts, 17 colonnes et 18 territoires représentés (13 régions métropolitaines et 5 DROM). Les 27 lignes disposent d'une URL source ; 15 contiennent un e-mail public et 24 un téléphone public.
+
+Aucune ligne ne présente un besoin comme confirmé et aucune ne marque un contact comme effectué. Les coordonnées restent à revérifier sur la page officielle le jour d'une éventuelle démarche ; la présence d'un téléphone ou d'un formulaire ne prouve ni l'adéquation commerciale ni l'absence d'opposition. Les canaux d'urgence et les coordonnées nominatives nécessitent une prudence particulière.
+
+Aucun e-mail, appel ou formulaire n'a été envoyé.

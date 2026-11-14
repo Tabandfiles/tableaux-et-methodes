@@ -3,7 +3,7 @@
 **Produit :** Suivi de stock simple  
 **Prix de lancement affiché :** 20 € pour le périmètre de base  
 **Format :** LibreOffice Calc (.ods)  
-**Version de travail :** 2.1 — 9 novembre 2026
+**Version de travail :** 2.1 — mise à jour 14 novembre 2026
 
 ## Statut réel
 
@@ -95,3 +95,16 @@ Le tarif de lancement de 20 € correspond au modèle simple dans la limite de 1
 Un nouveau prototype ODS v2.0 a été reconstruit localement et recalculé avec LibreOffice Calc. Il comprend cinq feuilles, 406 cellules de formule, 100 lignes de références et 500 lignes de mouvements. Les exemples fictifs et les cas dynamiques (sortie augmentée, seuil exact, stock négatif) ont été rejoués ; la version vierge renvoie des indicateurs à zéro. Les deux fichiers de travail sont joints à la conversation, pas publiés dans le dépôt.
 
 **Le prototype n'est pas encore prêt à la livraison commerciale.** Les menus déroulants et validations de saisie restent à configurer ; les filtres ne sont pas préconfigurés ; les références en double ou inconnues ne sont pas signalées ; les quantités négatives ne sont pas bloquées. L'interface Calc avec utilisateur, l'impression A4 et la compatibilité Excel ne sont pas validées. Une prévisualisation PDF a notamment montré une date trop étroite à l'impression. Conserver le statut « en préparation » sur le site jusqu'à correction et contrôle manuel.
+
+
+## Mise à jour technique — 14 novembre 2026
+
+Le prototype ODS v2.1 a été reconstruit localement à partir du fichier de travail v2.0. Chaque version (démonstration et vierge) contient 5 feuilles et 406 cellules de formule. Les plages de calcul couvrent Stock A2:A101 et Mouvements lignes 2 à 501.
+
+Les validations sont configurées pour les références de mouvements (liste Stock), le type de mouvement, le motif, la catégorie, les quantités strictement positives, le stock initial et le seuil non négatifs. Les AutoFiltres sont configurés sur Mouvements A1:H501 et Stock A1:M101.
+
+Les formules des lignes Stock sans référence renvoient une cellule vide pour éviter l'affichage de zéros artificiels. La colonne MAJ a été renommée Date inventaire afin de signaler qu'elle est renseignée manuellement.
+
+Les tests de recalcul confirment les résultats d'exemple, le seuil exact, le stock négatif et les références/mouvements de frontière. Les détails, valeurs et limites sont dans [le rapport de contrôle du 14 novembre](controle-prototype-suivi-stock-14-nov-2026.md).
+
+Limites restantes : références en double non bloquées, interaction réelle avec les listes et filtres à vérifier dans l'interface graphique, Excel non testé et test utilisateur externe à réaliser. Le fichier reste un prototype non commercialisable.

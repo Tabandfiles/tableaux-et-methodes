@@ -2,7 +2,7 @@
 
 **Tableaux & Méthodes — prix de lancement affiché : 20 €**  
 **Format :** LibreOffice Calc (.ods)  
-**Capacité cible de conception :** 100 références et 500 mouvements. Cette capacité n'est pas disponible à la livraison tant que le binaire final n'a pas été récupéré ou reconstruit et revalidé.
+**Capacité de conception :** 100 références et 500 mouvements. Le prototype ODS v2.1 a été reconstruit localement le 14 novembre 2026 et testé aux limites des plages de calcul. Il n'est pas encore disponible à la livraison commerciale : le contrôle interactif dans l'interface Calc et un test utilisateur restent à faire.
 
 ## Ce que comprend le modèle
 
@@ -37,3 +37,10 @@ Le journal de tests conserve un compte rendu historique de la version de travail
 Un nouveau prototype ODS v2.0 a été reconstruit localement et recalculé avec LibreOffice Calc. Il comprend cinq feuilles, 406 cellules de formule, 100 lignes de références et 500 lignes de mouvements. Les exemples fictifs et les cas dynamiques (sortie augmentée, seuil exact, stock négatif) ont été rejoués ; la version vierge renvoie des indicateurs à zéro. Les deux fichiers de travail sont joints à la conversation, pas publiés dans le dépôt.
 
 **Le prototype n'est pas encore prêt à la livraison commerciale.** Les menus déroulants et validations de saisie restent à configurer ; les filtres ne sont pas préconfigurés ; les références en double ou inconnues ne sont pas signalées ; les quantités négatives ne sont pas bloquées. L'interface Calc avec utilisateur, l'impression A4 et la compatibilité Excel ne sont pas validées. Une prévisualisation PDF a notamment montré une date trop étroite à l'impression. Conserver le statut « en préparation » sur le site jusqu'à correction et contrôle manuel.
+
+
+## État de validation — 14 novembre 2026
+
+Le prototype v2.1 comprend 5 feuilles, 406 formules, des filtres préconfigurés et des validations de saisie pour les références de mouvements, types, motifs, catégories et quantités. Les calculs, le seuil exact, le stock négatif, la 100e référence, le 500e mouvement et la version vierge ont été recalculés avec LibreOffice Calc.
+
+Le produit reste en préparation : les listes et filtres doivent encore être manipulés dans l'interface graphique, les références en double ne sont pas encore bloquées, Excel n'est pas testé et aucun utilisateur externe n'a encore validé le fichier.
