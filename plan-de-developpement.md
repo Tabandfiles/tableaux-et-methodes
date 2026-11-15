@@ -86,7 +86,7 @@ Chaque modèle doit être testé avec des données fictives, des instructions cl
 - Suivi de stock : prototype local v2.2, démonstration et version vierge ; 507 formules par fichier ; signalement des références dupliquées ; scénarios de calcul et doublons recalculés dans LibreOffice. Toujours en préparation tant que les interactions au clic et le test utilisateur ne sont pas validés.
 - Registre d'interventions : prototype local v1.0, démonstration et version vierge ; quatre feuilles, 200 lignes prévues, 210 formules, quatre règles de validation et filtre. Les indicateurs, doublons et frontière de capacité ont été testés dans LibreOffice.
 - Suivi de maintenance : cahier des charges seulement ; aucun ODS créé à cette date.
-- Site : ajout d'un lien d'évitement, prise en compte de la préférence de réduction des animations et harmonisation des métadonnées de partage. Publication à confirmer après le workflow Pages.
+- Site : ajout d'un lien d'évitement, prise en compte de la préférence de réduction des animations et harmonisation des métadonnées de partage. Publication vérifiée : workflow Pages n° 43746840172 terminé avec succès le 15/11/2026 ; métadonnées publiques relues après déploiement.
 - Prospection : 27 pistes sur 18 territoires ; cinq coordonnées officielles revalidées le 15/11/2026. Aucun besoin confirmé et aucun contact effectué.
 
 ### Priorités suivantes
