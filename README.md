@@ -121,3 +121,11 @@ Deux fichiers de travail ont été reconstruits localement et recalculés avec L
 - Version vierge : tous les indicateurs du tableau de bord sont à zéro.
 
 Les deux binaires restent des fichiers de travail locaux et ne sont pas publiés dans le dépôt. Les tests ont été faits avec LibreOffice en mode sans interface et par export PDF ; le clic réel dans les listes/filtres, les messages de validation en interaction, Excel et un test utilisateur ne sont pas encore validés. Les références en double ne sont pas encore bloquées automatiquement. Voir le rapport [contrôle du 14 novembre](controle-prototype-suivi-stock-14-nov-2026.md).
+
+## Mise à jour des livrables — 15 novembre 2026
+
+- **Suivi de stock ODS v2.2** : démonstration et version vierge créées localement ; 5 feuilles, 507 cellules de formule, filtre Stock A1:N101 et alerte informative de références dupliquées. Les fichiers ne sont pas publiés dans le dépôt.
+- **Registre d'interventions ODS v1.0** : démonstration et version vierge créées localement ; 4 feuilles, 200 lignes prévues, 210 cellules de formule, 4 règles de validation, filtre A1:R201 et alerte informative d'identifiants dupliqués. Les fichiers ne sont pas publiés dans le dépôt.
+- Les deux prototypes ont été recalculés avec LibreOffice sur des scénarios fictifs. Les validations et alertes STOP ont été relues via UNO. Le clic réel sur les listes/filtres, un test utilisateur et Excel restent à faire ; aucun produit n'est déclaré prêt à la vente.
+- Cinq coordonnées de prospection ont été revalidées sur les sites officiels le 15/11/2026. La liste conserve 27 pistes dans 18 territoires ; tous les besoins restent inconnus et aucun contact n'a été effectué.
+- Voir [le rapport de contrôle du 15 novembre](controle-produits-15-nov-2026.md).
