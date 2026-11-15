@@ -128,3 +128,6 @@ Le modèle ODS v2.1 a été recalculé avec LibreOffice Calc sur des données fi
 - [x] Version vierge avec indicateurs à zéro.
 - [ ] Manipulation réelle des listes et filtres dans l'interface graphique.
 - [ ] Test utilisateur externe et test Excel non réalisés.
+
+
+- [x] Validation des dates du registre : type DATE, bornes 1900–9999, alerte STOP, relue via UNO sur les colonnes B, K, L et Q.
