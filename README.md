@@ -129,3 +129,6 @@ Les deux binaires restent des fichiers de travail locaux et ne sont pas publiés
 - Les deux prototypes ont été recalculés avec LibreOffice sur des scénarios fictifs. Les validations et alertes STOP ont été relues via UNO. Le clic réel sur les listes/filtres, un test utilisateur et Excel restent à faire ; aucun produit n'est déclaré prêt à la vente.
 - Cinq coordonnées de prospection ont été revalidées sur les sites officiels le 15/11/2026. La liste conserve 27 pistes dans 18 territoires ; tous les besoins restent inconnus et aucun contact n'a été effectué.
 - Voir [le rapport de contrôle du 15 novembre](controle-produits-15-nov-2026.md).
+
+
+Complément qualité du 15/11/2026 : le registre d'interventions v1.0 comporte désormais une validation de date de type DATE (1900–9999) avec alerte STOP sur les quatre colonnes de dates. Cinq règles sont présentes dans chaque fichier final.
