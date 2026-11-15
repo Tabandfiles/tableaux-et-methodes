@@ -97,7 +97,7 @@ Le CSV de prospection a été contrôlé après correction : 23 lignes d'entrepr
 Un prototype local **v2.0** a maintenant été créé et recalculé avec LibreOffice Calc : cinq feuilles, 406 formules, 100 références et 500 mouvements prévus. Les exemples fictifs donnent 8, 24 et 3 unités ; le tableau de bord affiche 3 références, 2 alertes, 1 référence OK, 4 mouvements et 35 unités. Trois cas dynamiques (sortie augmentée, seuil exact, stock négatif) et une version vierge ont été contrôlés. **Ce prototype n'est pas encore prêt à la vente** : filtres manuels, menus déroulants et contrôles de saisie restent à finaliser ; rendu avec interface Calc et compatibilité Excel non testés. Les deux binaires restent des fichiers de travail non publiés dans le dépôt. Voir [le rapport de contrôle du 13 novembre](controle-prototype-suivi-stock-13-nov-2026.md).
 
 
-**Contrôle de mise en page :** l'export PDF A4 du prototype a révélé une colonne Date trop étroite (`###`) et une feuille Stock qui ne tient pas proprement sur une seule largeur de page. L'impression n'est pas validée ; une vérification dans Calc avec interface et une correction de mise en page restent nécessaires.
+**Contrôle de mise en page :** le prototype Stock v2.2 inclut désormais la colonne « Contrôle réf. » dans la zone d'impression ; les 14 colonnes sont visibles dans l'aperçu PDF. Le clic réel dans Calc, les filtres en interaction et un test utilisateur restent à réaliser.
 
 
 ## Mise à jour nationale — 13 novembre 2026
@@ -125,7 +125,7 @@ Les deux binaires restent des fichiers de travail locaux et ne sont pas publiés
 ## Mise à jour des livrables — 15 novembre 2026
 
 - **Suivi de stock ODS v2.2** : démonstration et version vierge créées localement ; 5 feuilles, 507 cellules de formule, filtre Stock A1:N101 et alerte informative de références dupliquées. Les fichiers ne sont pas publiés dans le dépôt.
-- **Registre d'interventions ODS v1.0** : démonstration et version vierge créées localement ; 4 feuilles, 200 lignes prévues, 210 cellules de formule, 4 règles de validation, filtre A1:R201 et alerte informative d'identifiants dupliqués. Les fichiers ne sont pas publiés dans le dépôt.
+- **Registre d'interventions ODS v1.0** : démonstration et version vierge créées localement ; 4 feuilles, 200 lignes prévues, 210 cellules de formule, 5 règles de validation dont dates DATE 1900–9999, filtre A1:R201 et alerte informative d'identifiants dupliqués. Les fichiers ne sont pas publiés dans le dépôt.
 - Les deux prototypes ont été recalculés avec LibreOffice sur des scénarios fictifs. Les validations et alertes STOP ont été relues via UNO. Le clic réel sur les listes/filtres, un test utilisateur et Excel restent à faire ; aucun produit n'est déclaré prêt à la vente.
 - Cinq coordonnées de prospection ont été revalidées sur les sites officiels le 15/11/2026. La liste conserve 27 pistes dans 18 territoires ; tous les besoins restent inconnus et aucun contact n'a été effectué.
 - Voir [le rapport de contrôle du 15 novembre](controle-produits-15-nov-2026.md).
