@@ -6,7 +6,7 @@
 - Arborescence contrôlée : 24 fichiers ; aucun binaire ODS/XLSX n'est publié dans le dépôt.
 - Site public relu en direct : [Tableaux & Méthodes](https://tabandfiles.github.io/tableaux-et-methodes/). La portée nationale, les six offres, les prix de lancement, les exemples fictifs, les liens e-mail et le statut « stock en préparation » sont visibles.
 - `robots.txt` et `sitemap.xml` sont accessibles ; le sitemap ne référence que la page d'accueil, seule page HTML publique actuelle.
-- Dernier déploiement connu avant les modifications de cette journée : workflow Pages n° 43627015191, terminé avec succès le 14/11/2026. Un nouveau déploiement doit être vérifié après la mise à jour HTML du 15/11.
+- Déploiement final du 15/11/2026 : workflow Pages n° 43746840172, terminé avec succès (conclusion `success`) pour le commit `486d2a0f8ab52aedcec14b730ec7ef3dd50aa2fa`. Le site public a ensuite été relu : nouveau titre, description Open Graph et couleur de thème visibles. Le sitemap affiche `lastmod` au 15/11/2026.
 
 ## Suivi de stock ODS v2.2 — prototype de travail
 
@@ -63,3 +63,8 @@ Aucun besoin n'est confirmé, aucun contact n'est marqué comme effectué et auc
 ## Garde-fous
 
 Aucun e-mail commercial envoyé, aucun appel ni formulaire envoyé, aucune dépense engagée et aucun engagement juridique pris.
+
+
+## Vérification finale — 15 novembre 2026, 19 h
+
+Les quatre classeurs ODS ont été rouverts et contrôlés après les réglages d'impression. Les nombres de formules sont inchangés (507 pour chacun des deux suivis de stock, 210 pour chacun des deux registres d'interventions). Les règles de validation et les plages de filtre sont présentes dans les fichiers finaux. Les quatre PDF de prévisualisation ont été générés et vérifiés : 6 pages par fichier de stock, 4 pages par fichier d'interventions. Le contrôle final confirme les calculs, les versions vierges à zéro et les scénarios de doublons. Aucun fichier ODS/PDF n'a été ajouté au dépôt public.
