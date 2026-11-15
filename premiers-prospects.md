@@ -179,3 +179,17 @@ Le CSV de suivi a été relu et compté : 27 lignes d'entreprises, 27 noms disti
 Aucune ligne ne présente un besoin comme confirmé et aucune ne marque un contact comme effectué. Les coordonnées restent à revérifier sur la page officielle le jour d'une éventuelle démarche ; la présence d'un téléphone ou d'un formulaire ne prouve ni l'adéquation commerciale ni l'absence d'opposition. Les canaux d'urgence et les coordonnées nominatives nécessitent une prudence particulière.
 
 Aucun e-mail, appel ou formulaire n'a été envoyé.
+
+## Revalidation de coordonnées officielles — 15 novembre 2026
+
+Cinq canaux professionnels ont été relus directement sur les pages officielles. Cette vérification confirme uniquement la publication actuelle d'un moyen de contact et l'activité affichée ; elle ne confirme aucun besoin de tableur, aucun intérêt commercial ni l'absence d'opposition.
+
+| Région | Entreprise | Coordonnées relues le 15/11/2026 | Source officielle | Réserve |
+|---|---|---|---|---|
+| Normandie | A2L Chauffage Plomberie | contact@a2l-chauffage-plomberie.fr · 07 89 73 18 61 | [Mentions légales](https://a2l-chauffage-plomberie.fr/mentions-legales) | Coordonnées et adresse professionnelle affichées ; besoin inconnu. |
+| Bretagne | S-BEC | contact@s-bec.fr · 02 98 41 10 11 | [Contact](https://www.s-bec.fr/contact/) | Contact général du site ; besoin inconnu. |
+| Centre-Val de Loire | Plomberie du Haut Berry | 02 48 64 11 31 | [Contact / devis](https://www.plomberieduhautberry.fr/contact-devis-cher-18) | Aucun e-mail direct relevé sur la page consultée ; besoin inconnu. |
+| Martinique (DROM) | Clean Plomberie | yannick@cleanplomberie.com · +596 696 00 41 21 | [Site officiel](https://cleanplomberie.com/) | Le site décrit un planning d'interventions de chantier, sans exprimer de besoin de tableur. |
+| Auvergne-Rhône-Alpes | MLP Plomberie Chauffage | 06 83 00 17 44 | [Mentions légales](https://mlp-plomberie-chauffage.fr/mentions-legales/) | Aucun e-mail direct relevé dans les mentions consultées ; besoin inconnu. |
+
+Les cinq lignes correspondantes du CSV ont été datées du 15/11/2026 et leurs sources mises à jour. Tous les statuts « besoin confirmé ? » restent à « Non - inconnu » et « contact effectué ? » reste à « Non ». Aucun e-mail, appel ou formulaire n'a été envoyé.
