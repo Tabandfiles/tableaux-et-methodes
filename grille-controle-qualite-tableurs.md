@@ -109,3 +109,22 @@ Le modèle ODS v2.1 a été recalculé avec LibreOffice Calc sur des données fi
 | Indicateurs et lignes vides | 3 références, 4 mouvements, 35 unités ; les lignes inutilisées ne sont pas comptées | Réussi |
 
 **Limites non validées :** fonctionnement visuel des filtres dans une session Calc, menus déroulants, blocage des quantités négatives, détection des références inconnues ou dupliquées, compatibilité Excel et test utilisateur non technique. Ne pas cocher ces contrôles avant leur réalisation.
+
+
+## Contrôle complémentaire — 15 novembre 2026
+
+### Suivi de stock v2.2
+- [x] Alerte de doublon testée sur deux lignes ; les deux lignes sont signalées.
+- [x] Compteur de doublons du tableau de bord vérifié (2 dans le scénario de test).
+- [x] Filtre Stock étendu à A1:N101.
+- [ ] Saisie réelle au clavier et par collage à vérifier dans l'interface graphique.
+- [ ] Test utilisateur externe et test Excel non réalisés.
+
+### Registre d'interventions v1.0
+- [x] Six statuts comptés séparément sur des exemples fictifs.
+- [x] Urgences non terminées vérifiées.
+- [x] Identifiants dupliqués signalés sur les deux lignes concernées.
+- [x] Dernière ligne prévue (201) incluse dans les formules.
+- [x] Version vierge avec indicateurs à zéro.
+- [ ] Manipulation réelle des listes et filtres dans l'interface graphique.
+- [ ] Test utilisateur externe et test Excel non réalisés.
