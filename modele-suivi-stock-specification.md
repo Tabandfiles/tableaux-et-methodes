@@ -108,3 +108,7 @@ Les formules des lignes Stock sans référence renvoient une cellule vide pour �
 Les tests de recalcul confirment les résultats d'exemple, le seuil exact, le stock négatif et les références/mouvements de frontière. Les détails, valeurs et limites sont dans [le rapport de contrôle du 14 novembre](controle-prototype-suivi-stock-14-nov-2026.md).
 
 Limites restantes : références en double non bloquées, interaction réelle avec les listes et filtres à vérifier dans l'interface graphique, Excel non testé et test utilisateur externe à réaliser. Le fichier reste un prototype non commercialisable.
+
+## Évolution prototype ODS v2.2 — 15 novembre 2026
+
+La v2.2 locale ajoute la colonne « Contrôle réf. » en N, avec une formule sur les 100 références. Les références répétées sont signalées « DOUBLON » sur chaque ligne concernée ; le tableau de bord compte les lignes en doublon. Le contrôle est informatif et ne bloque pas la saisie. Le filtre Stock couvre A1:N101. Chaque fichier comporte 507 cellules de formule et conserve les sept règles de validation existantes. Les scénarios de démonstration, de version vierge et de doublon ont été recalculés avec LibreOffice. Les tests graphiques au clic, Excel et utilisateur externe restent à faire ; le produit reste en préparation.
