@@ -79,3 +79,19 @@ Chaque modèle doit être testé avec des données fictives, des instructions cl
 - Suivi commercial : https://github.com/Tabandfiles/tableaux-et-methodes/blob/main/suivi-prospection.csv
 - Annuaire officiel des entreprises : https://annuaire-entreprises.data.gouv.fr/
 - Contact : tabsandmethod@gmail.com
+
+
+## Point d'avancement — 15 novembre 2026
+
+- Suivi de stock : prototype local v2.2, démonstration et version vierge ; 507 formules par fichier ; signalement des références dupliquées ; scénarios de calcul et doublons recalculés dans LibreOffice. Toujours en préparation tant que les interactions au clic et le test utilisateur ne sont pas validés.
+- Registre d'interventions : prototype local v1.0, démonstration et version vierge ; quatre feuilles, 200 lignes prévues, 210 formules, quatre règles de validation et filtre. Les indicateurs, doublons et frontière de capacité ont été testés dans LibreOffice.
+- Suivi de maintenance : cahier des charges seulement ; aucun ODS créé à cette date.
+- Site : ajout d'un lien d'évitement, prise en compte de la préférence de réduction des animations et harmonisation des métadonnées de partage. Publication à confirmer après le workflow Pages.
+- Prospection : 27 pistes sur 18 territoires ; cinq coordonnées officielles revalidées le 15/11/2026. Aucun besoin confirmé et aucun contact effectué.
+
+### Priorités suivantes
+1. Faire un essai graphique au clic des listes et filtres des deux prototypes dans LibreOffice Calc.
+2. Faire tester le registre et le stock par une personne non technique ; corriger les points de friction.
+3. Construire le suivi de maintenance ODS à partir du cahier des charges.
+4. Revalider les autres coordonnées nationales au fil de l'eau, sans augmenter artificiellement le nombre de pistes.
+5. Ne modifier le statut public des offres qu'après validation des livrables.
