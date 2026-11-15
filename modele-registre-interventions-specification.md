@@ -106,3 +106,12 @@ Ajouter un filtre par période si cela peut être fait sans macro. Les indicateu
 3. Créer un aperçu avec données fictives.
 4. Ajouter le produit au site seulement lorsque le fichier est réellement prêt.
 5. Définir précisément ce qui est inclus dans le prix de lancement de 25 €.
+
+
+## Prototype ODS v1.0 créé — 15 novembre 2026
+
+Deux fichiers de travail locaux ont été construits : une démonstration avec six interventions fictives et une version vierge. Le classeur comporte quatre feuilles : Guide, Interventions, Tableau de bord et Listes. La feuille Interventions comporte 18 colonnes, 200 lignes prévues, un filtre A1:R201 et une colonne « Contrôle ID » qui signale les identifiants répétés sans bloquer la saisie. Le tableau de bord compte le total, les six statuts, les urgences non terminées, les lignes en doublon et les heures enregistrées.
+
+Le recalcul LibreOffice confirme les résultats attendus sur les six exemples : une ligne par statut, une urgente non terminée, zéro doublon et deux heures. Un scénario de doublon signale les deux lignes et compte deux lignes en doublon. Un test en dernière ligne (201) confirme la couverture de la plage. La version vierge affiche zéro.
+
+Quatre validations sont configurées : listes Type/Priorité/Statut et durée décimale positive ou nulle, avec alerte STOP. Les dates sont typées et formatées comme dates, sans validation stricte. Le PDF de démonstration comporte quatre pages, dont Interventions en A3 paysage. Les clics réels sur listes/filtres, le test utilisateur et Excel restent à faire. Ce prototype n'est pas encore déclaré prêt à la vente.
