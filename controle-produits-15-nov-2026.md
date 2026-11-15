@@ -37,11 +37,11 @@ Deux fichiers locaux ont été créés :
 - `Tableaux_Methodes_Registre_Interventions_demo_v1_0.ods` — six lignes fictives.
 - `Tableaux_Methodes_Registre_Interventions_vierge_v1_0.ods` — version vierge.
 
-Chaque fichier contient quatre feuilles (Guide, Interventions, Tableau de bord, Listes), 210 cellules de formule, quatre règles de validation, un AutoFiltre A1:R201 et une capacité de conception de 200 interventions. La colonne « Contrôle ID » signale les numéros en double ; elle ne bloque pas la saisie.
+Chaque fichier contient quatre feuilles (Guide, Interventions, Tableau de bord, Listes), 210 cellules de formule, cinq règles de validation, un AutoFiltre A1:R201 et une capacité de conception de 200 interventions. La colonne « Contrôle ID » signale les numéros en double ; elle ne bloque pas la saisie.
 
 Résultats recalculés dans LibreOffice : 6 interventions, une dans chacun des six statuts, une urgente non terminée, zéro doublon et 2 heures enregistrées. Un scénario avec deux identifiants identiques signale les deux lignes et affiche un compteur de 2. Un test en ligne 201 confirme que la dernière ligne prévue est incluse dans les calculs. La version vierge affiche zéro.
 
-Les listes déroulantes Type, Priorité et Statut et la validation de durée non négative ont été relues via UNO avec une alerte de type STOP. Les dates sont typées et formatées comme dates, mais aucune validation stricte de date n'est activée. Le rendu PDF a été contrôlé : quatre pages, dont la feuille Interventions en A3 paysage.
+Les listes déroulantes Type, Priorité et Statut, la validation de durée non négative et la validation des dates ont été relues via UNO avec une alerte de type STOP. Les dates sont limitées à l'intervalle 01/01/1900–31/12/9999. Le rendu PDF a été contrôlé : quatre pages, dont la feuille Interventions en A3 paysage.
 
 ## Limites restantes avant commercialisation
 
