@@ -44,3 +44,7 @@ Un nouveau prototype ODS v2.0 a été reconstruit localement et recalculé avec 
 Le prototype v2.1 comprend 5 feuilles, 406 formules, des filtres préconfigurés et des validations de saisie pour les références de mouvements, types, motifs, catégories et quantités. Les calculs, le seuil exact, le stock négatif, la 100e référence, le 500e mouvement et la version vierge ont été recalculés avec LibreOffice Calc.
 
 Le produit reste en préparation : les listes et filtres doivent encore être manipulés dans l'interface graphique, les références en double ne sont pas encore bloquées, Excel n'est pas testé et aucun utilisateur externe n'a encore validé le fichier.
+
+## État du prototype v2.2 — 15 novembre 2026
+
+La v2.2 locale ajoute le signalement des références en double dans une colonne « Contrôle réf. » et un indicateur au tableau de bord. Le scénario de doublon a été recalculé : les deux lignes concernées affichent « DOUBLON » et le compteur indique 2. La version vierge affiche zéro doublon. Le contrôle ne bloque pas la saisie. Les fichiers restent des prototypes locaux non livrables commercialement tant que les tests interactifs au clic, le test utilisateur et la compatibilité Excel éventuelle ne sont pas réalisés.
