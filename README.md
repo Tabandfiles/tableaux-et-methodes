@@ -4,7 +4,7 @@ Création de tableaux de suivi simples pour artisans, petites entreprises, assoc
 
 - **Site public :** https://tabandfiles.github.io/tableaux-et-methodes/
 - **Contact :** tabsandmethod@gmail.com
-- **État du suivi de stock au 14/11/2026 :** prototype ODS v2.1 reconstruit localement, 5 feuilles et 406 formules ; filtres et validations configurés, tests dynamiques et limites documentés. Pas encore livrable commercial : contrôle interactif dans Calc et test utilisateur restent à faire. Les binaires ne sont pas publiés dans le dépôt.
+- **État des prototypes au 16/11/2026 :** suivi de stock v2.2 (5 feuilles, 507 formules), registre d'interventions v1.0 (4 feuilles, 210 formules) et suivi de maintenance v1.0 (5 feuilles, 408 formules) ont chacun une démonstration fictive et une version vierge locales. Les six ODS ont été contrôlés par recalcul LibreOffice et vérification des formules, validations et filtres ; aucun n'est déclaré prêt à la vente. Les tests au clic dans Calc, le test utilisateur externe et Excel restent à faire. Les binaires restent hors du dépôt public. Voir [le contrôle du 16 novembre](controle-produits-16-nov-2026.md).
 - **Pas d'abonnement :** le périmètre et le prix doivent être confirmés avant toute réalisation.
 
 ## Offres affichées sur le site
@@ -29,10 +29,10 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 - Le fichier ODS v2.1 n'est pas publié dans le dépôt public afin de ne pas rendre le modèle commercial complet librement téléchargeable. Excel n'a pas été testé.
 - Limites restantes du stock : menus déroulants non configurés, filtres à vérifier visuellement dans Calc, quantités négatives non bloquées à la saisie, références inconnues ou dupliquées non détectées, test utilisateur à réaliser.
 - [Cahier des charges du registre des interventions](modele-registre-interventions-specification.md) — spécification écrite ; fichier ODS final non créé et formules non testées.
-- [Cahier des charges du suivi de maintenance](modele-suivi-maintenance-specification.md) — conception version 1 définie ; fichier ODS non créé et formules non testées.
+- [Cahier des charges du suivi de maintenance](modele-suivi-maintenance-specification.md) — prototype ODS v1.0 local : 5 feuilles, 408 formules, 100 équipements et 500 interventions prévus, 9 règles de validation et deux filtres ; la date de dernière préventive est mise à jour manuellement. Tests interactifs et Excel encore à faire.
 - [Grille de contrôle qualité](grille-controle-qualite-tableurs.md) — critères et journaux de tests.
 - [Contrôle du site public](controle-site-public-9-nov-2026.md) — SEO, liens de contact, portée nationale et absence actuelle de pages juridiques publiées.
-- [Prospection nationale](premiers-prospects.md) — 27 pistes : 22 en métropole réparties dans les 13 régions métropolitaines et 5 dans les DROM ; 18 territoires couverts ; besoins non confirmés ; aucun contact envoyé.
+- [Prospection nationale](premiers-prospects.md) — 27 pistes réparties dans les 13 régions métropolitaines et les 5 DROM ; 18 territoires couverts ; besoins non confirmés ; aucun contact envoyé. Voir la [grille de qualification nationale](grille-qualification-prospects-nationale.md).
 - [Suivi de prospection](suivi-prospection.csv) — modèle de suivi des prises de contact.
 - [Modèles d'e-mails](modeles-emails-prospection.md) — brouillons uniquement, aucun message envoyé.
 - [Fiche de cadrage client](fiche-cadrage-client.md) — questions pour définir le besoin, le volume, le logiciel et le périmètre avant devis.
@@ -132,3 +132,12 @@ Les deux binaires restent des fichiers de travail locaux et ne sont pas publiés
 
 
 Complément qualité du 15/11/2026 : le registre d'interventions v1.0 comporte désormais une validation de date de type DATE (1900–9999) avec alerte STOP sur les quatre colonnes de dates. Cinq règles sont présentes dans chaque fichier final.
+
+
+## Contrôle courant — 16 novembre 2026
+
+- Trois familles de prototypes ODS existent localement en démonstration et en version vierge : Stock v2.2, Interventions v1.0 et Maintenance v1.0. Les six fichiers ne sont pas publiés dans le dépôt.
+- Le suivi de maintenance calcule l'échéance depuis une date de dernière maintenance préventive saisie manuellement ; le journal ne synchronise pas cette date.
+- Le CSV de prospection a été contrôlé structurellement : 27 entreprises distinctes, 17 colonnes, 18 territoires, une source par ligne, zéro contact effectué et zéro besoin marqué confirmé. Les coordonnées individuelles ne sont pas toutes revalidées ce jour ; les revérifier avant tout usage.
+- Aucun e-mail, appel ou formulaire commercial envoyé ; aucune dépense ni engagement juridique pris.
+- Voir [le rapport complet du 16 novembre](controle-produits-16-nov-2026.md).
