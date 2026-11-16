@@ -4,7 +4,7 @@ Création de tableaux de suivi simples pour artisans, petites entreprises, assoc
 
 - **Site public :** https://tabandfiles.github.io/tableaux-et-methodes/
 - **Contact :** tabsandmethod@gmail.com
-- **État des prototypes au 16/11/2026 :** suivi de stock v2.2 (5 feuilles, 507 formules), registre d'interventions v1.0 (4 feuilles, 210 formules) et suivi de maintenance v1.0 (5 feuilles, 408 formules) ont chacun une démonstration fictive et une version vierge locales. Les six ODS ont été contrôlés par recalcul LibreOffice et vérification des formules, validations et filtres ; aucun n'est déclaré prêt à la vente. Les tests au clic dans Calc, le test utilisateur externe et Excel restent à faire. Les binaires restent hors du dépôt public. Voir [le contrôle du 16 novembre](controle-produits-16-nov-2026.md).
+- **État des prototypes au 16/11/2026 :** suivi de stock v2.2 (5 feuilles, 507 formules), registre d'interventions v1.0 (4 feuilles, 210 formules) et suivi de maintenance v1.0 (5 feuilles, 408 formules) ont chacun une démonstration fictive et une version vierge locales. Les six ODS ont été contrôlés structurellement ; Maintenance v1.0 a été recalculé avec LibreOffice ; les résultats déjà calculés de Stock v2.2 et Interventions v1.0 ont été relus ; aucun n'est déclaré prêt à la vente. Les tests au clic dans Calc, le test utilisateur externe et Excel restent à faire. Les binaires restent hors du dépôt public. Voir [le contrôle du 16 novembre](controle-produits-16-nov-2026.md).
 - **Pas d'abonnement :** le périmètre et le prix doivent être confirmés avant toute réalisation.
 
 ## Offres affichées sur le site
