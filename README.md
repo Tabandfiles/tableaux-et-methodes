@@ -41,13 +41,13 @@ Ces tarifs sont des prix de lancement pour un périmètre défini. Ils ne signif
 
 ## Priorités
 
-1. Faire un contrôle interactif des listes déroulantes, filtres et messages de validation dans l'interface LibreOffice Calc.
-2. Ajouter un contrôle des références en double et vérifier les saisies par copier-coller.
-3. Faire tester le prototype par une personne non technique et corriger les points de friction.
-4. Finaliser le rendu d'impression et confirmer le périmètre commercial avant toute livraison.
-5. Créer ensuite les fichiers ODS du registre d'interventions et du suivi de maintenance.
-6. Compléter les pages juridiques avec les informations exactes de l'exploitant avant publication.
-7. Revalider les coordonnées et les canaux des entreprises juste avant toute prise de contact.
+1. Tester au clic dans LibreOffice Calc les listes, filtres, validations STOP et copier-coller des trois prototypes.
+2. Faire tester les trois classeurs par une personne non technique et corriger les frictions.
+3. Vérifier la mise en page et les impressions sur des plages réellement utilisées, sans présenter les PDF de capacité comme des aperçus commerciaux.
+4. Décider si les alertes de doublons doivent devenir bloquantes, après vérification des cas d'usage.
+5. Tester séparément Excel si cette compatibilité doit être annoncée.
+6. Compléter les pages juridiques uniquement avec les informations exactes de l'exploitant.
+7. Revalider chaque canal professionnel et toute opposition avant une éventuelle prise de contact.
 
 ## Vérification du site et du dépôt — 9 novembre 2026
 
