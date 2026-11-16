@@ -3,7 +3,7 @@
 **Produit :** Registre des interventions  
 **Prix de lancement envisagé :** 25 €  
 **Format cible :** LibreOffice Calc (.ods)  
-**Statut :** spécification préparée ; fichier téléchargeable non créé et formules non testées.
+**Statut au 16 novembre 2026 :** prototype ODS v1.0 local en démonstration et version vierge ; 4 feuilles, 210 cellules de formule, 5 règles de validation et filtre A1:R201. Pas encore prêt à la vente : test interactif au clic, test utilisateur externe et Excel restent à faire.
 
 ## Objectif
 
