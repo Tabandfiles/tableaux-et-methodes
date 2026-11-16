@@ -3,7 +3,7 @@
 **Produit :** Suivi de maintenance simple  
 **Prix de lancement envisagé :** 25 €  
 **Format cible :** LibreOffice Calc (.ods)  
-**Statut au 6 novembre 2026 :** spécification écrite ; aucun fichier ODS final créé pour ce produit. Les formules ci-dessous sont des références de conception, non testées dans un classeur.
+**Statut au 16 novembre 2026 :** prototype ODS v1.0 local créé en démonstration et en version vierge. Cinq feuilles, 408 cellules de formule, 9 règles de validation et deux filtres. Le prototype n'est pas encore disponible à la livraison commerciale : le test interactif au clic, le test utilisateur externe et Excel restent à faire.
 
 ## Objectif et périmètre
 
@@ -107,3 +107,14 @@ Pas de notification par e-mail, de calendrier partagé, de connexion à un logic
 ## Prochaine étape
 
 Construire le fichier ODS, tester les formules et les cas limites, puis produire un aperçu fictif. Le modèle ne doit être présenté comme prêt à vendre qu'après validation de la grille de contrôle qualité.
+
+
+## État réel du prototype v1.0 — 16 novembre 2026
+
+Le prototype construit localement comprend les feuilles Guide, Interventions, Equipements, Tableau de bord et Listes. La feuille Equipements comporte 13 colonnes et 100 lignes prévues ; Interventions comporte 8 colonnes et 500 lignes prévues. Les filtres couvrent Equipements A1:M101 et Interventions A1:H501. Neuf règles de validation sont configurées.
+
+La date de dernière maintenance préventive est saisie manuellement dans Equipements. Le journal Interventions conserve l'historique mais ne met pas cette date à jour automatiquement. La prochaine échéance est calculée par addition de la périodicité en jours ; le statut est EN RETARD, À PLANIFIER (30 jours) ou À JOUR. Les doublons d'ID sont signalés, pas bloqués.
+
+Résultats de démonstration recalculés dans LibreOffice : 3 équipements, 1 en retard, 1 à planifier, 1 à jour, 4 interventions, 5 heures, 0 doublon et 0 fiche à compléter. La version vierge affiche zéro sur les huit indicateurs. Le déplacement de la dernière préventive de CTA 02 au 16/11/2026 fait passer l'échéance au 16/12/2026. Le test de doublon et les limites (100e équipement / 500e intervention) ont été contrôlés.
+
+Le prototype n'est pas une GMAO et n'est pas prêt à la vente tant que les clics réels dans Calc, un test utilisateur et la compatibilité Excel ne sont pas vérifiés.
