@@ -10,7 +10,7 @@
 
 ## Audit des six fichiers ODS locaux
 
-Les six fichiers ont été contrôlés dans l'archive ODS et recalculés avec LibreOffice via UNO. Aucun texte d'erreur de formule visible (`#NAME?`, `#VALUE!`, `#REF!`, `#DIV/0!`, `#N/A`) n'a été détecté. Les filtres et validations sont présents. Les binaires ne sont pas publiés dans le dépôt.
+Les six fichiers ont été vérifiés structurellement (contenu ODS, formules, validations, filtres, intégrité ZIP). Le prototype Maintenance v1.0 a été recalculé avec LibreOffice via UNO et soumis à des scénarios dynamiques. Pour Stock v2.2 et Interventions v1.0, les résultats déjà calculés dans les versions de travail ont été relus dans les fichiers disponibles ; leur recalcul complet n'a pas été relancé dans cette session. Aucun texte d'erreur de formule visible (`#NAME?`, `#VALUE!`, `#REF!`, `#DIV/0!`, `#N/A`) n'a été détecté. Les filtres et validations sont présents. Les binaires ne sont pas publiés dans le dépôt.
 
 | Produit | Feuilles | Formules par fichier | Règles de validation | Capacité de conception |
 |---|---:|---:|---:|---|
