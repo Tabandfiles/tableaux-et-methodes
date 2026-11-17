@@ -72,7 +72,7 @@ Site relu le 17/11/2026 : https://tabandfiles.github.io/tableaux-et-methodes/
 - Métadonnées title, description, canonical et Open Graph présentes.
 - Les offres sont des créations à la demande, pas des fichiers immédiatement téléchargeables.
 - Le suivi de stock et le suivi de maintenance sont explicitement indiqués comme en préparation et non disponibles à la livraison.
-- Le registre d'interventions doit recevoir la même mention de préparation sur la page publique afin d'éviter toute ambiguïté.
+- La carte du registre d'interventions a été modifiée : elle indique désormais explicitement « prototype en préparation, non disponible à la livraison », la capacité de conception de 200 interventions et les essais Calc encore requis.
 - `robots.txt` et `sitemap.xml` sont accessibles. Le sitemap référence une seule page HTML : la page d'accueil.
 - Aucune page de mentions légales ou de confidentialité n'est liée depuis la page publique ; les brouillons du dépôt restent incomplets faute d'informations réelles de l'exploitant.
 
@@ -83,13 +83,14 @@ Audit du CSV avec un parseur respectant les champs entre guillemets :
 - 17 colonnes pour chacune des 27 lignes.
 - 18 territoires représentés : 13 régions métropolitaines et 5 DROM.
 - 27 lignes avec une URL de source.
-- 15 e-mails publics et 24 téléphones publics recensés.
+- 16 e-mails publics et 25 téléphones publics recensés.
 - 0 doublon.
 - 0 besoin marqué confirmé.
 - 0 contact marqué effectué.
-- Dates de recherche présentes : du 05/11/2026 au 15/11/2026.
+- Dates de recherche présentes : du 05/11/2026 au 17/11/2026.
+- Trois coordonnées ont été revalidées le 17/11 sur des sites officiels : ASI BAT (Île-de-France), ETS Jumelle (Hauts-de-France) et DEMS (Centre-Val de Loire). Les détails et réserves sont consignés dans `premiers-prospects.md`.
 
-Ce contrôle est structurel : il ne revalide pas chaque coordonnée individuelle le 17/11. Avant toute démarche, vérifier à nouveau la page officielle, le rôle du destinataire, le canal approprié et toute opposition. Ne pas utiliser les coordonnées d'urgence ou de dépannage comme canal commercial.
+Ce contrôle est structurel : il ne revalide pas chaque coordonnée individuellement. Seules les trois fiches ci-dessus ont été relues sur leurs sites officiels le 17/11. Avant toute démarche, vérifier à nouveau la page officielle, le rôle du destinataire, le canal approprié et toute opposition. Ne pas utiliser les coordonnées d'urgence ou de dépannage comme canal commercial.
 
 ## Garde-fous
 
