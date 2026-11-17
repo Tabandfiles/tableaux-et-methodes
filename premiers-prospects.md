@@ -193,3 +193,16 @@ Cinq canaux professionnels ont été relus directement sur les pages officielles
 | Auvergne-Rhône-Alpes | MLP Plomberie Chauffage | 06 83 00 17 44 | [Mentions légales](https://mlp-plomberie-chauffage.fr/mentions-legales/) | Aucun e-mail direct relevé dans les mentions consultées ; besoin inconnu. |
 
 Les cinq lignes correspondantes du CSV ont été datées du 15/11/2026 et leurs sources mises à jour. Tous les statuts « besoin confirmé ? » restent à « Non - inconnu » et « contact effectué ? » reste à « Non ». Aucun e-mail, appel ou formulaire n'a été envoyé.
+
+
+## Revalidation de coordonnées officielles — 17 novembre 2026
+
+Trois fiches anciennes ont été recontrôlées sur des pages officielles accessibles le 17/11/2026. Cette vérification confirme la publication des coordonnées et l'activité décrite par les entreprises ; elle ne confirme aucun besoin de tableur, aucun intérêt commercial ni l'absence d'opposition.
+
+| Région | Entreprise | Coordonnées publiées | Source officielle | Réserve |
+|---|---|---|---|---|
+| Île-de-France | ASI BAT | contact@asi-bat.fr · 01 30 09 24 10 | [Contact et devis](https://asi-bat.fr/faq-contact/) | Page orientée demandes de devis. Vérifier le rôle du destinataire et le canal approprié avant toute démarche. |
+| Hauts-de-France | ETS Jumelle | contact@ets-jumelle.fr · 03 20 86 12 63 | [Mentions légales](https://www.jumelleplomberie.fr/mentions-legales) · [Contact](https://www.jumelleplomberie.fr/contact) | Le site indique intervenir auprès de particuliers, professionnels et collectivités. Cela ne démontre pas un besoin de tableur. |
+| Centre-Val de Loire | DEMS | secretariat@groupedems.fr · 09 83 80 53 53 | [Mentions légales](https://dems-maintenance-tours.fr/mentions-legales/) · [Accueil](https://dems-maintenance-tours.fr/) | Le formulaire de la page Contact n'a pas été soumis. Le téléphone apparaît aussi sur l'accueil. |
+
+Les trois lignes correspondantes du CSV sont datées du 17/11/2026 et leurs sources officielles sont précisées. Les champs « Besoin confirmé ? » restent à « Non - inconnu » et « Contact effectué ? » reste à « Non ». Aucun e-mail, appel ou formulaire n'a été envoyé.
