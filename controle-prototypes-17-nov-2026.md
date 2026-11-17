@@ -10,7 +10,8 @@ Les trois familles de prototypes ODS ont été recalculées à nouveau avec Libr
 - Branche par défaut : `main`.
 - Commit observé au début du contrôle : `4c408c837795c6e767cd5f8da0321cb703227c91`.
 - L'arborescence contenait 27 fichiers au début du contrôle ; aucun classeur ODS ou XLSX n'est publié dans le dépôt.
-- Dernier workflow Pages observé : [43935743629](https://github.com/Tabandfiles/tableaux-et-methodes/actions/runs/43935743629), terminé avec succès le 16/11/2026 sur le commit `4c408c8`.
+- La carte du registre a été modifiée dans `index.html`, puis publiée avec succès par le workflow Pages [44145268189](https://github.com/Tabandfiles/tableaux-et-methodes/actions/runs/44145268189), sur le commit `b885e329` ; le texte en ligne a été relu avec un rafraîchissement sans cache.
+- Le workflow déclenché par les dernières mises à jour documentaires et de prospection, [44145648513](https://github.com/Tabandfiles/tableaux-et-methodes/actions/runs/44145648513), s'est terminé avec succès le 17/11/2026.
 
 Les six classeurs demeurent des livrables de travail locaux et ne sont pas ajoutés au dépôt public.
 
@@ -73,7 +74,7 @@ Site relu le 17/11/2026 : https://tabandfiles.github.io/tableaux-et-methodes/
 - Les offres sont des créations à la demande, pas des fichiers immédiatement téléchargeables.
 - Le suivi de stock et le suivi de maintenance sont explicitement indiqués comme en préparation et non disponibles à la livraison.
 - La carte du registre d'interventions a été modifiée : elle indique désormais explicitement « prototype en préparation, non disponible à la livraison », la capacité de conception de 200 interventions et les essais Calc encore requis.
-- `robots.txt` et `sitemap.xml` sont accessibles. Le sitemap référence une seule page HTML : la page d'accueil.
+- `robots.txt` et `sitemap.xml` sont accessibles. Le sitemap référence une seule page HTML : la page d'accueil ; sa date `<lastmod>` a été portée au 17/11/2026.
 - Aucune page de mentions légales ou de confidentialité n'est liée depuis la page publique ; les brouillons du dépôt restent incomplets faute d'informations réelles de l'exploitant.
 
 ## Prospection nationale
