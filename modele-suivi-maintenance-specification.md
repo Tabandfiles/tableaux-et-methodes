@@ -104,9 +104,16 @@ Les indicateurs doivent ignorer les lignes vides. Les formules de comptage seron
 
 Pas de notification par e-mail, de calendrier partagé, de connexion à un logiciel métier, de gestion de pièces, de facturation ni de garantie de conformité réglementaire. Les données et échéances doivent être vérifiées par l'utilisateur.
 
-## Prochaine étape
+## Contrôles restants avant commercialisation
 
-Construire le fichier ODS, tester les formules et les cas limites, puis produire un aperçu fictif. Le modèle ne doit être présenté comme prêt à vendre qu'après validation de la grille de contrôle qualité.
+Le prototype ODS v1.0 existe en démonstration et en version vierge. Il n'est pas encore déclaré prêt à la vente.
+
+1. Exécuter les tests au clic dans LibreOffice Calc à partir de [la grille de recette](plan-recette-acceptation-ods.md).
+2. Vérifier les listes, filtres, validations, copier-coller et rendu d'impression.
+3. Faire tester le classeur par une personne extérieure au projet.
+4. Décider si les identifiants d'équipement en doublon doivent rester signalés ou devenir bloquants.
+5. Évaluer séparément une éventuelle synchronisation de la dernière maintenance préventive ; elle reste manuelle dans le prototype actuel.
+6. Ne pas présenter le classeur comme une GMAO ni annoncer la compatibilité Excel sans essai dédié.
 
 
 ## État réel du prototype v1.0 — 16 novembre 2026
