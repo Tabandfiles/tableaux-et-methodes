@@ -63,9 +63,9 @@ Le suivi de stock, le registre d'interventions et le suivi de maintenance sont p
 
 ## Prospection nationale
 
-Le fichier `suivi-prospection.csv` contient 27 entreprises distinctes dans 18 territoires (13 régions métropolitaines et 5 DROM). Il comporte 17 colonnes, une URL source par entreprise, 15 e-mails publics et 24 téléphones publics recensés. Le contrôle structurel du 17/11/2026 confirme : aucune ligne mal formée, aucun doublon, aucun besoin marqué confirmé et aucun contact marqué comme effectué.
+Le fichier `suivi-prospection.csv` contient 27 entreprises distinctes dans 18 territoires (13 régions métropolitaines et 5 DROM). Il comporte 17 colonnes, une URL source par entreprise, 16 e-mails publics et 25 téléphones publics recensés. Le contrôle structurel du 17/11/2026 confirme : aucune ligne mal formée, aucun doublon, aucun besoin marqué confirmé et aucun contact marqué comme effectué.
 
-Les dates de recherche vont du 05/11 au 15/11/2026. Le contrôle du 17/11 est structurel et ne revalide pas individuellement chaque coordonnée. Avant toute démarche, vérifier à nouveau la page officielle, le rôle du destinataire, le canal approprié et toute opposition. Ne jamais utiliser un numéro d'urgence ou de dépannage comme canal commercial.
+Les dates de recherche vont du 05/11 au 17/11/2026. Trois fiches (ASI BAT, ETS Jumelle et DEMS) ont été revalidées le 17/11 sur leurs sites officiels ; voir [les sources et réserves](premiers-prospects.md). Le contrôle du 17/11 est structurel et ne revalide pas individuellement chaque coordonnée. Avant toute démarche, vérifier à nouveau la page officielle, le rôle du destinataire, le canal approprié et toute opposition. Ne jamais utiliser un numéro d'urgence ou de dépannage comme canal commercial.
 
 - [Liste nationale des prospects et sources](premiers-prospects.md)
 - [Suivi de prospection CSV](suivi-prospection.csv)
