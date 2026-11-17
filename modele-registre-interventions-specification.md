@@ -99,13 +99,16 @@ Ajouter un filtre par période si cela peut être fait sans macro. Les indicateu
 8. Vérifier l'impression et la lisibilité sur écran d'ordinateur.
 9. Vérifier qu'aucune formule ne se casse lors de l'ajout de lignes.
 
-## À faire ensuite
+## Contrôles restants avant commercialisation
 
-1. Construire le fichier .ods.
-2. Tester toutes les formules et listes dans LibreOffice Calc.
-3. Créer un aperçu avec données fictives.
-4. Ajouter le produit au site seulement lorsque le fichier est réellement prêt.
-5. Définir précisément ce qui est inclus dans le prix de lancement de 25 €.
+Le prototype ODS v1.0 existe en démonstration et en version vierge. Il n'est pas encore déclaré prêt à la vente.
+
+1. Exécuter les tests au clic dans LibreOffice Calc à partir de [la grille de recette](plan-recette-acceptation-ods.md).
+2. Vérifier les filtres, les listes, les validations STOP, le copier-coller et l'impression.
+3. Faire tester le classeur par une personne extérieure au projet.
+4. Décider si les identifiants en doublon doivent rester signalés ou devenir bloquants.
+5. Ne pas annoncer la compatibilité Excel sans essai séparé.
+6. Conserver la mention « prototype en préparation » sur le site jusqu'à validation.
 
 
 ## Prototype ODS v1.0 créé — 15 novembre 2026
