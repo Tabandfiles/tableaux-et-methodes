@@ -1,6 +1,6 @@
 # Prospection nationale — Tableaux & Méthodes
 
-**Dossier actualisé : 13 novembre 2026. 27 pistes recensées dans les 13 régions métropolitaines et les 5 DROM.** Les vérifications individuelles sont datées dans chaque section : les informations anciennes doivent être revalidées avant toute prise de contact. La présence d'une coordonnée publique ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé.
+**Dossier actualisé : 18 novembre 2026. 31 pistes recensées dans les 13 régions métropolitaines et les 5 DROM.** Les vérifications individuelles sont datées dans chaque section : les informations anciennes doivent être revalidées avant toute prise de contact. La présence d'une coordonnée publique ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé.
 
 ## Prospects dont l'activité et au moins un moyen de contact sont confirmés
 
