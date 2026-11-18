@@ -206,3 +206,30 @@ Trois fiches anciennes ont été recontrôlées sur des pages officielles access
 | Centre-Val de Loire | DEMS | secretariat@groupedems.fr · 09 83 80 53 53 | [Mentions légales](https://dems-maintenance-tours.fr/mentions-legales/) · [Accueil](https://dems-maintenance-tours.fr/) | Le formulaire de la page Contact n'a pas été soumis. Le téléphone apparaît aussi sur l'accueil. |
 
 Les trois lignes correspondantes du CSV sont datées du 17/11/2026 et leurs sources officielles sont précisées. Les champs « Besoin confirmé ? » restent à « Non - inconnu » et « Contact effectué ? » reste à « Non ». Aucun e-mail, appel ou formulaire n'a été envoyé.
+
+
+## Nouvelles pistes vérifiées sur les sites officiels — 18 novembre 2026
+
+Ces quatre entreprises disposent d'une activité et d'un moyen de contact professionnel affichés sur leur propre site. Il s'agit de pistes non qualifiées : aucune n'a exprimé de besoin de tableur. Les propositions ci-dessous sont uniquement des angles à vérifier, pas des besoins établis.
+
+| Région | Entreprise | Activité et localisation vérifiées | Contact général publié | Réserve / qualification |
+|---|---|---|---|---|
+| Occitanie | Anthony OLIVEIRA | Plomberie, chauffage et climatisation ; Albi et sa région | contact@anthonyoliveira.fr · 06 62 57 70 96 | La page d'accueil porte une date de publication du 12/10/2021 ; revalider l'activité et le canal avant toute démarche. Besoin inconnu. |
+| Nouvelle-Aquitaine | Aquitaine Plomberie 3 Étoiles | Auto-entreprise de plomberie/chauffage ; Mérignac ; installation et maintenance de PAC | plomberie3e@gmail.com · 07 62 62 33 32 | Site officiel et page Contact consultés le 18/11. Un suivi d'interventions ou de maintenance PAC pourrait être étudié seulement si le dirigeant confirme un besoin. |
+| Provence-Alpes-Côte d’Azur | APSC Azur Plomberie Sanitaire et Chauffage | Entreprise familiale de plomberie, chauffage et gaz ; Istres ; clientèle professionnelle également mentionnée | contactapsc@orange.fr · 04 42 55 22 05 | Numéro fixe général repris sur la page Contact ; la page affiche aussi deux mobiles, non retenus. Outils existants et besoin inconnus. |
+| Provence-Alpes-Côte d’Azur | I.D.PLOMBERIE | Plomberie, chauffage, climatisation et rénovation ; Six-Fours-les-Plages | d.plomberie.renovation@gmail.com · 06 10 90 55 54 | Page Contact datée du 29/03/2025 ; revalider les coordonnées avant toute démarche. Besoin inconnu. |
+
+### Sources officielles — contrôle du 18 novembre 2026
+
+- Anthony OLIVEIRA : https://www.anthonyoliveira.fr/ et https://www.anthonyoliveira.fr/#Contact
+- Aquitaine Plomberie 3 Étoiles : https://www.aquitaine-plomberie-3-etoiles.com/contact et https://www.aquitaine-plomberie-3-etoiles.com/a-propos-de-nous
+- APSC Azur Plomberie Sanitaire et Chauffage : https://azur-plomberie-istres.fr/fr/page/contact et https://azur-plomberie-istres.fr/fr/page/mentions-legales
+- I.D.PLOMBERIE : https://www.id-plomberie.fr/contact-depannage-installation-renovation-plomberie-chauffage/
+
+### Contrôle et réserves
+
+- Les coordonnées ci-dessus ont été relevées sur les pages officielles indiquées le 18/11/2026.
+- Les sites peuvent changer ; revalider l'activité, le destinataire, le canal et toute opposition avant une éventuelle démarche.
+- Pour Anthony OLIVEIRA et I.D.PLOMBERIE, les pages consultées affichent des dates de publication anciennes (2021 et 2025) : fraîcheur à recontrôler.
+- Aucun besoin de tableur n'est confirmé.
+- Aucun e-mail, appel ou formulaire commercial n'a été envoyé ou soumis.
