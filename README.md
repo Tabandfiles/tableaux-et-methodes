@@ -6,7 +6,7 @@ Création à distance de tableaux de suivi sur mesure pour artisans, petites ent
 - **Contact :** tabsandmethod@gmail.com
 - **Dépôt :** https://github.com/Tabandfiles/tableaux-et-methodes
 
-## État du projet au 17 novembre 2026
+## État du projet au 18 novembre 2026
 
 Trois familles de prototypes ODS existent en démonstration fictive et en version vierge. Les six fichiers de travail sont conservés hors du dépôt public et regroupés dans l'archive locale `Tableaux_Methodes_Prototypes_17-11-2026.zip`.
 
@@ -63,9 +63,9 @@ Le suivi de stock, le registre d'interventions et le suivi de maintenance sont p
 
 ## Prospection nationale
 
-Le fichier `suivi-prospection.csv` contient 27 entreprises distinctes dans 18 territoires (13 régions métropolitaines et 5 DROM). Il comporte 17 colonnes, une URL source par entreprise, 16 e-mails publics et 25 téléphones publics recensés. Le contrôle structurel du 17/11/2026 confirme : aucune ligne mal formée, aucun doublon, aucun besoin marqué confirmé et aucun contact marqué comme effectué.
+Le fichier `suivi-prospection.csv` contient 31 entreprises distinctes dans 18 territoires (13 régions métropolitaines et 5 DROM). Il comporte 17 colonnes, une URL source par entreprise, 20 e-mails publics et 29 téléphones publics recensés. Le contrôle structurel du 18/11/2026 confirme : aucune ligne mal formée, aucun doublon, aucun besoin marqué confirmé et aucun contact marqué comme effectué.
 
-Les dates de recherche vont du 05/11 au 17/11/2026. Trois fiches (ASI BAT, ETS Jumelle et DEMS) ont été revalidées le 17/11 sur leurs sites officiels ; voir [les sources et réserves](premiers-prospects.md). Le contrôle du 17/11 est structurel et ne revalide pas individuellement chaque coordonnée. Avant toute démarche, vérifier à nouveau la page officielle, le rôle du destinataire, le canal approprié et toute opposition. Ne jamais utiliser un numéro d'urgence ou de dépannage comme canal commercial.
+Les dates de recherche vont du 05/11 au 18/11/2026. Quatre pistes supplémentaires (Anthony OLIVEIRA, Aquitaine Plomberie 3 Étoiles, APSC Azur Plomberie Sanitaire et Chauffage, I.D.PLOMBERIE) ont été ajoutées le 18/11 à partir de leurs pages officielles ; deux pages consultées portent des dates anciennes et doivent être revalidées avant toute démarche. Voir [les sources et réserves](premiers-prospects.md). Le contrôle du 17/11 est structurel et ne revalide pas individuellement chaque coordonnée. Avant toute démarche, vérifier à nouveau la page officielle, le rôle du destinataire, le canal approprié et toute opposition. Ne jamais utiliser un numéro d'urgence ou de dépannage comme canal commercial.
 
 - [Liste nationale des prospects et sources](premiers-prospects.md)
 - [Suivi de prospection CSV](suivi-prospection.csv)
