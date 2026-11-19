@@ -6,21 +6,21 @@ Création à distance de tableaux de suivi sur mesure pour artisans, petites ent
 - **Contact :** tabsandmethod@gmail.com
 - **Dépôt :** https://github.com/Tabandfiles/tableaux-et-methodes
 
-## État du projet au 18 novembre 2026
+## État du projet au 19 novembre 2026
 
-Trois familles de prototypes ODS existent en démonstration fictive et en version vierge. Les six fichiers de travail sont conservés hors du dépôt public et regroupés dans l'archive locale `Tableaux_Methodes_Prototypes_17-11-2026.zip`.
+Trois familles de prototypes ODS existent en démonstration fictive et en version vierge. Les six fichiers de travail sont conservés hors du dépôt public et regroupés dans l'archive locale `Tableaux_Methodes_Prototypes_19-11-2026.zip`. Le catalogue PDF informatif est publié dans `catalogue.pdf`.
 
 | Produit | Version | Feuilles | Formules par fichier | Validations | Filtres | Capacité de conception |
 |---|---:|---:|---:|---:|---:|---|
 | Suivi de stock | v2.2 | 5 | 507 | 7 | 2 | 100 références / 500 mouvements |
 | Registre d'interventions | v1.0 | 4 | 210 | 5 | 1 | 200 interventions |
-| Suivi de maintenance | v1.0 | 5 | 408 | 9 | 2 | 100 équipements / 500 interventions |
+| Suivi de maintenance | v1.1 | 5 | 508 | 9 | 2 | 100 équipements / 500 interventions |
 
-Le 17/11/2026, les six classeurs ont été ouverts puis réenregistrés avec LibreOffice Calc en mode sans interface. Les feuilles, cellules de formule, règles de validation et filtres ont été contrôlés ; aucun marqueur d'erreur de formule visible n'a été détecté dans le XML. Les versions vierges affichent zéro sur leurs indicateurs après recalcul.
+Le 19/11/2026, les trois familles ont fait l'objet de tests fonctionnels via LibreOffice Calc (UNO) sur des copies temporaires : mouvements et alertes du stock, mise à jour du tableau de bord du registre, détection des doublons et synchronisation automatique de la dernière maintenance préventive depuis le journal. Les filtres et règles de validation ont été inspectés. Les six classeurs du pack ont été recalculés et contrôlés ; aucune erreur de formule visible n'a été détectée dans le XML.
 
 **Aucun de ces prototypes n'est déclaré prêt à la vente.** Les clics réels dans l'interface graphique de Calc, les messages de validation, le copier-coller, l'impression et un test utilisateur extérieur restent à vérifier. Excel n'a pas été testé. Les doublons sont signalés mais non bloqués.
 
-Voir le [rapport de contrôle du 17 novembre](controle-prototypes-17-nov-2026.md) et le [plan de recette manuelle](plan-recette-acceptation-ods.md).
+Voir le [rapport de contrôle du 17 novembre](controle-prototypes-17-nov-2026.md), le [contrôle maintenance v1.1](controle-suivi-maintenance-v1-1-19-nov-2026.md) et le [plan de recette manuelle](plan-recette-acceptation-ods.md).
 
 ## Résumé des produits
 
@@ -38,13 +38,13 @@ Voir le [rapport de contrôle du 17 novembre](controle-prototypes-17-nov-2026.md
 - Identifiants en double signalés, sans blocage.
 - Démonstration recalculée : 6 interventions, une dans chacun des six statuts, 1 urgente non terminée, 0 doublon et 2 heures.
 
-### Suivi de maintenance v1.0
+### Suivi de maintenance v1.1
 - Feuilles : Guide, Interventions, Équipements, Tableau de bord, Listes.
 - Capacité de conception : 100 équipements et 500 interventions.
-- Prochaine échéance calculée à partir de la dernière maintenance préventive et de la périodicité en jours.
-- La date de dernière préventive doit être actualisée manuellement dans Équipements ; le journal Interventions ne la synchronise pas.
+- La dernière préventive est calculée automatiquement depuis le journal : même ID, type `Préventive`, résultat `Réalisée` ; la date la plus récente est retenue.
+- La prochaine échéance est calculée à partir de cette date et de la périodicité en jours. Une corrective ou une préventive non réalisée ne repousse pas l'échéance.
 - Ce classeur n'est pas une GMAO.
-- Démonstration recalculée : 3 équipements, 1 en retard, 1 à planifier sous 30 jours, 1 à jour, 4 interventions, 5 heures, 0 doublon et 0 fiche à compléter.
+- Démonstration : 3 équipements, 1 en retard, 1 à planifier sous 30 jours, 1 à jour, 4 interventions, 5 heures, 0 doublon et 0 fiche à compléter.
 
 ## Offres affichées sur le site
 
@@ -63,9 +63,9 @@ Le suivi de stock, le registre d'interventions et le suivi de maintenance sont p
 
 ## Prospection nationale
 
-Le fichier `suivi-prospection.csv` contient 31 entreprises distinctes dans 18 territoires (13 régions métropolitaines et 5 DROM). Il comporte 17 colonnes, une URL source par entreprise, 20 e-mails publics et 29 téléphones publics recensés. Le contrôle structurel du 18/11/2026 confirme : aucune ligne mal formée, aucun doublon, aucun besoin marqué confirmé et aucun contact marqué comme effectué.
+Le fichier `suivi-prospection.csv` contient 33 entreprises distinctes dans 18 territoires (13 régions métropolitaines et 5 DROM). Il comporte 17 colonnes, une URL source par entreprise, 21 e-mails publics et 31 téléphones publics recensés. Le contrôle structurel du 19/11/2026 confirme : aucune ligne mal formée, aucun doublon, aucun besoin marqué confirmé et aucun contact marqué comme effectué.
 
-Les dates de recherche vont du 05/11 au 18/11/2026. Quatre pistes supplémentaires (Anthony OLIVEIRA, Aquitaine Plomberie 3 Étoiles, APSC Azur Plomberie Sanitaire et Chauffage, I.D.PLOMBERIE) ont été ajoutées le 18/11 à partir de leurs pages officielles ; deux pages consultées portent des dates anciennes et doivent être revalidées avant toute démarche. Voir [les sources et réserves](premiers-prospects.md). Le contrôle du 17/11 est structurel et ne revalide pas individuellement chaque coordonnée. Avant toute démarche, vérifier à nouveau la page officielle, le rôle du destinataire, le canal approprié et toute opposition. Ne jamais utiliser un numéro d'urgence ou de dépannage comme canal commercial.
+Les dates de recherche vont du 05/11 au 19/11/2026. Quatre pistes supplémentaires (Anthony OLIVEIRA, Aquitaine Plomberie 3 Étoiles, APSC Azur Plomberie Sanitaire et Chauffage, I.D.PLOMBERIE) ont été ajoutées le 18/11 à partir de leurs pages officielles ; deux pages consultées portent des dates anciennes et doivent être revalidées avant toute démarche. Deux pistes supplémentaires (RS Chauffage, Grand Est ; Aquitaine Energies Plomberie, Nouvelle-Aquitaine) ont été vérifiées le 19/11 sur leurs pages officielles. Voir [les sources et réserves](premiers-prospects.md) et le [contrôle de prospection du 19 novembre](controle-prospection-19-nov-2026.md). Le contrôle du 17/11 est structurel et ne revalide pas individuellement chaque coordonnée. Avant toute démarche, vérifier à nouveau la page officielle, le rôle du destinataire, le canal approprié et toute opposition. Ne jamais utiliser un numéro d'urgence ou de dépannage comme canal commercial.
 
 - [Liste nationale des prospects et sources](premiers-prospects.md)
 - [Suivi de prospection CSV](suivi-prospection.csv)
@@ -87,7 +87,7 @@ Les dates de recherche vont du 05/11 au 18/11/2026. Quatre pistes supplémentair
 - Excel n'a pas été testé.
 - Les doublons sont détectés, mais pas bloqués.
 - Les mentions légales et la politique de confidentialité ne sont pas publiées : les informations exactes de l'exploitant et les vérifications nécessaires manquent. Ne pas inventer ni publier de coordonnées juridiques.
-- Les binaires ODS ne sont pas publiés dans le dépôt public.
+- Les binaires ODS ne sont pas publiés dans le dépôt public. Seul le catalogue PDF informatif est publié.
 
 ## Garde-fous
 

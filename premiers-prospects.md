@@ -1,6 +1,6 @@
 # Prospection nationale — Tableaux & Méthodes
 
-**Dossier actualisé : 18 novembre 2026. 31 pistes recensées dans les 13 régions métropolitaines et les 5 DROM.** Les vérifications individuelles sont datées dans chaque section : les informations anciennes doivent être revalidées avant toute prise de contact. La présence d'une coordonnée publique ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé.
+**Dossier actualisé : 19 novembre 2026. 33 pistes recensées dans les 13 régions métropolitaines et les 5 DROM.** Les vérifications individuelles sont datées dans chaque section : les informations anciennes doivent être revalidées avant toute prise de contact. La présence d'une coordonnée publique ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé.
 
 ## Prospects dont l'activité et au moins un moyen de contact sont confirmés
 
@@ -233,3 +233,25 @@ Ces quatre entreprises disposent d'une activité et d'un moyen de contact profes
 - Pour Anthony OLIVEIRA et I.D.PLOMBERIE, les pages consultées affichent des dates de publication anciennes (2021 et 2025) : fraîcheur à recontrôler.
 - Aucun besoin de tableur n'est confirmé.
 - Aucun e-mail, appel ou formulaire commercial n'a été envoyé ou soumis.
+
+
+## Nouvelles pistes vérifiées sur sites officiels — 19 novembre 2026
+
+Ces deux entreprises ont une activité et un canal professionnel public consultables. Cela ne confirme ni un besoin de tableur, ni un intérêt commercial. Aucun contact n'a été effectué.
+
+| Région | Entreprise | Activité et localisation vérifiées | Contact professionnel public | Réserve |
+|---|---|---|---|---|
+| Grand Est | RS Chauffage | Plomberie, chauffage, sanitaire, climatisation et salles de bains ; secteur de Baccarat (Meurthe-et-Moselle). Le site indique intervenir auprès des particuliers et professionnels. | sevrain.romains@gmail.com · 06 03 13 21 59 | Coordonnées visibles sur la page d'accueil officielle consultée le 19/11/2026 ; page publiée le 07/05/2026. Besoin de tableur inconnu. |
+| Nouvelle-Aquitaine | Aquitaine Energies Plomberie (AEP) | Plomberie, chauffage, climatisation, entretien de pompes à chaleur et dépannage ; Bordeaux et Nouvelle-Aquitaine. | 06 72 67 13 06 · formulaire officiel ; aucun e-mail direct relevé sur la page Contact | Formulaire non soumis. Ne pas deviner d'adresse e-mail. Besoin de tableur inconnu. |
+
+### Sources officielles — contrôle du 19 novembre 2026
+
+- RS Chauffage : https://www.rs-chauffage.fr/ — activité, zone d'intervention, e-mail et téléphone affichés sur le site officiel.
+- Aquitaine Energies Plomberie : https://aeplomberie.fr/ et https://aeplomberie.fr/contact/ — activité, zone Bordeaux / Nouvelle-Aquitaine, téléphone et formulaire officiel.
+
+### Qualification et garde-fous
+
+- Les deux lignes sont enregistrées avec « Besoin confirmé ? : Non - inconnu ».
+- Aucun message, appel ou formulaire n'a été envoyé ou soumis.
+- Revalider le rôle de l'interlocuteur, les coordonnées, le canal et toute opposition avant une éventuelle démarche.
+- La présence d'un planning, d'interventions ou d'une activité de maintenance ne prouve pas qu'un tableur serait recherché.

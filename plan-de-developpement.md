@@ -98,3 +98,13 @@ Chaque modèle doit être testé avec des données fictives, des instructions cl
 
 
 Complément du 15/11/2026 : la validation de date a été ajoutée au registre d'interventions (type DATE, bornes 1900–9999, alerte STOP) et relue dans LibreOffice via UNO.
+
+
+## Mise à jour du 19 novembre 2026
+
+- Le suivi de maintenance passe en prototype v1.1 : la dernière préventive réalisée est calculée depuis le journal des interventions ; les correctives et les préventives non réalisées ne repoussent pas l'échéance.
+- Tests Calc via UNO sur copies temporaires : mouvements et alertes du stock, compteurs du registre, doublons, filtres, validations et mise à jour automatique de maintenance vérifiés.
+- Les tests visuels au clic, les impressions, la compatibilité Excel et un test utilisateur extérieur restent à réaliser avant toute mise en vente.
+- Le catalogue PDF informatif est publié sur le site ; il ne présente pas les prototypes comme disponibles.
+- Prospection nationale : 33 pistes dans 18 territoires ; les deux nouvelles pistes du 19/11 ont des coordonnées publiques officielles, mais aucun besoin confirmé et aucun contact effectué.
+- Prochaine priorité : recette visuelle dans Calc, puis contrôle d'impression et test utilisateur indépendant.
