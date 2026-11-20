@@ -1,6 +1,6 @@
 # Prospection nationale — Tableaux & Méthodes
 
-**Dossier actualisé : 19 novembre 2026. 33 pistes recensées dans les 13 régions métropolitaines et les 5 DROM.** Les vérifications individuelles sont datées dans chaque section : les informations anciennes doivent être revalidées avant toute prise de contact. La présence d'une coordonnée publique ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé.
+**Dossier actualisé : 20 novembre 2026. 34 pistes recensées dans les 13 régions métropolitaines et les 5 DROM.** Les vérifications individuelles sont datées dans chaque section : les informations anciennes doivent être revalidées avant toute prise de contact. La présence d'une coordonnée publique ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé.
 
 ## Prospects dont l'activité et au moins un moyen de contact sont confirmés
 
@@ -255,3 +255,12 @@ Ces deux entreprises ont une activité et un canal professionnel public consulta
 - Aucun message, appel ou formulaire n'a été envoyé ou soumis.
 - Revalider le rôle de l'interlocuteur, les coordonnées, le canal et toute opposition avant une éventuelle démarche.
 - La présence d'un planning, d'interventions ou d'une activité de maintenance ne prouve pas qu'un tableur serait recherché.
+
+
+## Nouvelle piste vérifiée sur site officiel — 20 novembre 2026
+
+| Région | Entreprise | Activité et localisation vérifiées | Contact professionnel public | Source officielle | Réserve |
+|---|---|---|---|---|---|
+| Bourgogne-Franche-Comté | V.I.C. Plomberie (EURL) | Plomberie, chauffage, traitement écologique de l'eau et maintenance de systèmes de chauffage ; Dijon | vicplomberie21@gmail.com · 06 58 32 11 73 | [Accueil officiel](https://www.vicplomberie.fr/) · [Page Contacts officielle](https://www.vicplomberie.fr/contacts) | Deux adresses différentes apparaissent sur le site : 22 rue de Bellevue sur l'accueil et 15 allée du Mâconnais sur la page Contacts. L'adresse doit être confirmée. La date de mise à jour du site n'est pas visible. Aucun besoin de tableur confirmé. |
+
+L'e-mail, le téléphone et la ville sont publiés sur la page Contacts officielle consultée le 20/11/2026. L'accueil décrit la maintenance des systèmes de chauffage. L'activité peut seulement servir d'angle de qualification ; elle ne prouve pas que l'entreprise recherche un tableur. Aucun message, appel ou formulaire n'a été envoyé ou soumis.
