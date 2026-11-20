@@ -20,7 +20,7 @@ Le 19/11/2026, les trois familles ont fait l'objet de tests fonctionnels via Lib
 
 **Aucun de ces prototypes n'est déclaré prêt à la vente.** Les clics réels dans l'interface graphique de Calc, les messages de validation, le copier-coller, l'impression et un test utilisateur extérieur restent à vérifier. Excel n'a pas été testé. Les doublons sont signalés mais non bloqués.
 
-Voir le [rapport de contrôle du 17 novembre](controle-prototypes-17-nov-2026.md), le [contrôle maintenance v1.1 du 19 novembre](controle-suivi-maintenance-v1-1-19-nov-2026.md), le [contrôle de cohérence maintenance du 20 novembre](controle-maintenance-20-11-2026.md), le [contrôle du site du 20 novembre](controle-site-20-nov-2026.md) et le [plan de recette manuelle](plan-recette-acceptation-ods.md).
+Voir le [rapport de contrôle du 17 novembre](controle-prototypes-17-nov-2026.md), le [contrôle maintenance v1.1 du 19 novembre](controle-suivi-maintenance-v1-1-19-nov-2026.md), le [contrôle de cohérence maintenance du 20 novembre](controle-maintenance-20-11-2026.md), les [tests de calcul des trois classeurs du 20 novembre](controle-calculs-classeurs-20-nov-2026.md), le [contrôle du site du 20 novembre](controle-site-20-nov-2026.md) et le [plan de recette manuelle](plan-recette-acceptation-ods.md).
 
 ## Résumé des produits
 
