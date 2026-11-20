@@ -6,9 +6,9 @@ Création à distance de tableaux de suivi sur mesure pour artisans, petites ent
 - **Contact :** tabsandmethod@gmail.com
 - **Dépôt :** https://github.com/Tabandfiles/tableaux-et-methodes
 
-## État du projet au 19 novembre 2026
+## État du projet au 20 novembre 2026
 
-Trois familles de prototypes ODS existent en démonstration fictive et en version vierge. Les six fichiers de travail sont conservés hors du dépôt public et regroupés dans l'archive locale `Tableaux_Methodes_Prototypes_19-11-2026.zip`. Le catalogue PDF informatif est publié dans `catalogue.pdf`.
+Trois familles de prototypes ODS existent en démonstration fictive et en version vierge. Les six fichiers de travail sont conservés hors du dépôt public et regroupés dans l'archive locale `Tableaux_Methodes_Prototypes_20-11-2026.zip`. Le catalogue PDF informatif est publié dans `catalogue.pdf`.
 
 | Produit | Version | Feuilles | Formules par fichier | Validations | Filtres | Capacité de conception |
 |---|---:|---:|---:|---:|---:|---|
@@ -16,11 +16,11 @@ Trois familles de prototypes ODS existent en démonstration fictive et en versio
 | Registre d'interventions | v1.0 | 4 | 210 | 5 | 1 | 200 interventions |
 | Suivi de maintenance | v1.1 | 5 | 508 | 9 | 2 | 100 équipements / 500 interventions |
 
-Le 19/11/2026, les trois familles ont fait l'objet de tests fonctionnels via LibreOffice Calc (UNO) sur des copies temporaires : mouvements et alertes du stock, mise à jour du tableau de bord du registre, détection des doublons et synchronisation automatique de la dernière maintenance préventive depuis le journal. Les filtres et règles de validation ont été inspectés. Les six classeurs du pack ont été recalculés et contrôlés ; aucune erreur de formule visible n'a été détectée dans le XML.
+Le 19/11/2026, les trois familles ont fait l'objet de tests fonctionnels via LibreOffice Calc (UNO) sur des copies temporaires : mouvements et alertes du stock, mise à jour du tableau de bord du registre, détection des doublons et synchronisation automatique de la dernière maintenance préventive depuis le journal. Les filtres et règles de validation ont été inspectés. Les six classeurs du pack ont été recalculés et contrôlés ; aucune erreur de formule visible n'a été détectée dans le XML. Le 20/11/2026, une incohérence de données fictives a été corrigée dans la démonstration maintenance : VAN-003 possède maintenant l'intervention préventive réalisée du 10/11/2026 qui alimente la date et l'échéance affichées. Des tests temporaires confirment qu'une préventive plus récente met à jour la date et qu'une corrective ultérieure ne la modifie pas.
 
 **Aucun de ces prototypes n'est déclaré prêt à la vente.** Les clics réels dans l'interface graphique de Calc, les messages de validation, le copier-coller, l'impression et un test utilisateur extérieur restent à vérifier. Excel n'a pas été testé. Les doublons sont signalés mais non bloqués.
 
-Voir le [rapport de contrôle du 17 novembre](controle-prototypes-17-nov-2026.md), le [contrôle maintenance v1.1](controle-suivi-maintenance-v1-1-19-nov-2026.md) et le [plan de recette manuelle](plan-recette-acceptation-ods.md).
+Voir le [rapport de contrôle du 17 novembre](controle-prototypes-17-nov-2026.md), le [contrôle maintenance v1.1 du 19 novembre](controle-suivi-maintenance-v1-1-19-nov-2026.md), le [contrôle de cohérence maintenance du 20 novembre](controle-maintenance-20-11-2026.md), le [contrôle du site du 20 novembre](controle-site-20-nov-2026.md) et le [plan de recette manuelle](plan-recette-acceptation-ods.md).
 
 ## Résumé des produits
 
