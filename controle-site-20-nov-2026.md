@@ -27,10 +27,10 @@ La démonstration ODS présentait une seconde incohérence : VAN-003 affichait u
 ## Prospection nationale — contrôle structurel du CSV
 
 Contrôle du fichier `suivi-prospection.csv` :
-- 33 lignes de données et 33 entreprises distinctes.
+- 34 lignes de données et 34 entreprises distinctes.
 - 17 colonnes.
 - 18 territoires libellés : 13 régions métropolitaines et 5 DROM.
-- 21 lignes avec e-mail public et 31 lignes avec téléphone public.
+- 22 lignes avec e-mail public et 32 lignes avec téléphone public.
 - Une URL de source par ligne.
 - Aucun doublon.
 - Aucun besoin marqué confirmé.
