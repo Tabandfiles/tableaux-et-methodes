@@ -5,7 +5,7 @@
 - Dépôt public : https://github.com/Tabandfiles/tableaux-et-methodes
 - Branche par défaut : main
 - Le dépôt est public, non archivé ; les permissions du connecteur autorisent la lecture et l'écriture.
-- Le commit de correction de la description de maintenance déclenche le workflow GitHub Pages n°44791772866.
+- Le dernier commit contrôlé est `2801ab3b72e2fa107df7840e6d056076b568bd52` ; le workflow GitHub Pages n°44792786546 a terminé avec succès (build, deploy et rapport de statut).
 
 ## Site public consulté
 
