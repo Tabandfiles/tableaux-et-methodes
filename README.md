@@ -6,9 +6,9 @@ Création à distance de tableaux de suivi sur mesure pour artisans, petites ent
 - **Contact :** tabsandmethod@gmail.com
 - **Dépôt :** https://github.com/Tabandfiles/tableaux-et-methodes
 
-## État du projet au 20 novembre 2026
+## État du projet au 21 novembre 2026
 
-Trois familles de prototypes ODS existent en démonstration fictive et en version vierge. Les six fichiers de travail sont conservés hors du dépôt public et regroupés dans l'archive locale `Tableaux_Methodes_Prototypes_20-11-2026.zip`. Le catalogue PDF informatif est publié dans `catalogue.pdf`.
+Trois familles de prototypes ODS existent en démonstration fictive et en version vierge. Les six fichiers de travail sont conservés hors du dépôt public et regroupés dans l'archive locale `Tableaux_Methodes_Prototypes_21-11-2026.zip`. Le catalogue PDF informatif est publié dans `catalogue.pdf`.
 
 | Produit | Version | Feuilles | Formules par fichier | Validations | Filtres | Capacité de conception |
 |---|---:|---:|---:|---:|---:|---|
@@ -18,7 +18,9 @@ Trois familles de prototypes ODS existent en démonstration fictive et en versio
 
 Le 19/11/2026, les trois familles ont fait l'objet de tests fonctionnels via LibreOffice Calc (UNO) sur des copies temporaires : mouvements et alertes du stock, mise à jour du tableau de bord du registre, détection des doublons et synchronisation automatique de la dernière maintenance préventive depuis le journal. Les filtres et règles de validation ont été inspectés. Les six classeurs du pack ont été recalculés et contrôlés ; aucune erreur de formule visible n'a été détectée dans le XML. Le 20/11/2026, une incohérence de données fictives a été corrigée dans la démonstration maintenance : VAN-003 possède maintenant l'intervention préventive réalisée du 10/11/2026 qui alimente la date et l'échéance affichées. Des tests temporaires confirment qu'une préventive plus récente met à jour la date et qu'une corrective ultérieure ne la modifie pas.
 
-**Aucun de ces prototypes n'est déclaré prêt à la vente.** Les clics réels dans l'interface graphique de Calc, les messages de validation, le copier-coller, l'impression et un test utilisateur extérieur restent à vérifier. Excel n'a pas été testé. Les doublons sont signalés mais non bloqués.
+**Le 21/11/2026, la recette d’impression PDF a mis en évidence puis corrigé des zones qui couvraient des centaines de lignes vides : les six classeurs exportent désormais chacun 5 pages non vides. Les guides et notes de tableaux de bord sont renvoyés à la ligne ; le journal du registre est imprimé en deux panneaux ; les vues imprimées Stock et Équipements conservent les colonnes principales. Le rappel du tableau de bord Maintenance a été corrigé. L’impression physique reste à tester.
+
+Aucun de ces prototypes n'est déclaré prêt à la vente.** Les clics réels dans l'interface graphique de Calc, les messages de validation, le copier-coller, l'impression et un test utilisateur extérieur restent à vérifier. Excel n'a pas été testé. Les doublons sont signalés mais non bloqués.
 
 Voir le [rapport de contrôle du 17 novembre](controle-prototypes-17-nov-2026.md), le [contrôle maintenance v1.1 du 19 novembre](controle-suivi-maintenance-v1-1-19-nov-2026.md), le [contrôle de cohérence maintenance du 20 novembre](controle-maintenance-20-11-2026.md), les [tests de calcul des trois classeurs du 20 novembre](controle-calculs-classeurs-20-nov-2026.md), le [contrôle du site du 20 novembre](controle-site-20-nov-2026.md) et le [plan de recette manuelle](plan-recette-acceptation-ods.md).
 
@@ -63,12 +65,14 @@ Le suivi de stock, le registre d'interventions et le suivi de maintenance sont p
 
 ## Prospection nationale
 
-Le fichier `suivi-prospection.csv` contient 34 entreprises distinctes dans 18 territoires (13 régions métropolitaines et 5 DROM). Il comporte 17 colonnes, une URL source par entreprise, 22 e-mails publics et 32 téléphones publics recensés. Le contrôle structurel du 20/11/2026 confirme : 34 entreprises distinctes, 17 colonnes, une URL source par ligne, aucune ligne mal formée, aucun doublon, aucun besoin marqué confirmé et aucun contact marqué comme effectué.
+Le fichier `suivi-prospection.csv` contient 35 entreprises distinctes dans 18 territoires (13 régions métropolitaines et 5 DROM). Il comporte 17 colonnes, une URL source par entreprise, 23 e-mails publics et 33 téléphones publics recensés. Le contrôle structurel du 20/11/2026 confirme : 35 entreprises distinctes, 17 colonnes, une URL source par ligne, aucune ligne mal formée, aucun doublon, aucun besoin marqué confirmé et aucun contact marqué comme effectué.
 
-Les dates de recherche vont du 05/11 au 20/11/2026. Quatre pistes supplémentaires (Anthony OLIVEIRA, Aquitaine Plomberie 3 Étoiles, APSC Azur Plomberie Sanitaire et Chauffage, I.D.PLOMBERIE) ont été ajoutées le 18/11 à partir de leurs pages officielles ; deux pages consultées portent des dates anciennes et doivent être revalidées avant toute démarche. Deux pistes supplémentaires (RS Chauffage, Grand Est ; Aquitaine Energies Plomberie, Nouvelle-Aquitaine) ont été vérifiées le 19/11 sur leurs pages officielles. Une piste V.I.C. Plomberie (Dijon, Bourgogne-Franche-Comté) a été ajoutée le 20/11 à partir de son site officiel ; deux adresses différentes figurent sur ses pages et restent à confirmer. Voir [les sources et réserves](premiers-prospects.md) le [contrôle de prospection du 19 novembre](controle-prospection-19-nov-2026.md) et le [contrôle de prospection du 20 novembre](controle-prospection-20-nov-2026.md). Le contrôle du 17/11 est structurel et ne revalide pas individuellement chaque coordonnée. Avant toute démarche, vérifier à nouveau la page officielle, le rôle du destinataire, le canal approprié et toute opposition. Ne jamais utiliser un numéro d'urgence ou de dépannage comme canal commercial.
+Les dates de recherche vont du 05/11 au 20/11/2026. Quatre pistes supplémentaires (Anthony OLIVEIRA, Aquitaine Plomberie 3 Étoiles, APSC Azur Plomberie Sanitaire et Chauffage, I.D.PLOMBERIE) ont été ajoutées le 18/11 à partir de leurs pages officielles ; deux pages consultées portent des dates anciennes et doivent être revalidées avant toute démarche. Deux pistes supplémentaires (RS Chauffage, Grand Est ; Aquitaine Energies Plomberie, Nouvelle-Aquitaine) ont été vérifiées le 19/11 sur leurs pages officielles. Une piste V.I.C. Plomberie (Dijon, Bourgogne-Franche-Comté) a été ajoutée le 20/11 à partir de son site officiel ; deux adresses différentes figurent sur ses pages et restent à confirmer. Voir [les sources et réserves](premiers-prospects.md) le [contrôle de prospection du 19 novembre](controle-prospection-19-nov-2026.md) et le [contrôle de prospection du 20 novembre](controle-prospection-20-nov-2026.md). Une piste AÏDIYO (Guadeloupe) a été ajoutée le 21/11 à partir des mentions légales, de la page Contact et de l’accueil officiels ; les prestations d’entretien préventif pour professionnels sont publiées, mais aucun besoin de tableur n’est confirmé. Le contrôle du 17/11 est structurel et ne revalide pas individuellement chaque coordonnée. Avant toute démarche, vérifier à nouveau la page officielle, le rôle du destinataire, le canal approprié et toute opposition. Ne jamais utiliser un numéro d'urgence ou de dépannage comme canal commercial.
 
 - [Liste nationale des prospects et sources](premiers-prospects.md)
 - [Contrôle de prospection du 20 novembre](controle-prospection-20-nov-2026.md)
+- [Contrôle des impressions du 21 novembre](controle-impression-classeurs-21-nov-2026.md)
+- [Contrôle de prospection du 21 novembre](controle-prospection-21-nov-2026.md)
 - [Suivi de prospection CSV](suivi-prospection.csv)
 - [Grille de qualification nationale](grille-qualification-prospects-nationale.md)
 
