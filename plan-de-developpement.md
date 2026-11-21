@@ -108,3 +108,12 @@ Complément du 15/11/2026 : la validation de date a été ajoutée au registre d
 - Le catalogue PDF informatif est publié sur le site ; il ne présente pas les prototypes comme disponibles.
 - Prospection nationale : 33 pistes dans 18 territoires ; les deux nouvelles pistes du 19/11 ont des coordonnées publiques officielles, mais aucun besoin confirmé et aucun contact effectué.
 - Prochaine priorité : recette visuelle dans Calc, puis contrôle d'impression et test utilisateur indépendant.
+
+
+## Mise à jour du 21 novembre 2026
+
+- Recette d’impression PDF des six classeurs : les zones trop longues ont été réduites ; chaque export PDF compte 5 pages non vides. Le registre imprime son journal en deux panneaux pour éviter de réduire 18 colonnes sur une seule page.
+- Renvoi à la ligne et hauteur de lignes corrigés dans les guides et tableaux de bord ; le rappel du tableau de bord Maintenance est cohérent avec le calcul automatique depuis le journal.
+- Les aperçus PDF ont été ajoutés au pack de travail avec les six ODS. L’impression sur imprimante physique reste à tester.
+- Prospection nationale : 35 pistes dans 18 territoires, 23 e-mails et 33 téléphones publiés ; AÏDIYO (Guadeloupe) ajoutée depuis ses pages officielles. Aucun besoin confirmé et aucun contact effectué.
+- Prochaine priorité : recette interactive au clic dans Calc, copier-coller, saisies invalides, puis test utilisateur extérieur. Ne pas mettre les prototypes en vente avant ces validations.
