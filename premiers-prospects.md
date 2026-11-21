@@ -264,3 +264,12 @@ Ces deux entreprises ont une activité et un canal professionnel public consulta
 | Bourgogne-Franche-Comté | V.I.C. Plomberie (EURL) | Plomberie, chauffage, traitement écologique de l'eau et maintenance de systèmes de chauffage ; Dijon | vicplomberie21@gmail.com · 06 58 32 11 73 | [Accueil officiel](https://www.vicplomberie.fr/) · [Page Contacts officielle](https://www.vicplomberie.fr/contacts) | Deux adresses différentes apparaissent sur le site : 22 rue de Bellevue sur l'accueil et 15 allée du Mâconnais sur la page Contacts. L'adresse doit être confirmée. La date de mise à jour du site n'est pas visible. Aucun besoin de tableur confirmé. |
 
 L'e-mail, le téléphone et la ville sont publiés sur la page Contacts officielle consultée le 20/11/2026. L'accueil décrit la maintenance des systèmes de chauffage. L'activité peut seulement servir d'angle de qualification ; elle ne prouve pas que l'entreprise recherche un tableur. Aucun message, appel ou formulaire n'a été envoyé ou soumis.
+
+
+## Nouvelle piste vérifiée sur site officiel — 21 novembre 2026
+
+| Région | Entreprise | Activité et localisation vérifiées | Contact professionnel public | Source officielle | Réserve |
+|---|---|---|---|---|---|
+| Guadeloupe (DROM) | AÏDIYO (SAS) | Plomberie, contrats d’entretien préventif pour professionnels, entretien de piscines et locaux techniques ; siège publié à Baie-Mahault | contact@aidiyo.fr · 06 90 59 98 04 | [Mentions légales officielles](https://aidiyo.fr/mentions-legales/) · [Page Contact officielle](https://aidiyo.fr/contact/) · [Accueil officiel](https://aidiyo.fr/) | Le site décrit des prestations de maintenance pour les professionnels, mais aucun besoin de tableur n’est indiqué. L’offre à envisager reste à déterminer après qualification. Aucun contact effectué. |
+
+Les mentions légales officielles consultées le 21/11/2026 indiquent AÏDIYO SAS, le SIRET 92040644400025, le siège à Baie-Mahault, l’e-mail et le téléphone. La page Contact confirme l’adresse. L’activité publiée peut seulement servir à préparer une question de qualification ; elle ne prouve pas que l’entreprise recherche un tableur. Aucun message, appel ou formulaire n’a été envoyé ou soumis.
