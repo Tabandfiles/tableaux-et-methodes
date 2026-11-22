@@ -10,8 +10,12 @@ Site contrôlé : https://tabandfiles.github.io/tableaux-et-methodes/
 
 Les exemples affichés reprennent des données fictives. Le tarif de l'offre Tableau simple reste 15 € et l'offre est toujours présentée comme une création à la demande, après confirmation du périmètre et du prix. Les trois autres modèles restent annoncés comme prototypes non disponibles à la livraison.
 
-## Contrôle après publication
+## Contrôle après publication — réussi
 
-À effectuer après le déploiement : vérifier le rendu de la page, les cinq aperçus, les deux libellés corrigés, le lien catalogue et les métadonnées SEO. Le catalogue PDF public reste daté du 19 novembre, car les tarifs et le périmètre commercial n'ont pas changé.
+Le workflow GitHub Pages n°179 a terminé avec succès le 22/11/2026 : https://github.com/Tabandfiles/tableaux-et-methodes/actions/runs/45058435739
+
+La page publique a ensuite été relue : les lignes de l'exemple simple DEM-001 à DEM-003 sont présentes ; les statuts du registre affichent « Terminée » et « Planifiée » ; le lien catalogue répond sans erreur et les métadonnées canoniques / Open Graph sont présentes. Le sitemap porte la date 2026-11-22.
+
+Le catalogue PDF public reste daté du 19 novembre, car les tarifs et le périmètre commercial n'ont pas changé. Le nouvel exemple « Tableau simple » est présenté sur la page, mais son pack ODS reste local et n'est pas téléchargeable publiquement.
 
 Aucun formulaire de contact n'a été soumis et aucun message commercial n'a été envoyé.
