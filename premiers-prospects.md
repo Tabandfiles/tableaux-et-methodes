@@ -1,6 +1,6 @@
 # Prospection nationale — Tableaux & Méthodes
 
-**Dossier actualisé : 20 novembre 2026. 34 pistes recensées dans les 13 régions métropolitaines et les 5 DROM.** Les vérifications individuelles sont datées dans chaque section : les informations anciennes doivent être revalidées avant toute prise de contact. La présence d'une coordonnée publique ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé.
+**Dossier actualisé : 22 novembre 2026. 38 pistes recensées dans les 13 régions métropolitaines et les 5 DROM.** Les vérifications individuelles sont datées dans chaque section : les informations anciennes doivent être revalidées avant toute prise de contact. La présence d'une coordonnée publique ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé.
 
 ## Prospects dont l'activité et au moins un moyen de contact sont confirmés
 
@@ -273,3 +273,22 @@ L'e-mail, le téléphone et la ville sont publiés sur la page Contacts officiel
 | Guadeloupe (DROM) | AÏDIYO (SAS) | Plomberie, contrats d’entretien préventif pour professionnels, entretien de piscines et locaux techniques ; siège publié à Baie-Mahault | contact@aidiyo.fr · 06 90 59 98 04 | [Mentions légales officielles](https://aidiyo.fr/mentions-legales/) · [Page Contact officielle](https://aidiyo.fr/contact/) · [Accueil officiel](https://aidiyo.fr/) | Le site décrit des prestations de maintenance pour les professionnels, mais aucun besoin de tableur n’est indiqué. L’offre à envisager reste à déterminer après qualification. Aucun contact effectué. |
 
 Les mentions légales officielles consultées le 21/11/2026 indiquent AÏDIYO SAS, le SIRET 92040644400025, le siège à Baie-Mahault, l’e-mail et le téléphone. La page Contact confirme l’adresse. L’activité publiée peut seulement servir à préparer une question de qualification ; elle ne prouve pas que l’entreprise recherche un tableur. Aucun message, appel ou formulaire n’a été envoyé ou soumis.
+
+
+## Pistes supplémentaires vérifiées sur les sites officiels — 22 novembre 2026
+
+Ces trois pistes élargissent les secteurs représentés vers l'entretien de chauffage et les équipements sportifs/de loisirs. Les coordonnées ci-dessous sont publiées sur les sites officiels. Elles ne démontrent pas un besoin de tableur, une intention d'achat ou une taille d'entreprise adaptée. Aucun contact n'a été effectué.
+
+| Région | Entreprise | Activité et localisation confirmées | Contact professionnel public | Réserve / qualification |
+|---|---|---|---|---|
+| Normandie | E.T.C Normandie | Plomberie, électricité, chauffage et maintenance ; Saint-Ouen-de-Thouberville (Eure) | 02 49 88 42 33 ; 10 place Caillemare, 27310 Saint-Ouen-de-Thouberville | Aucun e-mail direct relevé sur la page Contact extraite. Le site décrit des contrats d'entretien de chaudières et pompes à chaleur, y compris pour des professionnels. Besoin de suivi non confirmé. |
+| Occitanie | Occitanie Sports Loisirs (OSL) | Fourniture, aménagement, rénovation et maintenance d'équipements sportifs et de loisirs ; Saint-Orens-de-Gameville | infos@occitanie-sl.com · 05 32 02 68 78 | Activité de maintenance publiée, mais aucun besoin de tableur exprimé. Vérifier la nature de l'activité et les outils existants avant toute démarche. |
+| Provence-Alpes-Côte d’Azur | Winovatio | Conception, installation et maintenance d'aires de jeux, équipements sportifs et urbains ; adresse publiée à Avignon | contact@winovatio.fr · 04 88 60 54 94 | Le site présente un service de maintenance préventive. La taille de la structure, le rôle du destinataire et les outils existants ne sont pas établis ; besoin inconnu. |
+
+### Sources officielles consultées le 22/11/2026
+
+- E.T.C Normandie : https://www.etc-normandie.com/ ; https://www.etc-normandie.com/contact.php ; https://www.etc-normandie.com/maintenance.php
+- Occitanie Sports Loisirs : https://www.occitanie-sl.fr/ ; https://www.occitanie-sl.fr/i/contact ; https://www.occitanie-sl.fr/i/realisations
+- Winovatio : https://winovatio.fr/home ; https://winovatio.fr/mentions-legales ; https://winovatio.fr/maintenance
+
+**Contrôle de la base au 22/11/2026 :** 38 entreprises distinctes, 18 territoires, 25 adresses e-mail professionnelles publiées, 36 téléphones publiés et une URL source par ligne. Aucun besoin marqué comme confirmé, aucun contact marqué comme effectué, aucun doublon détecté. Les coordonnées anciennes ou ambiguës doivent être revalidées avant toute démarche.
