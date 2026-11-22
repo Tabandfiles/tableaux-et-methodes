@@ -6,7 +6,7 @@ Création à distance de tableaux de suivi sur mesure pour artisans, petites ent
 - **Contact :** tabsandmethod@gmail.com
 - **Dépôt :** https://github.com/Tabandfiles/tableaux-et-methodes
 
-## État du projet au 21 novembre 2026
+## État du projet au 22 novembre 2026
 
 Trois familles de prototypes ODS existent en démonstration fictive et en version vierge. Les six fichiers de travail sont conservés hors du dépôt public et regroupés dans l'archive locale `Tableaux_Methodes_Prototypes_21-11-2026.zip`. Le catalogue PDF informatif est publié dans `catalogue.pdf`.
 
@@ -65,15 +65,18 @@ Le suivi de stock, le registre d'interventions et le suivi de maintenance sont p
 
 ## Prospection nationale
 
-Le fichier `suivi-prospection.csv` contient 35 entreprises distinctes dans 18 territoires (13 régions métropolitaines et 5 DROM). Il comporte 17 colonnes, une URL source par entreprise, 23 e-mails publics et 33 téléphones publics recensés. Le contrôle structurel du 20/11/2026 confirme : 35 entreprises distinctes, 17 colonnes, une URL source par ligne, aucune ligne mal formée, aucun doublon, aucun besoin marqué confirmé et aucun contact marqué comme effectué.
+Le fichier `suivi-prospection.csv` contient 38 entreprises distinctes dans 18 territoires (13 régions métropolitaines et 5 DROM). Il comporte 17 colonnes, une URL source par entreprise, 25 e-mails publics et 36 téléphones publics recensés. Le contrôle structurel du 22/11/2026 confirme : 38 entreprises distinctes, 17 colonnes, une URL source par ligne, aucune ligne mal formée, aucun doublon, aucun besoin marqué confirmé et aucun contact marqué comme effectué.
 
-Les dates de recherche vont du 05/11 au 20/11/2026. Quatre pistes supplémentaires (Anthony OLIVEIRA, Aquitaine Plomberie 3 Étoiles, APSC Azur Plomberie Sanitaire et Chauffage, I.D.PLOMBERIE) ont été ajoutées le 18/11 à partir de leurs pages officielles ; deux pages consultées portent des dates anciennes et doivent être revalidées avant toute démarche. Deux pistes supplémentaires (RS Chauffage, Grand Est ; Aquitaine Energies Plomberie, Nouvelle-Aquitaine) ont été vérifiées le 19/11 sur leurs pages officielles. Une piste V.I.C. Plomberie (Dijon, Bourgogne-Franche-Comté) a été ajoutée le 20/11 à partir de son site officiel ; deux adresses différentes figurent sur ses pages et restent à confirmer. Voir [les sources et réserves](premiers-prospects.md) le [contrôle de prospection du 19 novembre](controle-prospection-19-nov-2026.md) et le [contrôle de prospection du 20 novembre](controle-prospection-20-nov-2026.md). Une piste AÏDIYO (Guadeloupe) a été ajoutée le 21/11 à partir des mentions légales, de la page Contact et de l’accueil officiels ; les prestations d’entretien préventif pour professionnels sont publiées, mais aucun besoin de tableur n’est confirmé. Le contrôle du 17/11 est structurel et ne revalide pas individuellement chaque coordonnée. Avant toute démarche, vérifier à nouveau la page officielle, le rôle du destinataire, le canal approprié et toute opposition. Ne jamais utiliser un numéro d'urgence ou de dépannage comme canal commercial.
+Les dates de recherche vont du 05/11 au 22/11/2026. Quatre pistes supplémentaires (Anthony OLIVEIRA, Aquitaine Plomberie 3 Étoiles, APSC Azur Plomberie Sanitaire et Chauffage, I.D.PLOMBERIE) ont été ajoutées le 18/11 à partir de leurs pages officielles ; deux pages consultées portent des dates anciennes et doivent être revalidées avant toute démarche. Deux pistes supplémentaires (RS Chauffage, Grand Est ; Aquitaine Energies Plomberie, Nouvelle-Aquitaine) ont été vérifiées le 19/11 sur leurs pages officielles. Une piste V.I.C. Plomberie (Dijon, Bourgogne-Franche-Comté) a été ajoutée le 20/11 à partir de son site officiel ; deux adresses différentes figurent sur ses pages et restent à confirmer. Voir [les sources et réserves](premiers-prospects.md) le [contrôle de prospection du 19 novembre](controle-prospection-19-nov-2026.md) et le [contrôle de prospection du 20 novembre](controle-prospection-20-nov-2026.md). Une piste AÏDIYO (Guadeloupe) a été ajoutée le 21/11 à partir des mentions légales, de la page Contact et de l’accueil officiels ; les prestations d’entretien préventif pour professionnels sont publiées, mais aucun besoin de tableur n’est confirmé. Le 22/11, trois pistes ont été ajoutées à partir de sites officiels : E.T.C Normandie (Normandie, téléphone public sans e-mail direct relevé), Occitanie Sports Loisirs (Occitanie, e-mail et téléphone publics) et Winovatio (PACA, e-mail et téléphone publics). Leurs activités de maintenance sont publiées, mais aucun besoin de tableur n’est confirmé. Le contrôle du 17/11 est structurel et ne revalide pas individuellement chaque coordonnée. Avant toute démarche, vérifier à nouveau la page officielle, le rôle du destinataire, le canal approprié et toute opposition. Ne jamais utiliser un numéro d'urgence ou de dépannage comme canal commercial.
 
 - [Liste nationale des prospects et sources](premiers-prospects.md)
 - [Contrôle de prospection du 20 novembre](controle-prospection-20-nov-2026.md)
 - [Contrôle des impressions du 21 novembre](controle-impression-classeurs-21-nov-2026.md)
 - [Contrôle du site public du 21 novembre](controle-site-21-nov-2026.md)
 - [Contrôle de prospection du 21 novembre](controle-prospection-21-nov-2026.md)
+- [Contrôle de prospection du 22 novembre](controle-prospection-22-nov-2026.md)
+- [Contrôle du site du 22 novembre](controle-site-22-nov-2026.md)
+- [Contrôle de l'exemple Tableau simple du 22 novembre](controle-tableau-simple-22-nov-2026.md)
 - [Suivi de prospection CSV](suivi-prospection.csv)
 - [Grille de qualification nationale](grille-qualification-prospects-nationale.md)
 
@@ -86,6 +89,8 @@ Les dates de recherche vont du 05/11 au 20/11/2026. Quatre pistes supplémentair
 - [Fiche de cadrage client](fiche-cadrage-client.md)
 - [Plan de développement](plan-de-developpement.md)
 - [Brouillons de mentions légales et confidentialité](brouillon-mentions-legales-confidentialite.md)
+
+Le 22/11/2026, un exemple local de l'offre « Tableau simple » a été créé en démonstration et en version vierge : suivi de demandes sur 50 lignes, listes de priorité/statut, filtres et guide. L'export PDF de démonstration fait deux pages (guide + aperçu). Les propriétés de validation ont été contrôlées via LibreOffice Calc ; le test visuel au clic, Excel et la personnalisation à partir d'un besoin réel restent à faire. Le pack est fourni séparément et n'est pas publié dans le dépôt ni sur le site.
 
 ## Points bloquants
 
