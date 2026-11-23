@@ -24,7 +24,9 @@ Site contrôlé : https://tabandfiles.github.io/tableaux-et-methodes/
 - Le PDF a été converti en image et inspecté visuellement : tableau complet, textes lisibles, aucune coupure de cellule ni débordement détecté.
 - Le texte extrait du PDF confirme les six références DEM-001 à DEM-006 et les statuts exacts du classeur.
 - Les données de démonstration sont fictives.
-- Le lien public et le déploiement seront recontrôlés après publication.
+- Le workflow GitHub Pages n°181 (run 45243506032) a terminé avec succès le 23/11/2026 à 18:56 UTC : https://github.com/Tabandfiles/tableaux-et-methodes/actions/runs/45243506032.
+- Après déploiement, la page publique a été relue : le lien PDF est présent dans la carte Tableau simple, les identifiants POM-001 / CTA-002 / VAN-003 sont affichés et la séquence littérale `\\n` a disparu.
+- Une session navigateur en direct a retrouvé le lien PDF et confirmé son URL publique. L’ouverture / lecture directe du PDF par le navigateur automatisé n’est pas prise en charge ; le fichier local a toutefois été contrôlé par extraction de texte et inspection visuelle.
 
 ## Limites
 - L’aperçu PDF ne remplace pas le classeur ODS.
