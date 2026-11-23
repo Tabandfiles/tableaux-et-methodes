@@ -291,4 +291,17 @@ Ces trois pistes élargissent les secteurs représentés vers l'entretien de cha
 - Occitanie Sports Loisirs : https://www.occitanie-sl.fr/ ; https://www.occitanie-sl.fr/i/contact ; https://www.occitanie-sl.fr/i/realisations
 - Winovatio : https://winovatio.fr/home ; https://winovatio.fr/mentions-legales ; https://winovatio.fr/maintenance
 
-**Contrôle de la base au 22/11/2026 :** 38 entreprises distinctes, 18 territoires, 25 adresses e-mail professionnelles publiées, 36 téléphones publiés et une URL source par ligne. Aucun besoin marqué comme confirmé, aucun contact marqué comme effectué, aucun doublon détecté. Les coordonnées anciennes ou ambiguës doivent être revalidées avant toute démarche.
+## Revalidation ciblée de quatre pistes — 23 novembre 2026
+
+Quatre entreprises déjà présentes dans la base ont été revérifiées sur leurs pages officielles. Cette mise à jour confirme les coordonnées et les activités publiées ; elle ne confirme aucun besoin de tableur.
+
+| Région | Entreprise | Coordonnées publiées revérifiées | Sources officielles et constat |
+|---|---|---|---|
+| Guadeloupe (DROM) | AÏDIYO | contact@aidiyo.fr · 06 90 59 98 04 | [Mentions légales](https://aidiyo.fr/mentions-legales/) et [Contact](https://aidiyo.fr/contact/) : adresse et coordonnées toujours publiées. Le site décrit des contrats d'entretien préventif pour professionnels et des services de piscine. |
+| Normandie | E.T.C Normandie | 02 49 88 42 33 ; aucun e-mail direct relevé | [Contact](https://www.etc-normandie.com/contact.php) et [Maintenance](https://www.etc-normandie.com/maintenance.php) : téléphone, adresse et prestations d'entretien de chaudières / pompes à chaleur confirmés. |
+| Occitanie | Occitanie Sports Loisirs (OSL) | infos@occitanie-sl.com · 05 32 02 68 78 | [Page Contact](https://www.occitanie-sl.fr/i/contact) : coordonnées et adresse à Saint-Orens-de-Gameville toujours publiées ; rénovation et maintenance d'équipements sportifs et de loisirs décrites. |
+| Provence-Alpes-Côte d’Azur | Winovatio | contact@winovatio.fr · 04 88 60 54 94 ; dg@winovatio.com également publié dans les mentions légales | [Accueil](https://winovatio.fr/) et [Mentions légales](https://winovatio.fr/mentions-legales) : les deux adresses e-mail ont des emplacements officiels distincts ; le téléphone est publié sur les deux pages. Le site décrit la maintenance préventive d'aires de jeux et d'équipements sportifs. |
+
+Aucun formulaire n'a été soumis et aucun message n'a été envoyé. Les besoins restent inconnus ; les activités publiées servent uniquement à préparer une éventuelle question de qualification. Ne pas présumer que ces structures souhaitent un tableur.
+
+**Contrôle de la base au 23/11/2026 :** 38 entreprises distinctes, 18 territoires, 25 adresses e-mail professionnelles publiées, 36 téléphones publiés et une URL source par ligne. Aucun besoin marqué comme confirmé, aucun contact marqué comme effectué, aucun doublon détecté. Les coordonnées doivent être revérifiées avant toute démarche.
