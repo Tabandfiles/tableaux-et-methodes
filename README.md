@@ -6,7 +6,7 @@ Création à distance de tableaux de suivi sur mesure pour artisans, petites ent
 - **Contact :** tabsandmethod@gmail.com
 - **Dépôt :** https://github.com/Tabandfiles/tableaux-et-methodes
 
-## État du projet au 22 novembre 2026
+## État du projet au 23 novembre 2026
 
 Trois familles de prototypes ODS existent en démonstration fictive et en version vierge. Les six fichiers de travail sont conservés hors du dépôt public et regroupés dans l'archive locale `Tableaux_Methodes_Prototypes_21-11-2026.zip`. Le catalogue PDF informatif est publié dans `catalogue.pdf`.
 
@@ -77,6 +77,8 @@ Les dates de recherche vont du 05/11 au 22/11/2026. Quatre pistes supplémentair
 - [Contrôle de prospection du 22 novembre](controle-prospection-22-nov-2026.md)
 - [Contrôle du site du 22 novembre](controle-site-22-nov-2026.md)
 - [Contrôle de l'exemple Tableau simple du 22 novembre](controle-tableau-simple-22-nov-2026.md)
+- [Contrôle et publication de l'aperçu Tableau simple du 23 novembre](controle-exemple-public-23-nov-2026.md)
+- [Aperçu PDF du suivi des demandes](exemples/suivi-demandes-apercu.pdf)
 - [Suivi de prospection CSV](suivi-prospection.csv)
 - [Grille de qualification nationale](grille-qualification-prospects-nationale.md)
 
@@ -90,7 +92,7 @@ Les dates de recherche vont du 05/11 au 22/11/2026. Quatre pistes supplémentair
 - [Plan de développement](plan-de-developpement.md)
 - [Brouillons de mentions légales et confidentialité](brouillon-mentions-legales-confidentialite.md)
 
-Le 22/11/2026, un exemple local de l'offre « Tableau simple » a été créé en démonstration et en version vierge : suivi de demandes sur 50 lignes, listes de priorité/statut, filtres et guide. L'export PDF de démonstration fait deux pages (guide + aperçu). Les propriétés de validation ont été contrôlées via LibreOffice Calc ; le test visuel au clic, Excel et la personnalisation à partir d'un besoin réel restent à faire. Le pack est fourni séparément et n'est pas publié dans le dépôt ni sur le site.
+Le 22/11/2026, un exemple local de l'offre « Tableau simple » a été créé en démonstration et en version vierge : suivi de demandes sur 50 lignes, listes de priorité/statut, filtres et guide. Les propriétés de validation ont été inspectées via LibreOffice Calc ; le test visuel au clic, Excel et la personnalisation à partir d'un besoin réel restent à faire. Le pack ODS reste local et n'est pas publié. Le 23/11/2026, un aperçu PDF de présentation d'une page A4 paysage a été créé à partir des six lignes fictives du classeur puis publié dans `exemples/suivi-demandes-apercu.pdf`. Il montre les champs, listes, filtres et limites de l'offre ; il ne remplace pas le classeur ODS et ne constitue pas une validation interactive.
 
 ## Points bloquants
 
