@@ -3,9 +3,9 @@
 **Périmètre :** France métropolitaine et DROM.  
 **Usage :** préparer et trier des pistes, sans transformer une hypothèse en besoin confirmé.
 
-## État de la base au 16 novembre 2026
+## État de la base au 24 novembre 2026
 
-Le fichier `suivi-prospection.csv` contient 27 entreprises distinctes, 17 colonnes et 18 territoires (13 régions métropolitaines et 5 DROM). Chaque ligne possède une URL source. Aucun contact n'est marqué comme effectué et aucun besoin n'est marqué comme confirmé. Le contrôle du 16 novembre est structurel : il ne revalide pas individuellement les coordonnées de toutes les entreprises.
+Le fichier `suivi-prospection.csv` contient 40 entreprises distinctes dans 18 territoires (13 régions métropolitaines et 5 DROM), avec 17 colonnes, 27 e-mails professionnels publics et 38 téléphones publics. Chaque ligne possède une URL source. Aucun besoin n'est marqué comme confirmé et aucun contact n'est marqué comme effectué. Le contrôle du 24 novembre est structurel pour l'ensemble de la base ; les deux nouvelles pistes ajoutées ce jour ont été vérifiées individuellement sur leurs sites officiels.
 
 ## Champs à qualifier avant toute démarche
 
