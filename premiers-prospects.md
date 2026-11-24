@@ -305,3 +305,26 @@ Quatre entreprises déjà présentes dans la base ont été revérifiées sur le
 Aucun formulaire n'a été soumis et aucun message n'a été envoyé. Les besoins restent inconnus ; les activités publiées servent uniquement à préparer une éventuelle question de qualification. Ne pas présumer que ces structures souhaitent un tableur.
 
 **Contrôle de la base au 23/11/2026 :** 38 entreprises distinctes, 18 territoires, 25 adresses e-mail professionnelles publiées, 36 téléphones publiés et une URL source par ligne. Aucun besoin marqué comme confirmé, aucun contact marqué comme effectué, aucun doublon détecté. Les coordonnées doivent être revérifiées avant toute démarche.
+
+
+## Nouvelles pistes vérifiées sur sites officiels — 24 novembre 2026
+
+Deux entreprises supplémentaires ont été ajoutées après consultation de leurs pages officielles. Les coordonnées publiées sont des coordonnées professionnelles générales ; elles ne prouvent ni un besoin de tableur, ni une intention d'achat. Aucun contact n'a été effectué.
+
+| Région | Entreprise | Activité et localisation vérifiées | Contact professionnel publié | Source officielle | Réserve / qualification |
+|---|---|---|---|---|---|
+| Hauts-de-France | Liagre Plomberie | Artisan plombier-chauffagiste à Bondues, interventions sur la métropole lilloise ; plomberie, chauffage et entretien des installations | liagreplomberie@gmail.com · 06.29.58.52.87 | [Page Contact officielle](https://www.liagreplomberie.fr/contact) | Le site propose une réservation en ligne dédiée à l'entretien chaudière ; ne pas la détourner en canal commercial. Besoin de tableur inconnu. |
+| La Réunion (DROM) | S.M.T — Salazienne de Maintenances et Techniques | Salazie ; climatisation et froid professionnel, mise en service, diagnostic/dépannage et optimisation des régulations | assistances@smt-services.re · +262 262 150 899 | [Site officiel](https://www.smt-services.re/) | Activité technique spécialisée ; taille, organisation et outils métier inconnus. Piste secondaire, besoin de tableur non confirmé. |
+
+### Sources officielles consultées le 24/11/2026
+
+- Liagre Plomberie : https://www.liagreplomberie.fr/contact — e-mail, téléphone, Bondues, plomberie, chauffage et entretien des installations publiés sur la page officielle.
+- S.M.T — Salazienne de Maintenances et Techniques : https://www.smt-services.re/ — activité de climatisation/froid professionnel, clientèle professionnelle, e-mail, téléphone et adresse à Salazie publiés sur l'accueil officiel.
+
+### Garde-fous
+
+- Les deux lignes sont enregistrées avec « Besoin confirmé ? : Non - inconnu » et « Contact effectué ? : Non ».
+- Aucun message, appel ou formulaire n'a été envoyé ou soumis.
+- Les coordonnées doivent être revérifiées avant toute éventuelle démarche.
+- Pour Liagre Plomberie, le lien de réservation en ligne concerne l'entretien de chaudière ; il n'est pas traité comme un canal commercial pour Tableaux & Méthodes.
+- Pour S.M.T, l'activité spécialisée ne permet pas de présumer qu'un tableur simple serait adapté ou recherché.
