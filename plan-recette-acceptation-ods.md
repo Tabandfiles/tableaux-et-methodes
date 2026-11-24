@@ -72,3 +72,32 @@ Un produit ne pourra être déclaré prêt à la livraison qu'après :
 5. décision explicite sur la compatibilité Excel (ne pas l'annoncer sans essai dédié).
 
 **État au 17/11/2026 :** cette recette manuelle n'a pas encore été exécutée. Les recalculs en mode sans interface et les contrôles structurels sont consignés dans [le rapport de contrôle du 17 novembre](controle-prototypes-17-nov-2026.md).
+
+
+## Tableau simple — suivi de demandes (plan ajouté le 24/11/2026)
+
+Ce plan complète la recette des trois prototypes automatisés. Il décrit les essais à effectuer sur une copie de la démonstration et sur une copie vierge. **Les tests ci-dessous ne sont pas déclarés exécutés.**
+
+| ID | Manipulation | Résultat attendu |
+|---|---|---|
+| TS-01 | Ouvrir le fichier ODS, l'enregistrer sous un nouveau nom, fermer puis rouvrir | Le classeur s'ouvre sans réparation ni perte de mise en page |
+| TS-02 | Cliquer sur une cellule Priorité | La liste propose uniquement les valeurs documentées dans le guide |
+| TS-03 | Cliquer sur une cellule Statut | La liste propose uniquement les statuts documentés dans le guide |
+| TS-04 | Saisir une valeur hors liste dans Priorité et Statut | Le comportement réel de validation est constaté et noté ; ne pas annoncer un blocage si la saisie est seulement signalée |
+| TS-05 | Activer un filtre sur Statut puis sur Priorité | Les lignes attendues sont affichées sans désolidariser les données |
+| TS-06 | Trier par date cible ou priorité | Les informations de chaque demande restent sur la même ligne |
+| TS-07 | Copier-coller une ligne existante dans une autre ligne prévue | Les validations, formats et éventuelles formules restent cohérents |
+| TS-08 | Compléter la dernière ligne prévue (50e demande) | Les validations et le format restent présents jusqu'à la dernière ligne |
+| TS-09 | Ouvrir la version vierge | Aucune donnée de démonstration ne subsiste ; le guide et les listes sont présents |
+| TS-10 | Exporter la démonstration et la version vierge en PDF | Les titres et colonnes utiles restent lisibles, sans page blanche ni colonne essentielle coupée |
+
+### Critères de sortie propres au Tableau simple
+
+- Tous les tests critiques TS-01 à TS-09 réussissent dans LibreOffice Calc.
+- Les éventuels échecs sont corrigés ou explicitement documentés.
+- Le PDF est relu visuellement après export depuis Calc.
+- Une personne extérieure au projet réalise un scénario d'utilisation simple.
+- La version et le système de LibreOffice sont consignés.
+- Excel reste non certifié tant qu'un essai dédié n'a pas été effectué.
+
+**État au 24/11/2026 :** plan ajouté au dépôt ; aucune recette graphique au clic ni aucun test utilisateur extérieur n'est attesté dans ce rapport.
