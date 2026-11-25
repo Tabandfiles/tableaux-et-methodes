@@ -6,9 +6,11 @@ Création à distance de tableaux de suivi sur mesure pour artisans, petites ent
 - **Contact :** tabsandmethod@gmail.com
 - **Dépôt :** https://github.com/Tabandfiles/tableaux-et-methodes
 
-## État du projet au 24 novembre 2026
+## État du projet au 25 novembre 2026
 
-Trois familles de prototypes ODS existent en démonstration fictive et en version vierge. Les six fichiers de travail sont conservés hors du dépôt public et regroupés dans l'archive locale `Tableaux_Methodes_Prototypes_21-11-2026.zip`. Le catalogue PDF informatif est publié dans `catalogue.pdf`.
+Le 25/11/2026, le Tableau simple a été porté en v1.1 après découverte d'une zone d'impression trop courte dans la version vierge : elle s'arrêtait à A1:I24 et n'imprimait que 20 lignes. La zone a été étendue à A1:I54 ; le nouvel export PDF montre les 50 lignes prévues sur deux pages de tableau. Le pack de contrôle v1.1 reste local au projet et n'est pas publié en téléchargement public. Les essais interactifs au clic, le test utilisateur extérieur, Excel et l'impression physique restent à réaliser.
+
+Trois familles de prototypes ODS existent en démonstration fictive et en version vierge. Les six fichiers de travail sont conservés hors du dépôt public et regroupés dans l'archive locale `Tableaux_Methodes_Prototypes_21-11-2026.zip`. Le catalogue PDF informatif, actualisé le 25/11/2026 avec un tableau de disponibilité explicite, est publié dans `catalogue.pdf`.
 
 | Produit | Version | Feuilles | Formules par fichier | Validations | Filtres | Capacité de conception |
 |---|---:|---:|---:|---:|---:|---|
@@ -61,7 +63,7 @@ Les tarifs ci-dessous sont des prix de lancement affichés pour un besoin simple
 | Tableau de bord | Dès 40 € |
 | Besoin spécifique | Sur devis |
 
-Le suivi de stock, le registre d'interventions et le suivi de maintenance sont présentés comme prototypes en préparation et non disponibles à la livraison tant que les contrôles restants ne sont pas terminés.
+Le suivi de stock, le registre d'interventions et le suivi de maintenance sont présentés comme prototypes en préparation et non disponibles à la livraison tant que les contrôles restants ne sont pas terminés. Les montants correspondants sont indicatifs et ne signifient pas que ces produits sont commandables.
 
 ## Prospection nationale
 
@@ -79,6 +81,8 @@ Les dates de recherche vont du 05/11 au 23/11/2026. Quatre pistes supplémentair
 - [Contrôle de l'exemple Tableau simple du 22 novembre](controle-tableau-simple-22-nov-2026.md)
 - [Contrôle de prospection du 24 novembre](controle-prospection-24-nov-2026.md)
 - [Contrôle partiel du Tableau simple du 24 novembre](controle-tableau-simple-24-nov-2026.md)
+- [Correction de la zone d'impression du Tableau simple v1.1 — 25 novembre](controle-tableau-simple-25-nov-2026.md)
+- [Contrôle de clarté du site public — 25 novembre](controle-site-25-nov-2026.md)
 - [Plan de recette du Tableau simple](plan-recette-acceptation-ods.md)
 - [Contrôle du site du 24 novembre](controle-site-24-nov-2026.md)
 - [Contrôle et publication de l'aperçu Tableau simple du 23 novembre](controle-exemple-public-23-nov-2026.md)
@@ -113,3 +117,6 @@ Le 22/11/2026, un exemple local de l'offre « Tableau simple » a été créé e
 - Aucun engagement juridique pris.
 - Les exemples de tableurs sont fictifs.
 - Aucun besoin de prospect n'est présenté comme confirmé sans preuve.
+
+
+Le 25/11/2026, la recette PDF du Tableau simple a révélé que la version vierge n'imprimait que 20 des 50 lignes prévues. La plage d'impression a été corrigée sur une copie en A1:I54 ; les deux exports ont été régénérés. Le PDF vierge comporte toujours trois pages au total : une page de guide puis deux pages de tableau, chacune présentant 25 lignes. Les deux ODS conservent 100 cellules validées, deux règles de validation et une plage de filtre déclarée. Les interactions à la souris et les autres essais listés dans le plan de recette restent non exécutés. Voir le [rapport du 25 novembre](controle-tableau-simple-25-nov-2026.md).
