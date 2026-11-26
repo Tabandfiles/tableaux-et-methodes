@@ -328,3 +328,23 @@ Deux entreprises supplémentaires ont été ajoutées après consultation de leu
 - Les coordonnées doivent être revérifiées avant toute éventuelle démarche.
 - Pour Liagre Plomberie, le lien de réservation en ligne concerne l'entretien de chaudière ; il n'est pas traité comme un canal commercial pour Tableaux & Méthodes.
 - Pour S.M.T, l'activité spécialisée ne permet pas de présumer qu'un tableur simple serait adapté ou recherché.
+
+
+## Nouvelles pistes vérifiées sur sites officiels — 26 novembre 2026
+
+Deux entreprises supplémentaires ont été ajoutées après lecture de leurs pages officielles. Les coordonnées ci-dessous sont des coordonnées professionnelles publiées par les entreprises elles-mêmes. Elles ne prouvent pas un besoin de tableur.
+
+| Région | Entreprise | Activité et localisation publiées | Coordonnées professionnelles publiées | Sources officielles | Réserve de qualification |
+|---|---|---|---|---|---|
+| Bretagne | Le Breton - Basselot | Pleumeleuc (Ille-et-Vilaine) ; interventions auprès de bâtiments tertiaires et commerciaux, espaces sportifs et culturels et établissements de santé ; plomberie, chauffage, ventilation, climatisation et électricité | contact@basselot.fr · 02 99 07 17 00 | [Page Professionnel](https://www.basselot.fr/pages/professionnel) · [Page Contact](https://www.basselot.fr/pages/contact.html) | Activités et coordonnées publiées. Taille, outils de suivi et interlocuteur approprié non établis ; aucun besoin de tableur exprimé. |
+| Centre-Val de Loire | CPC Services | Monts (Indre-et-Loire) ; plomberie, chauffage et climatisation, installation, dépannage, rénovation et entretien | contact@cpc-services-37.com · 02 47 96 70 30 · 06 16 15 13 87 | [Page Contact officielle](https://www.cpc-services-37.com/contact/) | Coordonnées et services publiés. Taille, outils de suivi et organisation interne inconnus ; aucun besoin de tableur exprimé. |
+
+### Vérifications et garde-fous — 26/11/2026
+
+- Les deux entreprises étaient absentes de la base avant ajout ; aucun doublon de nom n'a été détecté.
+- Les coordonnées ont été relevées sur les pages officielles des entreprises, pas sur un annuaire tiers.
+- Les deux lignes portent « Besoin confirmé ? : Non - inconnu » et « Contact effectué ? : Non ».
+- Aucun e-mail n'a été envoyé, aucun appel passé et aucun formulaire soumis.
+- Les activités publiées servent uniquement à préparer une éventuelle qualification ; elles ne permettent pas de conclure qu'un tableur est recherché.
+- Revérifier les pages officielles, le rôle de l'interlocuteur et le canal approprié avant toute démarche.
+
