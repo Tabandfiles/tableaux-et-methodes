@@ -84,6 +84,7 @@ Les dates de recherche vont du 05/11 au 26/11/2026. Quatre pistes supplémentair
 - [Correction de la zone d'impression du Tableau simple v1.1 — 25 novembre](controle-tableau-simple-25-nov-2026.md)
 - [Contrôle de clarté du site public — 25 novembre](controle-site-25-nov-2026.md)
 - [Contrôle de prospection du 26 novembre](controle-prospection-26-nov-2026.md)
+- [Contrôle du site public du 26 novembre](controle-site-26-nov-2026.md)
 - [Guide de recette externe du Tableau simple](guide-recette-externe-tableau-simple.md)
 - [Plan de recette du Tableau simple](plan-recette-acceptation-ods.md)
 - [Contrôle du site du 24 novembre](controle-site-24-nov-2026.md)
