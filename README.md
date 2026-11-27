@@ -126,3 +126,8 @@ Le 25/11/2026, la recette PDF du Tableau simple a révélé que la version vierg
 
 
 Le 27/11/2026, SANCYTI (La Chevrolière, Pays de la Loire) a été ajouté après consultation de sa page Contact et de son site officiels : contact@sancyti.fr et 06 37 40 33 51 sont publiés ; l'activité de plomberie, chauffage, climatisation et ventilation ainsi que la clientèle de particuliers et professionnels sont décrites. Le besoin de tableur, la taille, les outils internes et le rôle du destinataire restent inconnus. La base atteint 43 entreprises, 30 e-mails publics et 41 téléphones publics ; aucun besoin n'est confirmé et aucun contact n'a été effectué. Voir le [rapport du 27 novembre](controle-projet-27-nov-2026.md).
+
+
+Le 27/11/2026, le pack de travail Tableau simple v1.1 (archive locale du 25/11, non publiée dans le dépôt) a été contrôlé à nouveau sans modification des originaux : intégrité ZIP valide, deux fichiers ODS ouvrables et convertibles en PDF avec LibreOffice en mode sans interface, trois feuilles (Guide, Suivi, Listes) par fichier, deux définitions de validation et 100 références de cellules validées par fichier. Les plages d'impression observées sont Guide A1:F12 et Suivi A1:I12 pour la démonstration, Guide A1:F12 et Suivi A1:I54 pour le vierge. Les exports obtenus comportent respectivement 2 et 3 pages A4. Ces contrôles structurels et de conversion ne remplacent pas les tests interactifs au clic, les saisies interdites, le test utilisateur extérieur, Excel ou l'impression physique.
+
+- [Contrôle du projet et de la prospection du 27 novembre](controle-projet-27-nov-2026.md)
