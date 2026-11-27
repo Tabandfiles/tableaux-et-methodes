@@ -1,6 +1,6 @@
 # Prospection nationale — Tableaux & Méthodes
 
-**Dossier actualisé : 22 novembre 2026. 38 pistes recensées dans les 13 régions métropolitaines et les 5 DROM.** Les vérifications individuelles sont datées dans chaque section : les informations anciennes doivent être revalidées avant toute prise de contact. La présence d'une coordonnée publique ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé.
+**Dossier actualisé : 27 novembre 2026. 43 entreprises recensées dans les 13 régions métropolitaines et les 5 DROM.** Base CSV : 43 entreprises distinctes dans 18 territoires, 30 e-mails professionnels publics et 41 entreprises disposant d'un téléphone public. Les vérifications individuelles sont datées dans chaque section ; les informations anciennes doivent être revalidées avant toute prise de contact. Une coordonnée publique ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé. Les vérifications individuelles sont datées dans chaque section : les informations anciennes doivent être revalidées avant toute prise de contact. La présence d'une coordonnée publique ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé.
 
 ## Prospects dont l'activité et au moins un moyen de contact sont confirmés
 
@@ -348,3 +348,20 @@ Deux entreprises supplémentaires ont été ajoutées après lecture de leurs pa
 - Les activités publiées servent uniquement à préparer une éventuelle qualification ; elles ne permettent pas de conclure qu'un tableur est recherché.
 - Revérifier les pages officielles, le rôle de l'interlocuteur et le canal approprié avant toute démarche.
 
+
+
+## Nouvelle piste vérifiée sur le site officiel — 27 novembre 2026
+
+Une entreprise supplémentaire a été ajoutée après consultation de son site et de sa page Contact. Les coordonnées sont des coordonnées professionnelles publiées par l'entreprise ; elles ne prouvent aucun besoin de tableur. Aucun contact n'a été effectué.
+
+| Région | Entreprise | Activité et localisation publiées | Coordonnées professionnelles publiées | Sources officielles | Réserve de qualification |
+|---|---|---|---|---|---|
+| Pays de la Loire | SANCYTI | La Chevrolière (Loire-Atlantique) ; plomberie, chauffage, climatisation, ventilation et rénovation énergétique ; le site indique une clientèle de particuliers et de professionnels dans le Sud-Loire et le nord de la Vendée | contact@sancyti.fr · 06 37 40 33 51 | [Page Contact officielle](https://sancyti.fr/contact/) · [Site officiel](https://sancyti.fr/) | La page Contact affiche des horaires du lundi au vendredi, 8h–18h. La taille, l'organisation interne, les outils de suivi et le rôle du destinataire restent inconnus ; aucun besoin de tableur exprimé. |
+
+### Vérifications et garde-fous — 27/11/2026
+
+- La page Contact officielle publie l'e-mail, le téléphone, les horaires et la localisation à La Chevrolière.
+- L'accueil officiel décrit les prestations et mentionne une clientèle de particuliers et de professionnels.
+- La ligne est enregistrée avec « Besoin confirmé ? : Non - inconnu » et « Contact effectué ? : Non ».
+- Aucun message n'a été envoyé, aucun appel passé et aucun formulaire soumis.
+- Revalider la page officielle, le rôle de l'interlocuteur et le canal approprié avant toute éventuelle démarche.
