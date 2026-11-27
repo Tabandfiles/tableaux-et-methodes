@@ -1,8 +1,8 @@
 # Prospection nationale — Tableaux & Méthodes
 
-**Dossier actualisé : 27 novembre 2026. 43 entreprises recensées dans les 13 régions métropolitaines et les 5 DROM.** Base CSV : 43 entreprises distinctes dans 18 territoires, 30 e-mails professionnels publics et 41 entreprises disposant d'un téléphone public. Les vérifications individuelles sont datées dans chaque section ; les informations anciennes doivent être revalidées avant toute prise de contact. Une coordonnée publique ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé. Les vérifications individuelles sont datées dans chaque section : les informations anciennes doivent être revalidées avant toute prise de contact. La présence d'une coordonnée publique ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé.
+**Dossier actualisé : 27 novembre 2026. 43 entreprises recensées dans les 13 régions métropolitaines et les 5 DROM.** Base CSV : 43 entreprises distinctes dans 18 territoires, 30 e-mails professionnels publics et 41 entreprises disposant d'un téléphone public. Les vérifications individuelles sont datées dans chaque section ; les informations anciennes doivent être revalidées avant toute prise de contact. Une coordonnée publique ne confirme ni l'intérêt commercial, ni la taille de l'entreprise, ni l'adéquation réelle d'un tableur. Aucun message n'a été envoyé.
 
-## Prospects dont l'activité et au moins un moyen de contact sont confirmés
+## Entreprises recensées — activité publiée et canal professionnel documenté
 
 | Région | Entreprise | Activité vérifiée | Contact professionnel public | Vérification / angle possible |
 |---|---|---|---|---|
