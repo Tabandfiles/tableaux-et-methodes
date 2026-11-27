@@ -56,3 +56,25 @@ Après ajout : **43 entreprises distinctes**, 18 territoires, 30 e-mails publics
 **Prochaine priorité :** obtenir une recette interactive du Tableau simple dans LibreOffice Calc (listes, refus des valeurs non autorisées, filtres, tri et copier-coller), puis faire exécuter le guide par un testeur extérieur. En parallèle, continuer à qualifier la base nationale sans présumer des besoins.
 
 Aucun e-mail commercial envoyé, aucun appel passé, aucun formulaire soumis, aucune dépense engagée et aucun engagement juridique pris.
+
+
+## Vérification complémentaire du pack Tableau simple v1.1
+
+L'archive de travail locale `Tableaux_Methodes_Tableau_Simple_v1_1_25-11-2026.zip` a été ouverte sans modification des originaux. Résultats observés le 27/11/2026 :
+
+- Intégrité de l'archive ZIP : OK.
+- Deux fichiers ODS présents : démonstration et vierge.
+- Chaque ODS contient les feuilles Guide, Suivi et Listes.
+- Deux définitions de validation (Priorité et Statut) et 100 références de cellules à validation par fichier.
+- Plages d'impression : Guide A1:F12 et Suivi A1:I12 pour la démonstration ; Guide A1:F12 et Suivi A1:I54 pour le fichier vierge.
+- Conversion LibreOffice en mode sans interface vers PDF : 2 pages A4 pour la démonstration et 3 pages A4 pour le fichier vierge.
+
+Ces vérifications confirment l'intégrité, l'ouverture et la conversion des fichiers dans l'environnement testé. Elles ne prouvent pas le comportement des menus déroulants au clic ni le refus des valeurs interdites. Les filtres, le tri, le copier-coller manuel, le test par une personne extérieure, Excel et l'impression physique restent à tester.
+
+## Commits de mise à jour
+
+- [Ajout de SANCYTI au CSV](https://github.com/Tabandfiles/tableaux-et-methodes/commit/083463136be0f446ad1e6cee79514fd6761136a3)
+- [Actualisation du dossier national](https://github.com/Tabandfiles/tableaux-et-methodes/commit/917c6f883f4789a0c129159cae2d9f23b186ae02)
+- [Mise à jour de la grille de qualification](https://github.com/Tabandfiles/tableaux-et-methodes/commit/62950fb6948a3eb18bc7dbf59f7211cc81d60736)
+- [Actualisation du README](https://github.com/Tabandfiles/tableaux-et-methodes/commit/882332d2c960abc826ba0b4488350256a3aaf5a0)
+- [Création du présent rapport](https://github.com/Tabandfiles/tableaux-et-methodes/commit/738b5aea0e9cdf58e56fb9d0b5ae1d65adaa0c4a)
